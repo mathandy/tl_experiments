@@ -55,51 +55,51 @@ def create_model_using_tinycnn(n_classes, input_shape, input_tensor=None):
     return model
 
 
-# def create_pretrained_model_old(n_classes, input_shape, input_tensor=None,
-#                                 backbone='inceptionv3'):
-#
-#     # get the (headless) backbone
-#     if backbone == 'resnet50':
-#         pretrained_backbone = applications.resnet50.ResNet50
-#     elif backbone == 'vgg19':
-#         pretrained_backbone = applications.vgg19.VGG19
-#     elif backbone == 'inceptionv3':
-#         pretrained_backbone = applications.inception_v3.InceptionV3
-#     else:
-#         raise ValueError('`model_name = "%s"` not understood.' % backbone)
-#     backbone_model = pretrained_backbone(include_top=False,
-#                                          weights='imagenet',
-#                                          input_tensor=input_tensor,
-#                                          input_shape=input_shape,
-#                                          pooling=None)  # applies only to output
-#
-#     # Freeze all but last ??? layers
-#     for layer in backbone_model.layers:
-#         layer.trainable = False
-#
-#     # Adding custom Layers
-#     x = backbone_model.output
-#     x = Flatten()(x)
-#     # x = Dense(1024, activation="relu")(x)
-#     # x = Dropout(0.5)(x)
-#     # x = Dense(1024, activation="relu")(x)
-#     predictions = Dense(n_classes, activation="softmax")(x)
-#
-#     # creating the final model
-#     if input_tensor is None:
-#         model = Model(inputs=backbone_model.input, outputs=predictions)
-#     else:
-#         model = Model(inputs=input_tensor, outputs=predictions)
-#
-#     # compile the model
-#     model.compile(loss="categorical_crossentropy",
-#                   optimizer='adam',
-#                   metrics=['accuracy', top_2_error, top_3_error])
-#     return model
+def create_pretrained_model_old(n_classes, input_shape, input_tensor=None,
+                            base='inceptionv3', base_weights='imagenet'):
+
+    # get the (headless) backbone
+    if base == 'resnet50':
+        pretrained_backbone = applications.resnet50.ResNet50
+    elif base == 'vgg19':
+        pretrained_backbone = applications.vgg19.VGG19
+    elif base == 'inceptionv3':
+        pretrained_backbone = applications.inception_v3.InceptionV3
+    else:
+        raise ValueError('`model_name = "%s"` not understood.' % base)
+    backbone_model = pretrained_backbone(include_top=False,
+                                         weights=base_weights,
+                                         input_tensor=input_tensor,
+                                         input_shape=input_shape,
+                                         pooling=None)  # applies only to output
+
+    # Freeze all but last ??? layers
+    for layer in backbone_model.layers:
+        layer.trainable = False
+
+    # Adding custom Layers
+    x = backbone_model.output
+    x = Flatten()(x)
+    # x = Dense(1024, activation="relu")(x)
+    # x = Dropout(0.5)(x)
+    # x = Dense(1024, activation="relu")(x)
+    predictions = Dense(n_classes, activation="softmax")(x)
+
+    # creating the final model
+    if input_tensor is None:
+        model = Model(inputs=backbone_model.input, outputs=predictions)
+    else:
+        model = Model(inputs=input_tensor, outputs=predictions)
+
+    # compile the model
+    model.compile(loss="categorical_crossentropy",
+                  optimizer='adam',
+                  metrics=['accuracy', top_2_error, top_3_error])
+    return model
 
 
 def create_pretrained_model(n_classes, input_shape, input_tensor=None,
-                            base='inceptionv3', weights='imagenet'):
+                             base='inceptionv3', base_weights='imagenet'):
 
     # get the (headless) backbone
     if base == 'resnet50':
@@ -111,14 +111,13 @@ def create_pretrained_model(n_classes, input_shape, input_tensor=None,
     else:
         raise ValueError('`base = "%s"` not understood.' % base)
     base_model = base_model_getter(include_top=False,
-                                   weights=weights,
+                                   weights=base_weights,
                                    input_tensor=input_tensor,
                                    input_shape=input_shape,
                                    pooling='avg')
 
-    # put the top back on the model
-    # note: pooling layer is already included
-    x = base_model.outputs
+    # put the top back on the model (pooling layer is already included)
+    x = base_model.output
     x = Dense(1024, activation='relu')(x)
     predictions = Dense(n_classes, activation="softmax")(x)
 
@@ -218,7 +217,7 @@ def main(dataset_dir, base, model_weights, img_shape, testpart, valpart,
         model = create_pretrained_model(n_classes=len(class_names),
                                         input_shape=img_shape,
                                         input_tensor=None,
-                                        base=base, weights=base_weights)
+                                        base=base, base_weights=base_weights)
     if model_weights is not None:
         model.load_weights(model_weights)
 
