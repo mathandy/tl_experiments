@@ -55,47 +55,47 @@ def create_model_using_tinycnn(n_classes, input_shape, input_tensor=None):
     return model
 
 
-def create_pretrained_model_old(n_classes, input_shape, input_tensor=None,
-                            base='inceptionv3', base_weights='imagenet'):
-
-    # get the (headless) backbone
-    if base == 'resnet50':
-        pretrained_backbone = applications.resnet50.ResNet50
-    elif base == 'vgg19':
-        pretrained_backbone = applications.vgg19.VGG19
-    elif base == 'inceptionv3':
-        pretrained_backbone = applications.inception_v3.InceptionV3
-    else:
-        raise ValueError('`model_name = "%s"` not understood.' % base)
-    backbone_model = pretrained_backbone(include_top=False,
-                                         weights=base_weights,
-                                         input_tensor=input_tensor,
-                                         input_shape=input_shape,
-                                         pooling=None)  # applies only to output
-
-    # Freeze all but last ??? layers
-    for layer in backbone_model.layers:
-        layer.trainable = False
-
-    # Adding custom Layers
-    x = backbone_model.output
-    x = Flatten()(x)
-    # x = Dense(1024, activation="relu")(x)
-    # x = Dropout(0.5)(x)
-    # x = Dense(1024, activation="relu")(x)
-    predictions = Dense(n_classes, activation="softmax")(x)
-
-    # creating the final model
-    if input_tensor is None:
-        model = Model(inputs=backbone_model.input, outputs=predictions)
-    else:
-        model = Model(inputs=input_tensor, outputs=predictions)
-
-    # compile the model
-    model.compile(loss="categorical_crossentropy",
-                  optimizer='adam',
-                  metrics=['accuracy', top_2_error, top_3_error])
-    return model
+# def create_pretrained_model_old(n_classes, input_shape, input_tensor=None,
+#                             base='inceptionv3', base_weights='imagenet'):
+#
+#     # get the (headless) backbone
+#     if base == 'resnet50':
+#         pretrained_backbone = applications.resnet50.ResNet50
+#     elif base == 'vgg19':
+#         pretrained_backbone = applications.vgg19.VGG19
+#     elif base == 'inceptionv3':
+#         pretrained_backbone = applications.inception_v3.InceptionV3
+#     else:
+#         raise ValueError('`model_name = "%s"` not understood.' % base)
+#     backbone_model = pretrained_backbone(include_top=False,
+#                                          weights=base_weights,
+#                                          input_tensor=input_tensor,
+#                                          input_shape=input_shape,
+#                                          pooling=None)  # applies only to output
+#
+#     # Freeze all but last ??? layers
+#     for layer in backbone_model.layers:
+#         layer.trainable = False
+#
+#     # Adding custom Layers
+#     x = backbone_model.output
+#     x = Flatten()(x)
+#     # x = Dense(1024, activation="relu")(x)
+#     # x = Dropout(0.5)(x)
+#     # x = Dense(1024, activation="relu")(x)
+#     predictions = Dense(n_classes, activation="softmax")(x)
+#
+#     # creating the final model
+#     if input_tensor is None:
+#         model = Model(inputs=backbone_model.input, outputs=predictions)
+#     else:
+#         model = Model(inputs=input_tensor, outputs=predictions)
+#
+#     # compile the model
+#     model.compile(loss="categorical_crossentropy",
+#                   optimizer='adam',
+#                   metrics=['accuracy', top_2_error, top_3_error])
+#     return model
 
 
 def create_pretrained_model(n_classes, input_shape, input_tensor=None,
@@ -118,6 +118,7 @@ def create_pretrained_model(n_classes, input_shape, input_tensor=None,
 
     # put the top back on the model (pooling layer is already included)
     x = base_model.output
+    # x = GlobalAveragePooling2D()(x)
     x = Dense(1024, activation='relu')(x)
     predictions = Dense(n_classes, activation="softmax")(x)
 
@@ -134,13 +135,15 @@ def create_pretrained_model(n_classes, input_shape, input_tensor=None,
 
 def main(dataset_dir, base, model_weights, img_shape, testpart, valpart,
          batch_size, epochs, samples_per_class, npy_data=False,
-         cifar10=False, top_only_stage=False, augment=True):
+         cifar10=False, top_only_stage=False, augment=True,
+         checkpoint_path='checkpoint.h5'):
 
     # warn if arguments conflict
     if augment and (npy_data or cifar10):
         from warnings import warn
-        warn("To use augmentation, `dataset_dir` must be a split image "
-             "dataset.")
+        warn("\n\nTo use augmentation, `dataset_dir` must be a directory of "
+             "images.  To not get this warning, use to --no_augmentation "
+             "flag.\n\n")
 
     # load data
     if cifar10:
@@ -172,29 +175,30 @@ def main(dataset_dir, base, model_weights, img_shape, testpart, valpart,
         print('x_test.shape:', x_test.shape)
         print('y_test.shape:', y_test.shape)
     else:
-        class_names = [f for f in os.listdir(os.path.join(dataset_dir, 'train'))
-                       if os.path.isdir(f)]
         if augment:
-            train_datagen = ImageDataGenerator(rescale=1./255,
-                                               shear_range=0.2,
-                                               zoom_range=0.2,
-                                               horizontal_flip=True)
+            train_datagen = ImageDataGenerator(
+                rescale=1./255, shear_range=0.2, zoom_range=0.2,
+                horizontal_flip=True)
         else:
             train_datagen = ImageDataGenerator(rescale=1./255)
+
         test_datagen = ImageDataGenerator(rescale=1./255)
         train_generator = train_datagen.flow_from_directory(
-            dataset_dir + '/train',
+            os.path.join(dataset_dir, 'train'),
             target_size=img_shape[:2],
             batch_size=batch_size,
-            class_mode='categorical')
+            class_mode='categorical',
+            interpolation="lanczos")
         validation_generator = test_datagen.flow_from_directory(
-            dataset_dir + '/val',
+            os.path.join(dataset_dir, 'val'),
             target_size=img_shape[:2],
             batch_size=batch_size,
-            class_mode='categorical')
+            class_mode='categorical',
+            interpolation="lanczos")
+        class_names = [l for l in train_generator.class_indices]
 
     # create training callbacks for saving checkpoints and early stopping
-    checkpoint = ModelCheckpoint("%s-%s.h5" % (base, dataset_dir),
+    checkpoint = ModelCheckpoint(checkpoint_path,
                                  monitor='val_acc',
                                  verbose=1,
                                  save_best_only=True,
@@ -296,10 +300,10 @@ def main(dataset_dir, base, model_weights, img_shape, testpart, valpart,
         y_pred = model.predict(x_test, batch_size).argmax(axis=1)
         y_test = y_test.argmax(axis=1)
         print('Confusion Matrix')
-        cm = pd.DataFrame(confusion_matrix(y_test, y_pred), columns=len(class_names))
+        cm = pd.DataFrame(confusion_matrix(y_test, y_pred), columns=class_names)
         cm.index = class_names
         print('Classification Report')
-        print(classification_report(y_test, y_pred, target_names=len(class_names)))
+        print(classification_report(y_test, y_pred, target_names=class_names))
         # import ipdb; ipdb.set_trace()
     else:
         metrics = model.evaluate_generator(validation_generator)
@@ -357,6 +361,10 @@ if __name__ == '__main__':
     parser.add_argument(
         "--top_only_stage", default=False, action='store_true',
         help="Train for a few epochs on only the top of the model.")
+    parser.add_argument(
+        "--checkpoint_path", default=None,
+        help="Where to save the model weights.  Defaults (roughly speaking) "
+             "to '<base_model>-<dataset>.h5'.")
     args = parser.parse_args()
 
     _image_shape = (args.size, args.size, args.channels)
@@ -366,6 +374,13 @@ if __name__ == '__main__':
         _cifar10 = True
     else:
         _cifar10 = False
+
+    if args.checkpoint_path is None:
+        if _cifar10:
+            args.checkpoint_path = "%s-cifar10.h5" % args.base
+        else:
+            args.checkpoint_path = \
+                "%s-%s.h5" % (args.base, os.path.split(args.dataset_dir)[-1])
 
     main(dataset_dir=args.dataset_dir,
          base=args.base,
@@ -379,7 +394,8 @@ if __name__ == '__main__':
          npy_data=args.npy,
          cifar10=_cifar10,
          top_only_stage=args.top_only_stage,
-         augment=not args.no_augmentation)
+         augment=not args.no_augmentation,
+         checkpoint_path=args.checkpoint_path)
     from sys import argv
     # MODEL_WEIGHTS = argv[1]
     # DATASET = argv[2]
