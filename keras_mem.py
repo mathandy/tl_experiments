@@ -99,7 +99,7 @@ def create_model_using_tinycnn(n_classes, input_shape, input_tensor=None):
 
 
 def create_pretrained_model(n_classes, input_shape, input_tensor=None,
-                            base='inceptionv3'):
+                            base='inceptionv3', weights='imagenet'):
 
     # get the (headless) backbone
     if base == 'resnet50':
@@ -109,9 +109,9 @@ def create_pretrained_model(n_classes, input_shape, input_tensor=None,
     elif base == 'inceptionv3':
         base_model_getter = applications.inception_v3.InceptionV3
     else:
-        raise ValueError('`model_name = "%s"` not understood.' % base)
+        raise ValueError('`base = "%s"` not understood.' % base)
     base_model = base_model_getter(include_top=False,
-                                   weights='imagenet',
+                                   weights=weights,
                                    input_tensor=input_tensor,
                                    input_shape=input_shape,
                                    pooling='avg')
@@ -135,11 +135,15 @@ def create_pretrained_model(n_classes, input_shape, input_tensor=None,
 
 def main(dataset_dir, base, model_weights, img_shape, testpart, valpart,
          batch_size, epochs, samples_per_class, npy_data=False,
-         cifar10=False, output_only_stage=False, augment=True):
+         cifar10=False, top_only_stage=False, augment=True):
+
+    # warn if arguments conflict
     if augment and (npy_data or cifar10):
         from warnings import warn
         warn("To use augmentation, `dataset_dir` must be a split image "
              "dataset.")
+
+    # load data
     if cifar10:
         from keras.datasets import cifar10
         (x_train, y_train), (x_test, y_test) = cifar10.load_data()
@@ -168,49 +172,29 @@ def main(dataset_dir, base, model_weights, img_shape, testpart, valpart,
         print('y_val.shape:', y_val.shape)
         print('x_test.shape:', x_test.shape)
         print('y_test.shape:', y_test.shape)
-    elif augment:
-
-        if 'split' in dataset_dir:
+    else:
+        class_names = [f for f in os.listdir(os.path.join(dataset_dir, 'train'))
+                       if os.path.isdir(f)]
+        if augment:
             train_datagen = ImageDataGenerator(rescale=1./255,
                                                shear_range=0.2,
                                                zoom_range=0.2,
                                                horizontal_flip=True)
-            test_datagen = ImageDataGenerator(rescale=1./255)
-            train_generator = train_datagen.flow_from_directory(
-                dataset_dir + '/train',
-                    target_size=img_shape[:2],
-                    batch_size=batch_size,
-                    class_mode='categorical')
-            validation_generator = test_datagen.flow_from_directory(
-                dataset_dir + '/val',
-                    target_size=img_shape[:2],
-                    batch_size=batch_size,
-                    class_mode='categorical')
-    elif 'gimages' in dataset_dir:
-        img_shape = (299, 299, 3)  # (224, 224, 3)
-        samples_per_class = 90
-        batch_size = 32
-        with Timer('Loading data'):
-            x_train, y_train, x_val, y_val, x_test, y_test, CLASS_NAMES = \
-                load_split_data(npy_dir='gimages-NPYs',
-                                samples_per_class=samples_per_class,
-                                testpart=0,
-                                valpart=0.1,
-                                resize=img_shape,
-                                cast='float32',
-                                image_shape=img_shape,
-                                flat=False)
-        x_test, y_test = x_val, y_val
-        print('x_train.shape:', x_train.shape)
-        print('y_train.shape:', y_train.shape)
-        print('x_val.shape:', x_val.shape)
-        print('y_val.shape:', y_val.shape)
-        print('x_test = x_val')
-        print('y_test = y_val')
-    else:
-        raise Exception('`DATASET = "%s"` not understood.' % dataset_dir)
+        else:
+            train_datagen = ImageDataGenerator(rescale=1./255)
+        test_datagen = ImageDataGenerator(rescale=1./255)
+        train_generator = train_datagen.flow_from_directory(
+            dataset_dir + '/train',
+            target_size=img_shape[:2],
+            batch_size=batch_size,
+            class_mode='categorical')
+        validation_generator = test_datagen.flow_from_directory(
+            dataset_dir + '/val',
+            target_size=img_shape[:2],
+            batch_size=batch_size,
+            class_mode='categorical')
 
-    # Create training callbacks for saving checkpoints and early stopping
+    # create training callbacks for saving checkpoints and early stopping
     checkpoint = ModelCheckpoint("%s-%s.h5" % (base, dataset_dir),
                                  monitor='val_acc',
                                  verbose=1,
@@ -224,73 +208,22 @@ def main(dataset_dir, base, model_weights, img_shape, testpart, valpart,
                           verbose=1,
                           mode='auto')
 
-    # create model and train model
+    # compile model
     if base == 'tinycnn':
         model = create_model_using_tinycnn(n_classes=len(class_names),
                                            input_shape=img_shape,
                                            input_tensor=None)
-    elif base in ['resnet50', 'inceptionv3', 'vgg19']:
+    else:
+        base_weights = None if (model_weights == 'scratch') else 'imagenet'
         model = create_pretrained_model(n_classes=len(class_names),
                                         input_shape=img_shape,
                                         input_tensor=None,
-                                        base=base)
-    else:
-        raise Exception("`model_to_use = '%s'` not understood." % base)
-
+                                        base=base, weights=base_weights)
     if model_weights is not None:
         model.load_weights(model_weights)
 
-    if 'split' in dataset_dir:
-        if base == 'inceptionv3':
-            output_only_epochs = 3
-        else:
-            output_only_epochs = 0
-        # model = create_pretrained_model(n_classes=NUM_CLASSES,
-        #                                 input_shape=IMG_SHAPE,
-        #                                 input_tensor=None,
-        #                                 backbone=BACKBONE)
-
-        # stage 1 fine-tuning (dense 1024 + dense output only)
-        if output_only_stage:
-            model.fit_generator(train_generator,
-                                epochs=output_only_epochs,
-                                steps_per_epoch=100,
-                                verbose=1,
-                                callbacks=[checkpoint, early],
-                                validation_data=validation_generator,
-                                validation_steps=max(50 // batch_size, 1),
-                                class_weight=None,
-                                max_queue_size=10,
-                                workers=3,
-                                use_multiprocessing=True,
-                                shuffle=True,
-                                initial_epoch=0)
-
-        # stage 2 of fine-tuning
-        # (top two inception blocks + new dense & output)
-        if base == 'inceptionv3':
-            for layer in model.layers[:249]:
-               layer.trainable = False
-            for layer in model.layers[249:]:
-               layer.trainable = True
-            model.compile(optimizer=SGD(lr=0.0001, momentum=0.9),
-                          loss='categorical_crossentropy',
-                          metrics=['accuracy', top_2_error, top_3_error])
-            print("\nStage 2 training...\n")
-            model.fit_generator(train_generator,
-                                epochs=epochs - output_only_epochs,
-                                steps_per_epoch=100,
-                                verbose=1,
-                                callbacks=[checkpoint, early],
-                                validation_data=validation_generator,
-                                validation_steps=max(50 // batch_size, 1),
-                                class_weight=None,
-                                max_queue_size=10,
-                                workers=3,
-                                use_multiprocessing=True,
-                                shuffle=True,
-                                initial_epoch=output_only_epochs)
-    else:
+    # train model
+    if npy_data:
         model.fit(x=x_train,
                   y=y_train,
                   batch_size=batch_size,
@@ -304,11 +237,52 @@ def main(dataset_dir, base, model_weights, img_shape, testpart, valpart,
                   initial_epoch=0,
                   steps_per_epoch=None,
                   validation_steps=None)
-
-    if 'split' in dataset_dir:
-        model.evaluate_generator(validation_generator)
     else:
-        # score with test data
+        # stage 1 fine-tuning (top only)
+        if top_only_stage:
+            top_only_epochs = 3
+            model.fit_generator(train_generator,
+                                epochs=top_only_epochs,
+                                steps_per_epoch=100,
+                                verbose=1,
+                                callbacks=[checkpoint, early],
+                                validation_data=validation_generator,
+                                validation_steps=max(50 // batch_size, 1),
+                                class_weight=None,
+                                max_queue_size=10,
+                                workers=3,
+                                use_multiprocessing=True,
+                                shuffle=True,
+                                initial_epoch=0)
+        else:
+            top_only_epochs = 0
+
+        # stage 2 of fine-tuning (last two inception blocks top)
+        if base == 'inceptionv3':
+            for layer in model.layers[:249]:
+                layer.trainable = False
+            for layer in model.layers[249:]:
+                layer.trainable = True
+            model.compile(optimizer=SGD(lr=0.0001, momentum=0.9),
+                          loss='categorical_crossentropy',
+                          metrics=['accuracy', top_2_error, top_3_error])
+            print("\nStage 2 training...\n")
+            model.fit_generator(train_generator,
+                                epochs=epochs - top_only_epochs,
+                                steps_per_epoch=100,
+                                verbose=1,
+                                callbacks=[checkpoint, early],
+                                validation_data=validation_generator,
+                                validation_steps=max(50 // batch_size, 1),
+                                class_weight=None,
+                                max_queue_size=10,
+                                workers=3,
+                                use_multiprocessing=True,
+                                shuffle=True,
+                                initial_epoch=top_only_epochs)
+
+    # score over test data
+    if npy_data:
         print("Test Results:\n" + '='*13)
         res = model.evaluate(x=x_test,
                              y=y_test,
@@ -328,9 +302,85 @@ def main(dataset_dir, base, model_weights, img_shape, testpart, valpart,
         print('Classification Report')
         print(classification_report(y_test, y_pred, target_names=len(class_names)))
         # import ipdb; ipdb.set_trace()
+    else:
+        metrics = model.evaluate_generator(validation_generator)
+        print(metrics)
 
 
 if __name__ == '__main__':
+    # parse command line arguments
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "dataset_dir",
+        help="If --npy invoked, an (unsplit) directory of NPY files.  "
+             "Otherwise a split dataset of image files containing two "
+             "subdirectories, 'train' and 'test' each containing a "
+             "subdirectory for each class.  Use 'cifar10' to use the "
+             "cifar10 dataset.")
+    parser.add_argument(
+        "--no_augmentation", default=False, action='store_true',
+        help="Invoke to prevent augmentation.")
+    parser.add_argument(
+        "--base", default='inceptionv3',
+        help="Base model to use. Use 'tinycnn' to train a small CNN from "
+             "scratch.")
+    parser.add_argument(
+        "--npy", default=False, action='store_true',
+        help="`dataset_dir` is directory of NPY files.")
+    parser.add_argument(
+        '--model_weights', default=None,
+        help="Model weights (.h5) file to use start with. Omit this flag"
+             "to use weights pretrained ImageNet or 'scratch' to "
+             "train from scratch.")
+    parser.add_argument(
+        "--size", default=299, type=int,
+        help="Images will be resized to `size` x `size`.")
+    parser.add_argument(
+        "--channels", default=3, type=int,
+        help="Number of channels to assume images will have (usually 1 or 3).")
+    parser.add_argument(
+        "--batch_size", default=32, type=int,
+        help="Training and inference batch size.")
+    parser.add_argument(
+        "--epochs", default=50, type=int,
+        help="Training epochs.")
+    parser.add_argument(
+        "--samples_per_class", default=10**3, type=int,
+        help="Number of samples to include per class (ignored unless "
+             "--npy falg invoked).")
+    parser.add_argument(
+        "--testpart", default=0.1, type=float,
+        help="Fraction of data to use for test set.")
+    parser.add_argument(
+        "--valpart", default=0.1, type=float,
+        help="Fraction of data to use for validation.")
+    parser.add_argument(
+        "--top_only_stage", default=False, action='store_true',
+        help="Train for a few epochs on only the top of the model.")
+    args = parser.parse_args()
+
+    _image_shape = (args.size, args.size, args.channels)
+
+    if args.dataset_dir == 'cifar10':
+        args.dataset_dir = None
+        _cifar10 = True
+    else:
+        _cifar10 = False
+
+    main(dataset_dir=args.dataset_dir,
+         base=args.base,
+         model_weights=args.model_weights,
+         img_shape=_image_shape,
+         testpart=args.testpart,
+         valpart=args.valpart,
+         batch_size=args.batch_size,
+         epochs=args.epochs,
+         samples_per_class=args.samples_per_class,
+         npy_data=args.npy,
+         cifar10=_cifar10,
+         top_only_stage=args.top_only_stage,
+         augment=not args.no_augmentation)
     from sys import argv
     # MODEL_WEIGHTS = argv[1]
     # DATASET = argv[2]
