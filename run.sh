@@ -1,7 +1,7 @@
-bash get_gimages.sh
+# bash get_gimages.sh
 
-python keras_mem.py ./gimages-split --checkpoint_path gimage.h5 | tee results-gimages-split.txt
-python keras_mem.py ./gimages-gray-split --checkpoint_path gimage-gray.h5 | tee results-gimages-gray-split.txt
+python keras_mem.py ./gimages-split --checkpoint_path gimages.h5 | tee results-gimages-split.txt
+python keras_mem.py ./gimages-gray-split --checkpoint_path gimages-gray.h5 | tee results-gimages-gray-split.txt
 python keras_mem.py ./NPYs_first10 --npy | tee results-quickdraw.txt
 python keras_mem.py ./NPYs_first10 --npy --model_weights gimages.h5 | tee results-quickdraw-gimages.txt
 python keras_mem.py ./NPYs_first10 --npy --model_weights gimages-gray.h5 | tee results-quickdraw-gimages-gray.txt
