@@ -1,0 +1,2100 @@
+
+Item no.: 1 --> Item name = alarm clock
+Evaluating...
+Starting Download...
+Image URL: https://i5.walmartimages.com/asr/d3d8b574-a52e-40d0-9983-cad106ef899b_1.745d8e1c2faaee25f70cf4ba47603d59.jpeg
+Completed Image ====> 1. d3d8b574-a52e-40d0-9983-cad106ef899b_1.745d8e1c2faaee25f70cf4ba47603d59.jpeg
+Image URL: https://cdn.shopify.com/s/files/1/1496/0124/products/Twin_Bell_Alarm_Clock_in_Overcoat_Gray_2.jpg?v=1498256427
+Completed Image ====> 2. twin_bell_alarm_clock_in_overcoat_gray_2.jpg
+Image URL: https://target.scene7.com/is/image/Target/GUEST_ebf98cea-3390-4792-b4f6-84393ed2a62d?wid=488&hei=488&fmt=pjpeg
+Completed Image ====> 3. guest_ebf98cea-3390-4792-b4f6-84393ed2a62d?wid=488&hei=488&fmt=pjpeg.jpg
+Image URL: https://images-na.ssl-images-amazon.com/images/I/811YJjY1j4L._SL1500_.jpg
+Completed Image ====> 4. 811yjjy1j4l._sl1500_.jpg
+Image URL: https://pixfeeds.com/images/misc/elements/clock/1280-76285207.jpg
+Completed Image ====> 5. 1280-76285207.jpg
+Image URL: https://media.kohlsimg.com/is/image/kohls/2278340_Black?wid=1000&hei=1000&op_sharpen=1
+Completed Image ====> 6. 2278340_black?wid=1000&hei=1000&op_sharpen=1.jpg
+Image URL: https://target.scene7.com/is/image/Target/GUEST_d7163521-0a81-4343-8a2b-88b1e5f47ed2?wid=488&hei=488&fmt=pjpeg
+Completed Image ====> 7. guest_d7163521-0a81-4343-8a2b-88b1e5f47ed2?wid=488&hei=488&fmt=pjpeg.jpg
+Image URL: https://www.dollargeneral.com/media/catalog/product/cache/image/700x700/e9c3970ab036de70892d86c6d221abfe/1/2/12174001_1.jpg
+Completed Image ====> 8. 12174001_1.jpg
+Image URL: https://cb2.scene7.com/is/image/CB2/CharlieAlarmClockGoldROS17/?$web_product_hero$&161220145908&wid=625&hei=625
+Completed Image ====> 9. ?$web_product_hero$&161220145908&wid=625&hei=625.jpg
+Image URL: https://cdn5.vectorstock.com/i/1000x1000/20/29/cartoon-alarm-clock-vector-482029.jpg
+Completed Image ====> 10. cartoon-alarm-clock-vector-482029.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2010-07-20_Black_windup_alarm_clock_face.jpg/220px-2010-07-20_Black_windup_alarm_clock_face.jpg
+Completed Image ====> 11. 220px-2010-07-20_black_windup_alarm_clock_face.jpg
+Image URL: https://pixel.nymag.com/imgs/daily/strategist/2018/07/27/alarm-clocks/DreamSky-Dual-Alarm-Clock-With-Smart-Adjustable-Nightlight.w710.h473.2x.jpg
+Completed Image ====> 12. dreamsky-dual-alarm-clock-with-smart-adjustable-nightlight.w710.h473.2x.jpg
+Image URL: https://www.hiltontohome.com/images/products/lrg/hilton-lcd-alarm-clock-HIL-070_1_lrg.jpg
+Completed Image ====> 13. hilton-lcd-alarm-clock-hil-070_1_lrg.jpg
+Image URL: https://cdn3.i-scmp.com/sites/default/files/images/methode/2018/02/01/91b82ef2-ee03-11e7-8d3e-3515408466a8_972x_120828.jpg
+Completed Image ====> 14. 91b82ef2-ee03-11e7-8d3e-3515408466a8_972x_120828.jpg
+Image URL: http://stewartmovingandstorage.com/wp-content/uploads/2016/04/Alarm-clock-007.jpg
+Completed Image ====> 15. alarm-clock-007.jpg
+Image URL: https://cdn3.volusion.com/tnoys.cjerh/v/vspfiles/photos/0044-2.jpg?1521036890
+Completed Image ====> 16. 0044-2.jpg
+Image URL: https://media.tiffany.com/is/image/Tiffany/EcomItemL2/everyday-objectsnickel-twin-bell-alarm-clock-60558655_973939_ED.jpg?op_usm=3,1,6&defaultImage=NoImageAvailable&&
+Completed Image ====> 17. everyday-objectsnickel-twin-bell-alarm-clock-60558655_973939_ed.jpg
+Image URL: https://images-na.ssl-images-amazon.com/images/I/818kGmg0fFL._SL1500_.jpg
+Completed Image ====> 18. 818kgmg0ffl._sl1500_.jpg
+Image URL: https://www.punkt.ch/repoimg/catalogo/AC01/main/2067-image_popup-AC01-main-v2.jpg.jpg
+Completed Image ====> 19. 2067-image_popup-ac01-main-v2.jpg
+Image URL: https://st.hzcdn.com/simgs/c111e53906788a9b_4-0273/home-design.jpg
+Completed Image ====> 20. home-design.jpg
+Image URL: https://www.electrohome.com/media/catalog/product/cache/7/image/1800x/040ec09b1e35df139433887a97daa66f/1/-/1-cr35-hero-right-main_brand_jbapp.jpg
+Completed Image ====> 21. 1-cr35-hero-right-main_brand_jbapp.jpg
+Image URL: https://www.techspot.com/images2/downloads/topdownload/2014/12/alarmclock.png
+Completed Image ====> 22. alarmclock.png
+Image URL: https://www.maxiaids.com/Media/Thumbs/0001/0001249-jumbo-display-digital-alarm-clock-with-3-inch-led.jpg
+Completed Image ====> 23. 0001249-jumbo-display-digital-alarm-clock-with-3-inch-led.jpg
+Image URL: https://www.amara.com/static/uploads/images-2/products/x/huge/499685/charlie-bell-alarm-clock-matt-black-138759.jpg
+Completed Image ====> 24. charlie-bell-alarm-clock-matt-black-138759.jpg
+Image URL: https://pixel.nymag.com/imgs/daily/strategist/2018/07/27/alarm-clocks/Peakeep-Small-Battery-Operated-Analog-Travel-Alarm-Clock.w710.h473.2x.jpg
+Completed Image ====> 25. peakeep-small-battery-operated-analog-travel-alarm-clock.w710.h473.2x.jpg
+Image URL: https://vignette.wikia.nocookie.net/clubpenguin/images/5/5a/AlarmClock.png/revision/latest?cb=20150623172255
+Completed Image ====> 26. latest?cb=20150623172255.jpg
+Image URL: https://cdn.shopify.com/s/files/1/0695/9405/products/Cover1000x1000-21_c5697490-4e7f-439c-8575-f73f58287265.jpg?v=1530267418
+Completed Image ====> 27. cover1000x1000-21_c5697490-4e7f-439c-8575-f73f58287265.jpg
+Image URL: https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/22/ac/2a/22ac2ab8-3969-0d66-c77b-f88719e1432f/AppIconPaid-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.jpg
+Completed Image ====> 28. 246x0w.jpg
+Image URL: https://cdn.shopify.com/s/files/1/1140/3964/products/AC08-G_RetroAlarmClock.jpg?v=1457539912
+Completed Image ====> 29. ac08-g_retroalarmclock.jpg
+Image URL: https://i.kinja-img.com/gawker-media/image/upload/s--G7RWtlE9--/c_scale,f_auto,fl_progressive,q_80,w_800/bzxcgjzhlaf9xyb6odxm.jpg
+Completed Image ====> 30. bzxcgjzhlaf9xyb6odxm.jpg
+Image URL: https://cdn.shopify.com/s/files/1/0644/2177/products/Nope_Cutout.jpg?v=1527271415
+Completed Image ====> 31. nope_cutout.jpg
+Image URL: https://images-na.ssl-images-amazon.com/images/I/41S0rEH6lzL._SL500_AC_SS350_.jpg
+Completed Image ====> 32. 41s0reh6lzl._sl500_ac_ss350_.jpg
+Image URL: https://static.shoplightspeed.com/shops/616177/files/007074196/800x1024x1/vintage-belgian-travel-alarm-clock.jpg
+Completed Image ====> 33. vintage-belgian-travel-alarm-clock.jpg
+Image URL: https://cdn-img.health.com/sites/default/files/styles/medium_16_9/public/styles/main/public/gettyimages-543202511.jpg?itok=lhKfG2fe
+Completed Image ====> 34. gettyimages-543202511.jpg
+Image URL: https://cdn.ihomeaudio.com/media/product/images/iBT29_front_Color_copy.jpg.450x400_q85.jpg
+Completed Image ====> 35. ibt29_front_color_copy.jpg
+Image URL: https://newgateworld.com/media/catalog/product/cache/10/image/9df78eab33525d08d6e5fb8d27136e95/c/b/cbm134pw_-_modern_white_alarm_clock_newgate_echo.jpg
+Completed Image ====> 36. cbm134pw_-_modern_white_alarm_clock_newgate_echo.jpg
+Image URL: https://gloimg.gbtcdn.com/soa/gb/pdm-provider-img/straight-product-img/20180315/T012612/T0126120010/source-img/155542-1329.jpg
+Completed Image ====> 37. 155542-1329.jpg
+Image URL: http://www.shopmarriott.com/images/products/v2/lrg/Marriott-projection-alarm-clock-MAR-452_lrg.jpg
+Completed Image ====> 38. marriott-projection-alarm-clock-mar-452_lrg.jpg
+Image URL: https://cdn.shopify.com/s/files/1/2245/0063/products/V50-500_Main_1024x1024.jpg?v=1508118414
+Completed Image ====> 39. v50-500_main_1024x1024.jpg
+Image URL: https://static.shoplightspeed.com/shops/614084/files/008614241/newgate-charlie-bell-alarm-clock.jpg
+Completed Image ====> 40. newgate-charlie-bell-alarm-clock.jpg
+Image URL: https://target.scene7.com/is/image/Target/GUEST_7cc97d31-9bc3-478e-957e-3ff9aca88575?wid=488&hei=488&fmt=pjpeg
+Completed Image ====> 41. guest_7cc97d31-9bc3-478e-957e-3ff9aca88575?wid=488&hei=488&fmt=pjpeg.jpg
+Image URL: https://images-na.ssl-images-amazon.com/images/I/51CevmgXsUL._SL500_AC_SS350_.jpg
+Completed Image ====> 42. 51cevmgxsul._sl500_ac_ss350_.jpg
+Image URL: https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1529948947-thunderclap-alarm-clock.jpg
+Completed Image ====> 43. 1529948947-thunderclap-alarm-clock.jpg
+Image URL: https://cdn.shopify.com/s/files/1/0695/9405/products/Beddi_charge1000x1000_lifestyle-13.jpg?v=1518177930
+Completed Image ====> 44. beddi_charge1000x1000_lifestyle-13.jpg
+Image URL: https://previews.123rf.com/images/cobalt/cobalt1401/cobalt140100001/24903926-alarm-clock-vector-illustration.jpg
+Completed Image ====> 45. 24903926-alarm-clock-vector-illustration.jpg
+Image URL: https://cdn.gearpatrol.com/wp-content/uploads/2018/01/Best-Alarm-Clocks-Gear-Patrol-newgate.jpg
+Completed Image ====> 46. best-alarm-clocks-gear-patrol-newgate.jpg
+Image URL: https://sleepdelivered.com/wp-content/uploads/2018/06/alarm-alarm-clock-analogue-280257.jpg
+Completed Image ====> 47. alarm-alarm-clock-analogue-280257.jpg
+Image URL: https://cdn3.volusion.com/nzpdy.nyvqj/v/vspfiles/photos/7094-2-2.jpg
+Completed Image ====> 48. 7094-2-2.jpg
+Image URL: https://www.ikea.com/PIAimages/0637379_PE698263_S5.JPG
+Completed Image ====> 49. 0637379_pe698263_s5.jpg
+Image URL: https://cnet3.cbsistatic.com/img/QOqhnH0iDPELSYd7421Z-hZKjAU=/1600x900/2018/07/06/947445e9-a347-4122-94bb-1e3817d3cac6/gettyimages-167071287.jpg
+Completed Image ====> 50. gettyimages-167071287.jpg
+Image URL: https://craigelectronics.net/wp-content/uploads/2016/02/CR45372_spec.png
+Completed Image ====> 51. cr45372_spec.png
+Image URL: https://cdn.thewirecutter.com/wp-content/uploads/2017/08/alarmclock-2x1-fullres-2670-1024x512.jpg
+Completed Image ====> 52. alarmclock-2x1-fullres-2670-1024x512.jpg
+Image URL: https://www.harriscomm.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/c/hc-timeshakerboom_1.jpg
+Completed Image ====> 53. hc-timeshakerboom_1.jpg
+Image URL: https://www.bhphotovideo.com/images/images2000x2000/sony_icfc1pj_projection_clockradio_nature_sound_1033068.jpg
+Completed Image ====> 54. sony_icfc1pj_projection_clockradio_nature_sound_1033068.jpg
+Image URL: https://images-na.ssl-images-amazon.com/images/I/716Rc4VFPTL._SX425_.jpg
+Completed Image ====> 55. 716rc4vfptl._sx425_.jpg
+Image URL: https://i5.walmartimages.com/asr/64353291-d11f-4fc1-a317-2c71bbec099a_1.7738a69149f087c5d17dc28e5f194b2e.jpeg?odnHeight=100=100=ffffff
+Completed Image ====> 56. 64353291-d11f-4fc1-a317-2c71bbec099a_1.7738a69149f087c5d17dc28e5f194b2e.jpeg
+Image URL: https://fossbytes.com/wp-content/uploads/2018/06/Best-Alarm-Clock-for-Android.jpg
+Completed Image ====> 57. best-alarm-clock-for-android.jpg
+Image URL: https://www.ikea.com/gb/en/images/range-introduction/ikea-ikea-dekad-black-alarm-clock__1364401122186-s3.jpg
+Completed Image ====> 58. ikea-ikea-dekad-black-alarm-clock__1364401122186-s3.jpg
+Image URL: https://www.lacrossetechnology.com/media/catalog/product/cache/1/image/450x/9df78eab33525d08d6e5fb8d27136e95/c/8/c85135_headon.jpg
+Completed Image ====> 59. c85135_headon.jpg
+Image URL: https://www.robotshop.com/media/catalog/product/cache/image/380x380/9df78eab33525d08d6e5fb8d27136e95/n/a/nanda-clocky-robotic-alarm-clock-chrome-1.jpg
+Completed Image ====> 60. nanda-clocky-robotic-alarm-clock-chrome-1.jpg
+Image URL: https://images.philips.com/is/image/PhilipsConsumer/AJ3116M_37-IMS-en_US?wid=494&hei=435&$pnglarge$
+Completed Image ====> 61. aj3116m_37-ims-en_us?wid=494&hei=435&$pnglarge$.jpg
+Image URL: https://www.playmonster.com/wp-content/uploads/2018/06/8091_007.png
+Completed Image ====> 62. 8091_007.png
+Image URL: https://digitalsecurityworld.com/wp-content/uploads/2018/06/bush-baby-hd-hidden-camera.jpg
+Completed Image ====> 63. bush-baby-hd-hidden-camera.jpg
+Image URL: https://cdn.shopify.com/s/files/1/1722/0351/products/1-Sunrise-Alarm-Clock_Hero_640x.jpg?v=1538581461
+Completed Image ====> 64. 1-sunrise-alarm-clock_hero_640x.jpg
+Image URL: https://www.pbteen.com/ptimgs/ab/images/dp/wcm/201849/0221/the-emily-meritt-bunny-alarm-clocks-o.jpg
+Completed Image ====> 65. the-emily-meritt-bunny-alarm-clocks-o.jpg
+Image URL: https://www.colourbox.com/preview/18896228-alarm-clock.jpg
+Completed Image ====> 66. 18896228-alarm-clock.jpg
+Image URL: https://cdn.nexternal.com/menudesign/images/8310129_Tumbler_Alarm_Clock_Carbon_012.jpg
+Completed Image ====> 67. 8310129_tumbler_alarm_clock_carbon_012.jpg
+Image URL: https://d3dqioy2sca31t.cloudfront.net/Projects/store/production/products/80/product/ac-alarm.jpg
+Completed Image ====> 68. ac-alarm.jpg
+Image URL: https://cdn1.vectorstock.com/i/1000x1000/30/05/cartoon-alarm-clock-vector-1143005.jpg
+Completed Image ====> 69. cartoon-alarm-clock-vector-1143005.jpg
+Image URL: https://images.anthropologie.com/is/image/Anthropologie/35744879_012_b?$a15-pdp-detail-shot$&hei=900&qlt=80&fit=constrain
+Completed Image ====> 70. 35744879_012_b?$a15-pdp-detail-shot$&hei=900&qlt=80&fit=constrain.jpg
+Image URL: http://images.traditionalhome.mdpcdn.com/sites/traditionalhome.com/files/article/charlie-gold-alarm-clock.jpg
+Completed Image ====> 71. charlie-gold-alarm-clock.jpg
+Image URL: https://www.prohavit.com/wp-content/uploads/m28-bluetooth-speaker-alarm-clock-with-fm-radio-10w-output-7.jpg
+Completed Image ====> 72. m28-bluetooth-speaker-alarm-clock-with-fm-radio-10w-output-7.jpg
+Image URL: https://target.scene7.com/is/image/Target/GUEST_11a8452f-8dff-480f-bf30-c73b5920a8ce?wid=488&hei=488&fmt=pjpeg
+Completed Image ====> 73. guest_11a8452f-8dff-480f-bf30-c73b5920a8ce?wid=488&hei=488&fmt=pjpeg.jpg
+Image URL: https://images.homedepot-static.com/productImages/f42fdc44-d11e-4047-bd76-e25fcdb1e676/svn/gold-equity-by-la-crosse-table-clocks-13012-64_300.jpg
+Completed Image ====> 74. gold-equity-by-la-crosse-table-clocks-13012-64_300.jpg
+Image URL: http://cdn.shopify.com/s/files/1/0221/5358/products/AWK-105AL-GR2_1024x1024.JPG?v=1463372963
+Completed Image ====> 75. awk-105al-gr2_1024x1024.jpg
+Image URL: https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6239/6239128cv11d.jpg
+Completed Image ====> 76. 6239128cv11d.jpg
+Image URL: https://images-na.ssl-images-amazon.com/images/I/61439h%2BAAZL._SX425_.jpg
+Completed Image ====> 77. 61439h%2baazl._sx425_.jpg
+Image URL: https://images.philips.com/is/image/PhilipsConsumer/AJ3232B_37-IMS-en_US?wid=494&hei=435&$pnglarge$
+Completed Image ====> 78. aj3232b_37-ims-en_us?wid=494&hei=435&$pnglarge$.jpg
+Image URL: https://ksr-ugc.imgix.net/assets/013/964/727/95cd4cacb7c96105b3a0f8fc7e741304_original.jpg?ixlib=rb-1.1.0&crop=faces&w=1024&h=576&fit=crop&v=1478422320&auto=format&frame=1&q=92&s=b43d0b92673929eefba2913823222b8e
+Completed Image ====> 79. 95cd4cacb7c96105b3a0f8fc7e741304_original.jpg
+Image URL: https://media.zetronix.com/media/catalog/product/cache/1/thumbnail/600x/17f82f742ffe127f42dca9de82fb58b1/h/e/hestia1.png
+Completed Image ====> 80. hestia1.png
+Image URL: https://theawesomer.com/photos/2016/12/retro_lcd_flip_clock_2.jpg
+Completed Image ====> 81. retro_lcd_flip_clock_2.jpg
+Image URL: https://i.amz.mshcdn.com/71ktAiNKlSumMLr31j7_fl9IHdM=/950x534/filters:quality(90)/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F628522%2F74ea2c39-29e9-4c61-a54a-aa22e21a5e59.jpg
+Completed Image ====> 82. https%3a%2f%2fblueprint-api-production.s3.amazonaws.com%2fuploads%2fcard%2fimage%2f628522%2f74ea2c39-29e9-4c61-a54a-aa22e21a5e59.jpg
+Image URL: https://www.maxiaids.com/Media/Thumbs/0001/0001235-digital-alarm-clock-with-18-inch-jumbo-led.jpg
+Completed Image ====> 83. 0001235-digital-alarm-clock-with-18-inch-jumbo-led.jpg
+Image URL: https://www.amara.com/static/uploads/images-2/products/x/huge/499693/charlie-bell-alarm-clock-radial-copper-109301.jpg
+Completed Image ====> 84. charlie-bell-alarm-clock-radial-copper-109301.jpg
+Image URL: https://images.homedepot-static.com/productImages/346c8075-4bcd-4af9-bf11-b9ee80155126/svn/blacks-sonic-alert-table-clocks-sa-sbb500ss-64_1000.jpg
+Completed Image ====> 85. blacks-sonic-alert-table-clocks-sa-sbb500ss-64_1000.jpg
+Image URL: https://cdn.shopify.com/s/files/1/1140/3964/products/AC24-A_520x400_bee6e526-6949-451b-a6de-52b493411a86.jpg?v=1522068401
+Completed Image ====> 86. ac24-a_520x400_bee6e526-6949-451b-a6de-52b493411a86.jpg
+Image URL: http://cdn3.volusion.com/pgjzw.dfwum/v/vspfiles/photos/703539-2.jpg?1348736298
+Completed Image ====> 87. 703539-2.jpg
+Image URL: http://www.dormco.com/v/vspfiles/photos/L1-4-12-R1695-2T.jpg
+Completed Image ====> 88. l1-4-12-r1695-2t.jpg
+Image URL: https://cnet2.cbsistatic.com/img/h3RaVZgTfNgjiSZhytx4LuV_Mqk=/2018/07/06/2811ad6f-df10-4eec-8b35-f5c2a2e16fb5/gettyimages-566436409.jpg
+Completed Image ====> 89. gettyimages-566436409.jpg
+Image URL: https://cdn.windowsreport.com/wp-content/uploads/2013/01/alarm-clock-app-windows-10-1.jpg
+Completed Image ====> 90. alarm-clock-app-windows-10-1.jpg
+Image URL: https://www.alarmclockfactory.com/image/cache/data/product/24/8244/quartz-analog-westclox-big-ben-twin-bell-battery-alarm-clock-red-500x500.jpg
+Completed Image ====> 91. quartz-analog-westclox-big-ben-twin-bell-battery-alarm-clock-red-500x500.jpg
+Image URL: https://www.ikea.com/us/en/images/products/klockis-clock-thermometer-alarm-timer-white__0637382_PE698266_S4.JPG
+Completed Image ====> 92. klockis-clock-thermometer-alarm-timer-white__0637382_pe698266_s4.jpg
+Image URL: https://all2shop.net/wp-content/uploads/2016/11/718uFkdKVL._SL1500_.jpg
+Completed Image ====> 93. 718ufkdkvl._sl1500_.jpg
+Image URL: http://sites.psu.edu/siowfa15/wp-content/uploads/sites/29639/2015/09/Draw-an-Old-Fashioned-Alarm-Clock-Step-15.jpg
+Completed Image ====> 94. draw-an-old-fashioned-alarm-clock-step-15.jpg
+Image URL: https://images-na.ssl-images-amazon.com/images/I/61voXgql8iL._SX425_.jpg
+Completed Image ====> 95. 61voxgql8il._sx425_.jpg
+Image URL: https://www.electrohome.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/8/-/8-cr35w-main_left_1.jpg
+Completed Image ====> 96. 8-cr35w-main_left_1.jpg
+Image URL: https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5865/5865801_sd.jpg;maxHeight=640;maxWidth=550
+Completed Image ====> 97. 5865801_sd.jpg
+Image URL: https://i.ytimg.com/vi/fpQHabt6e-w/maxresdefault.jpg
+Completed Image ====> 98. maxresdefault.jpg
+Image URL: https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/02/4e/70/024e70f2-8190-a3ab-bf20-5604f0f3fccb/AppIcon-1x_U007emarketing-0-85-220-0-1.png/600x600wa.png
+Completed Image ====> 99. 600x600wa.png
+Image URL: https://media.kohlsimg.com/is/image/kohls/3400655?wid=300&hei=300&op_sharpen=1
+Completed Image ====> 100. 3400655?wid=300&hei=300&op_sharpen=1.jpg
+
+Errors: 0
+
+
+Everything downloaded!
+Total time taken: 42.430097341537476 Seconds
+
+Item no.: 1 --> Item name = angel
+Evaluating...
+Starting Download...
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bernhard_Plockhorst_-_Schutzengel.jpg/220px-Bernhard_Plockhorst_-_Schutzengel.jpg
+Completed Image ====> 1. 220px-bernhard_plockhorst_-_schutzengel.jpg
+Image URL: https://media.beliefnet.com/~/media/photos-with-attribution/angels/angel-light-purple_credit-shutterstock.jpg?as=1&w=400
+Completed Image ====> 2. angel-light-purple_credit-shutterstock.jpg
+Image URL: https://images-na.ssl-images-amazon.com/images/I/61Oy1ToAZgL._SL1500_.jpg
+Completed Image ====> 3. 61oy1toazgl._sl1500_.jpg
+Image URL: https://www.pictorem.com/collection/900_Miro-Gradinscak_DSCF9141%20Gotovo.jpg
+Completed Image ====> 4. 900_miro-gradinscak_dscf9141%20gotovo.jpg
+Image URL: https://www.franciscanmedia.org/wp-content/uploads/2015/10/SOD-1002-FeastoftheGuardianAngels-790x480.jpg
+Completed Image ====> 5. sod-1002-feastoftheguardianangels-790x480.jpg
+Image URL: https://media.beliefnet.com/~/media/photos-with-attribution/angels/angel-woman-clouds-wings_credit-shutterstock.jpg
+Completed Image ====> 6. angel-woman-clouds-wings_credit-shutterstock.jpg
+Image URL: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/white-wolf-angel-g-berry.jpg
+Completed Image ====> 7. white-wolf-angel-g-berry.jpg
+Image URL: https://previews.123rf.com/images/rolffimages/rolffimages1410/rolffimages141000067/33008753-angel-winged.jpg
+Completed Image ====> 8. 33008753-angel-winged.jpg
+Image URL: https://images-na.ssl-images-amazon.com/images/I/71xhOhb8OML._SY606_.jpg
+Completed Image ====> 9. 71xhohb8oml._sy606_.jpg
+Image URL: https://previews.123rf.com/images/tigatelu/tigatelu1307/tigatelu130700151/20754058-cute-angel-cartoon.jpg
+Completed Image ====> 10. 20754058-cute-angel-cartoon.jpg
+Image URL: https://i.pinimg.com/originals/5f/65/b5/5f65b53d8a5306bb4c45da79ba7c20d6.jpg
+Completed Image ====> 11. 5f65b53d8a5306bb4c45da79ba7c20d6.jpg
+Image URL: http://static.tvtropes.org/pmwiki/pub/images/guardian-angel-and-children-crossing-bridge-lindberg-heilige-schutzengel_876.gif
+Completed Image ====> 12. guardian-angel-and-children-crossing-bridge-lindberg-heilige-schutzengel_876.gif
+Image URL: https://blindgossip.com/wp-content/uploads/2017/08/angel-4.jpg
+Completed Image ====> 13. angel-4.jpg
+Image URL: https://fthmb.tqn.com/SBKlr0Dk8z0T4V07lPzJmePIcA8=/5575x3062/filters:fill(auto,1)/businessman-with-angel-wings-528840625-5758eb6f5f9b5892e894a106.jpg
+Completed Image ====> 14. businessman-with-angel-wings-528840625-5758eb6f5f9b5892e894a106.jpg
+Image URL: https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/ggZAv9L/angel-walking-in-the-clouds_4yqvdyad__S0000.jpg
+Completed Image ====> 15. angel-walking-in-the-clouds_4yqvdyad__s0000.jpg
+Image URL: https://images-na.ssl-images-amazon.com/images/I/81ETc1RG0eL._SX425_.jpg
+Completed Image ====> 16. 81etc1rg0el._sx425_.jpg
+Image URL: https://partycity6.scene7.com/is/image/PartyCity/_pdp_sq_?$_1000x1000_$&$product=PartyCity/793553
+Completed Image ====> 17. 793553.jpg
+Image URL: https://media.beliefnet.com/~/media/photos-with-attribution/angels/angel-light-deception-evil_credit-shutterstock.jpg?as=1&w=400
+Completed Image ====> 18. angel-light-deception-evil_credit-shutterstock.jpg
+Image URL: https://cdn.pixabay.com/photo/2017/07/17/15/29/angel-2512756_960_720.jpg
+Completed Image ====> 19. angel-2512756_960_720.jpg
+Image URL: https://media.beliefnet.com/~/media/photos-with-attribution/angels/angel-vintage-woman-illustration-looking-down_credit-shutterstock.jpg?h=318
+Completed Image ====> 20. angel-vintage-woman-illustration-looking-down_credit-shutterstock.jpg
+Image URL: https://vignette.wikia.nocookie.net/p__/images/2/2e/7639650_orig.jpg/revision/latest?cb=20140603164545&path-prefix=protagonist
+Completed Image ====> 21. latest?cb=20140603164545&path-prefix=protagonist.jpg
+Image URL: http://www.angelmessenger.net/wp-content/uploads/Angel-Healing-for-Love-and-Relationships.png
+Completed Image ====> 22. angel-healing-for-love-and-relationships.png
+Image URL: https://i.pinimg.com/originals/96/85/82/9685828f3aa97aedb9be9e785d573b36.jpg
+Completed Image ====> 23. 9685828f3aa97aedb9be9e785d573b36.jpg
+Image URL: http://weknowyourdreams.com/images/angel/angel-10.jpg
+Completed Image ====> 24. angel-10.jpg
+Image URL: https://cdn.europosters.eu/image/750/posters/spiral-enslaved-angel-i10930.jpg
+Completed Image ====> 25. spiral-enslaved-angel-i10930.jpg
+Image URL: https://cdn.pixabay.com/photo/2016/10/19/11/51/angel-1752810_960_720.jpg
+Completed Image ====> 26. angel-1752810_960_720.jpg
+Image URL: https://img00.deviantart.net/736b/i/2017/069/e/1/angel_by_tira_owl-d9huqti.jpg
+Completed Image ====> 27. angel_by_tira_owl-d9huqti.jpg
+Image URL: https://vignette.wikia.nocookie.net/warriorsofmyth/images/2/21/Angel_by_trefle_rouge-d5n0qcr.jpg/revision/latest?cb=20140622082112
+Completed Image ====> 28. latest?cb=20140622082112.jpg
+Image URL: https://meroblogging.files.wordpress.com/2013/10/wpid-an-angel.jpg
+Completed Image ====> 29. wpid-an-angel.jpg
+Image URL: https://d2a2wjuuf1c30f.cloudfront.net/product_photos/12984847/angel_of_light-1_original.jpg
+Completed Image ====> 30. angel_of_light-1_original.jpg
+Image URL: https://i.ytimg.com/vi/7d0ov4QG1js/hqdefault.jpg
+Completed Image ====> 31. hqdefault.jpg
+Image URL: https://images.halloweencostumes.com/products/19091/1-1/adult-guardian-angel-costume.jpg
+Completed Image ====> 32. adult-guardian-angel-costume.jpg
+Image URL: https://i.pinimg.com/originals/ac/78/25/ac78250323d7a43e89e343d0e2ef6067.jpg
+Completed Image ====> 33. ac78250323d7a43e89e343d0e2ef6067.jpg
+Image URL: https://image.shutterstock.com/image-illustration/praying-white-angel-260nw-67364086.jpg
+Completed Image ====> 34. praying-white-angel-260nw-67364086.jpg
+Image URL: https://previews.123rf.com/images/ppink/ppink1112/ppink111200001/11602628-cartoon-angel-girl-with-magic-wand.jpg
+Completed Image ====> 35. 11602628-cartoon-angel-girl-with-magic-wand.jpg
+Image URL: https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Angels-PNG/Christmas_Angel_Transparent_PNG_Clip_Art_Image.png?m=1475895302
+Completed Image ====> 36. christmas_angel_transparent_png
+Image URL: https://vignette.wikia.nocookie.net/sky-haven-lore/images/b/bf/Angel.jpg/revision/latest?cb=20150727062747
+Completed Image ====> 37. latest?cb=20150727062747.jpg
+Image URL: https://img.freepik.com/free-vector/background-with-a-cute-christmas-angel_23-2147716696.jpg?size=338&ext=jpg
+Completed Image ====> 38. background-with-a-cute-christmas-angel_23-2147716696.jpg
+Image URL: https://saratogaocean.com/wp-content/uploads/2016/09/divine-love-angels-miracles-spiritual-guidance-255x300.jpg
+Completed Image ====> 39. divine-love-angels-miracles-spiritual-guidance-255x300.jpg
+Image URL: https://cdna.artstation.com/p/assets/images/images/011/153/968/smaller_square/angel-ganev-2017-12-9-copy.jpg?1528126985
+Completed Image ====> 40. angel-ganev-2017-12-9-copy.jpg
+Image URL: http://www.catholiclane.com/wp-content/uploads/guardian-angel.jpg
+Completed Image ====> 41. guardian-angel.jpg
+Image URL: https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Angels-PNG/Cute_Angel_Transparent_PNG_Clipart.png?m=1434276795
+Completed Image ====> 42. cute_angel_transparent_png
+Image URL: https://i0.wp.com/res.cloudinary.com/aleteia/image/fetch/c_fill,g_auto,w_620,h_310/https://aleteiaen.files.wordpress.com/2017/12/web3-gaurdian-angel-public-domain.jpg%3Fw%3D1200?quality=100&strip=all&ssl=1
+Completed Image ====> 43. web3-gaurdian-angel-public-domain.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Guardian_Angel_1900.jpg/220px-Guardian_Angel_1900.jpg
+Completed Image ====> 44. 220px-guardian_angel_1900.jpg
+Image URL: https://images.sxsw.com/KxAZZeoPDkd7kNYVWBFPq62ejYM=/0x0:510x364/950x/images.sxsw.com/27/5fc242cd-a906-48dd-8903-f32d7b8cf38f/PP66915.png
+Completed Image ====> 45. pp66915.png
+Image URL: http://www.angelvalleysedona.com/assets/images/index/angel-in-sky-400x200.jpg
+Completed Image ====> 46. angel-in-sky-400x200.jpg
+Image URL: https://www.healyourlife.com/sites/default/files/u2/angel_healing_light.jpg
+Completed Image ====> 47. angel_healing_light.jpg
+Image URL: https://www.charismamag.com/images/stories/2016/blogs/prophetic-insight/angels-prophecy.jpg
+Completed Image ====> 48. angels-prophecy.jpg
+Image URL: http://www.evolve4peace.com/images/angels-rock.jpg
+Completed Image ====> 49. angels-rock.jpg
+Image URL: https://mymodernmet.com/wp/wp-content/uploads/2018/04/knife-angel-alfie-bradley-9.jpg
+Completed Image ====> 50. knife-angel-alfie-bradley-9.jpg
+Image URL: https://image.shutterstock.com/image-vector/vector-realistic-angel-wings-isolated-260nw-700685479.jpg
+Completed Image ====> 51. vector-realistic-angel-wings-isolated-260nw-700685479.jpg
+Image URL: https://pbs.twimg.com/profile_images/1024214235759357952/GW74F79q_400x400.jpg
+Completed Image ====> 52. gw74f79q_400x400.jpg
+Image URL: http://p1cdn4static.civiclive.com/UserFiles/Servers/Server_6481372/Image/Departments/Public%20Works/snow%20angel.jpg
+Completed Image ====> 53. snow%20angel.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Gethsemane_Carl_Bloch.jpg/220px-Gethsemane_Carl_Bloch.jpg
+Completed Image ====> 54. 220px-gethsemane_carl_bloch.jpg
+Image URL: https://www.thoughtco.com/thmb/14X8ExFaJTfEjj042StgOkUxOPU=/5242x3494/filters:fill(auto,1)/woman-with-angel-wings-108263480-58a4a57d3df78c4758c447e7.jpg
+Completed Image ====> 55. woman-with-angel-wings-108263480-58a4a57d3df78c4758c447e7.jpg
+Image URL: https://www.thoughtco.com/thmb/gGhJN1rhaaVDBsIIG16tydty7DQ=/1733x1733/filters:fill(auto,1)/angel-being-of-light-56a000a23df78cafda9f8dce.jpg
+Completed Image ====> 56. angel-being-of-light-56a000a23df78cafda9f8dce.jpg
+Image URL: http://cdn.shopify.com/s/files/1/0787/7015/products/FUNBOY-Angel-Wings-pool-float_600x.png?v=1495162940
+Completed Image ====> 57. funboy-angel-wings-pool-float_600x.png
+Image URL: http://www.thzthehealingzone.com/images/angel-therapy.JPG
+Completed Image ====> 58. angel-therapy.jpg
+Image URL: https://desenio.co.uk/bilder/artiklar/zoom/2802_1.jpg
+Completed Image ====> 59. 2802_1.jpg
+Image URL: https://previews.123rf.com/images/rolffimages/rolffimages1503/rolffimages150300033/37513962-angel-winged.jpg
+Completed Image ====> 60. 37513962-angel-winged.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/3/34/Blake_-_angel_of_revelation.jpg
+Completed Image ====> 61. blake_-_angel_of_revelation.jpg
+Image URL: https://gostica.com/wp-content/uploads/2017/10/Quiz-Who-Is-Your-Actual-Guardian-Angel.jpg
+Completed Image ====> 62. quiz-who-is-your-actual-guardian-angel.jpg
+Image URL: https://images.yourstory.com/2018/01/fantasy-2776409_1920.jpg?auto=compress
+Completed Image ====> 63. fantasy-2776409_1920.jpg
+Image URL: https://cdnb.artstation.com/p/assets/images/images/012/558/069/smaller_square/angel-ganev-2018-8-26.jpg?1535394118
+Completed Image ====> 64. angel-ganev-2018-8-26.jpg
+Image URL: https://media.swncdn.com/cms/BST/45047-40281-angel.800w.tn%20(2).800w.tn.jpeg
+Completed Image ====> 65. 45047-40281-angel.800w.tn%20(2).800w.tn.jpeg
+Image URL: https://ask-angels-swellpress.netdna-ssl.com/wp-content/uploads/2014/01/angel-signs.jpg
+Completed Image ====> 66. angel-signs.jpg
+Image URL: https://thumbs.dreamstime.com/z/cute-cartoon-angel-illustration-50839922.jpg
+Completed Image ====> 67. cute-cartoon-angel-illustration-50839922.jpg
+Image URL: http://images6.fanpop.com/image/photos/32200000/Tekken-Tag-2-Angel-tekken-32266188-2710-1871.png
+Completed Image ====> 68. tekken-tag-2-angel-tekken-32266188-2710-1871.png
+Image URL: http://www.vektorvisual.com/projects/GuardAngel/GuardAngelFinal2_med.jpg
+Completed Image ====> 69. guardangelfinal2_med.jpg
+Image URL: https://m.media-amazon.com/images/M/MV5BODU0M2NjZjgtZmQ1Zi00OWIyLTg1ODctMTg4Njg0MmE5YzU4XkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_UY268_CR9,0,182,268_AL_.jpg
+Completed Image ====> 70. mv5bodu0m2njzjgtzmq1zi00owiyltg1odctmtg4njg0mme5yzu4xkeyxkfqcgdeqxvynza5njuynjm@._v1_uy268_cr9,0,182,268_al_.jpg
+Image URL: http://www.dolldivine.com/images/fallen-angel-dress-up-game.jpg
+Completed Image ====> 71. fallen-angel-dress-up-game.jpg
+Image URL: http://townsquare.media/site/366/files/2015/06/Angels-630x420.jpg?w=980&q=75
+Completed Image ====> 72. angels-630x420.jpg
+Image URL: https://www.tripsavvy.com/thmb/LGwxP0tvGQwkvsQyU-YR846I5QM=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/george-etienne-cartier-monument-angel-statue-nicolas-kipourax-paquet-getty-565918d15f9b5835e45c5c42.jpg
+Completed Image ====> 73. george-etienne-cartier-monument-angel-statue-nicolas-kipourax-paquet-getty-565918d15f9b5835e45c5c42.jpg
+Image URL: https://www.incimages.com/uploaded_files/image/970x450/feather_25191.jpg
+Completed Image ====> 74. feather_25191.jpg
+Image URL: http://purepng.com/public/uploads/large/purepng.com-angelangelmessengerholy-personsaint-1701527753438shwkt.png
+Completed Image ====> 75. purepng
+Image URL: https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/ggZAv9L/heavenly-angel-walking-in-the-clouds_h3den-fr__F0010.png
+Completed Image ====> 76. heavenly-angel-walking-in-the-clouds_h3den-fr__f0010.png
+Image URL: https://steamuserimages-a.akamaihd.net/ugc/366280865479701778/AD7901EA51D09656F0C4FB24D9AA936075422C3A/
+Completed Image ====> 77. .jpg
+Image URL: https://images-na.ssl-images-amazon.com/images/I/61pH8QhmdeL._SY741_.jpg
+Completed Image ====> 78. 61ph8qhmdel._sy741_.jpg
+Image URL: http://3s9h7h3y0i6u2n9j4h5vgkf1.wpengine.netdna-cdn.com/wp-content/uploads/2016/09/Earth-Angel-compressed.jpg
+Completed Image ====> 79. earth-angel-compressed.jpg
+Image URL: http://tamannac.com/wp-content/uploads/2016/04/angelTherapy.jpg
+Completed Image ====> 80. angeltherapy.jpg
+Image URL: https://www.webphotosource.net/img/source/pqduatcjex/236x295px/ORN-1841004_18in-Holiday-Grace-Angel-Tree-Topper_SSC-10.jpeg?keep=c&crop=yes&u=jlnpkv&q=70
+Completed Image ====> 81. orn-1841004_18in-holiday-grace-angel-tree-topper_ssc-10.jpeg
+Image URL: https://static1.squarespace.com/static/5952613cf5e2317781f0601c/t/5baa254c15fcc0345e412187/1517430583614/angel+sky.jpg
+Completed Image ====> 82. angel+sky.jpg
+Image URL: https://www.catholicfaithstore.com/Inventory/CatholicFaith/10/Garden-Angel-on-Pedestal-Holding-Wreath-Statue-48-H_33713.jpg
+Completed Image ====> 83. garden-angel-on-pedestal-holding-wreath-statue-48-h_33713.jpg
+Image URL: https://cdn.pixabay.com/photo/2017/10/07/16/58/angel-2827148_960_720.jpg
+Completed Image ====> 84. angel-2827148_960_720.jpg
+Image URL: https://assetsnffrgf-a.akamaihd.net/assets/m/502016247/univ/art/502016247_univ_sqr_xl.jpg
+Completed Image ====> 85. 502016247_univ_sqr_xl.jpg
+Image URL: https://cdn.newsapi.com.au/image/v1/aa569fe0552e6377a390ef5ffa524af1
+Completed Image ====> 86. aa569fe0552e6377a390ef5ffa524af1.jpg
+Image URL: http://www.crystalinks.com/choirangels.jpg
+Completed Image ====> 87. choirangels.jpg
+Image URL: https://s3.amazonaws.com/pas-wordpress-media/content/uploads/2018/03/angel-investor.jpg
+Completed Image ====> 88. angel-investor.jpg
+Image URL: http://www.allanabeltran.com/uploads/9/1/1/0/9110494/header_images/1404267780.jpg
+Completed Image ====> 89. 1404267780.jpg
+Image URL: https://i1.wp.com/detechter.com/wp-content/uploads/2017/02/angel-01.jpg
+Completed Image ====> 90. angel-01.jpg
+Image URL: https://i1.wp.com/www.learning-mind.com/wp-content/uploads/2017/08/earth-angel1.jpg?fit=811%2C536&ssl=1
+Completed Image ====> 91. earth-angel1.jpg
+Image URL: http://worldartsme.com/images/funny-angel-clipart-1.jpg
+Completed Image ====> 92. funny-angel-clipart-1.jpg
+Image URL: http://www.horoscope.com/images-US/tarot/imag-tarot_angel.jpg
+Completed Image ====> 93. imag-tarot_angel.jpg
+Image URL: https://cdn.shopify.com/s/files/1/2271/8815/products/6001486_large.jpg?v=1529144278
+Completed Image ====> 94. 6001486_large.jpg
+Image URL: https://i.ytimg.com/vi/UtNBKX4Dtwc/hqdefault.jpg
+Completed Image ====> 95. hqdefault.jpg
+Image URL: https://www.math.ubc.ca/~angel/circlemed.gif
+Completed Image ====> 96. circlemed.gif
+Image URL: https://cdna.artstation.com/p/assets/images/images/012/221/286/smaller_square/angel-ganev-2018-8-4.jpg?1533671263
+Completed Image ====> 97. angel-ganev-2018-8-4.jpg
+Image URL: https://i2.wp.com/res.cloudinary.com/aleteia/image/fetch/c_fill,g_auto,w_620,h_310/https://aleteiaen.files.wordpress.com/2017/10/web3-angel-of-god-my-guardian-dear-guardian-angel-child-angel-de-la-guarda-pd.jpg%3Fw%3D1200?quality=100&strip=all&ssl=1
+Completed Image ====> 98. web3-angel-of-god-my-guardian-dear-guardian-angel-child-angel-de-la-guarda-pd.jpg
+Image URL: https://static.tvtropes.org/pmwiki/pub/images/Fallen_angel.jpg
+Completed Image ====> 99. fallen_angel.jpg
+Image URL: https://www.thoughtco.com/thmb/yMyH3Y3j1WJfQMOdjJdXKIvLrWg=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/strong-healing-angel-56a0006b3df78cafda9f8d0d.jpg
+Completed Image ====> 100. strong-healing-angel-56a0006b3df78cafda9f8d0d.jpg
+
+Errors: 0
+
+
+Everything downloaded!
+Total time taken: 45.80998229980469 Seconds
+
+Item no.: 1 --> Item name = ant
+Evaluating...
+Starting Download...
+Image URL: https://s3.amazonaws.com/lab-notes-media/blog/wp-content/uploads/2017/05/top6-weirdants1.jpg
+Completed Image ====> 1. top6-weirdants1.jpg
+Image URL: https://media.mnn.com/assets/images/2018/04/Tawny_crazy_ant_Nylanderia_fulva_female_worker.jpg
+Completed Image ====> 2. tawny_crazy_ant_nylanderia_fulva_female_worker.jpg
+Image URL: https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2017/01/a_forager_ant_of_the_species_cataglyphis_velox-seville-spain_credit_michael_mangan_and_hugh_pastoll.jpg?itok=OqlsqSo9&fc=50,50
+Completed Image ====> 3. a_forager_ant_of_the_species_cataglyphis_velox-seville-spain_credit_michael_mangan_and_hugh_pastoll.jpg
+Image URL: https://cdn.britannica.com/s:500x350/55/88055-004-9649F959.jpg
+Completed Image ====> 4. 88055-004-9649f959.jpg
+Image URL: https://romneypestcontrol.com/img/library/ant.jpg
+Completed Image ====> 5. ant.jpg
+Image URL: https://www.rspb.org.uk/globalassets/images/birds-and-wildlife/non-bird-species-illustrations/black-garden-ant_1200x675.jpg?preset=landscape_mobile
+Completed Image ====> 6. black-garden-ant_1200x675.jpg
+Image URL: https://www.rd.com/wp-content/uploads/2015/02/ant-1-760x506.jpg
+Completed Image ====> 7. ant-1-760x506.jpg
+Image URL: http://static.nautil.us/15187_956936879f66f5cf4ffbf3aefffd56ca.jpg
+Completed Image ====> 8. 15187_956936879f66f5cf4ffbf3aefffd56ca.jpg
+Image URL: https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/2018/antstudyshed.jpg
+Completed Image ====> 9. antstudyshed.jpg
+Image URL: https://www.pestworld.org/media/560887/carpenter-ant_tm.jpg?preset=pestFeature360
+Completed Image ====> 10. carpenter-ant_tm.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fire_ants_01.jpg/220px-Fire_ants_01.jpg
+Completed Image ====> 11. 220px-fire_ants_01.jpg
+Image URL: https://www.spencerpest.com/images/acrobat-ant.png
+Completed Image ====> 12. acrobat-ant.png
+Image URL: https://www.sciencealert.com/images/2017-09/regular-ant-mandible-flickr.jpg
+Completed Image ====> 13. regular-ant-mandible-flickr.jpg
+Image URL: http://jonlieffmd.com/wp-content/uploads/2015/02/Ant-individual-.jpg
+Completed Image ====> 14. ant-individual-.jpg
+Image URL: http://static.terro.com/media/articles/images/58/t_lone_ant_shutterstock_184340795.jpg
+Completed Image ====> 15. t_lone_ant_shutterstock_184340795.jpg
+Image URL: https://www.thespruce.com/thmb/VY-br2dmYLtcgvCVuz6V2BWMvVo=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/fire-ants-USDA-ARS-Stephen-Ausmus-56a7097b5f9b58b7d0e630aa.jpg
+Completed Image ====> 16. fire-ants-usda-ars-stephen-ausmus-56a7097b5f9b58b7d0e630aa.jpg
+Image URL: https://daily.jstor.org/wp-content/uploads/2015/02/ants.jpg
+Completed Image ====> 17. ants.jpg
+Image URL: https://cdn-www.terminix.com/cs/terminix/types-of-ants-eight-common-invaders/m3340110.jpg
+Completed Image ====> 18. m3340110.jpg
+Image URL: https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2018/1-forglobalinv.jpg
+Completed Image ====> 19. 1-forglobalinv.jpg
+Image URL: https://www.sciencefriday.com/wp-content/uploads/2018/07/chandra2HR-min.jpg
+Completed Image ====> 20. chandra2hr-min.jpg
+Image URL: https://news.nationalgeographic.com/content/dam/news/2018/04/18/exploding-ants/01-exploding-ants-IMG_0168.ngsversion.1524149103523.adapt.1900.1.jpg
+Completed Image ====> 21. 01-exploding-ants-img_0168.ngsversion.1524149103523.adapt.1900.1.jpg
+Image URL: https://www.sciencedaily.com/images/2018/01/180109113231_1_540x360.jpg
+Completed Image ====> 22. 180109113231_1_540x360.jpg
+Image URL: https://media.treehugger.com/assets/images/2018/12/dracula-ant.jpg.860x0_q70_crop-scale.jpg
+Completed Image ====> 23. dracula-ant.jpg
+Image URL: https://cdn.britannica.com/25/185825-049-605F7FE1.jpg
+Completed Image ====> 24. 185825-049-605f7fe1.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/b/b0/Plectroctena_sp_ants.jpg
+Completed Image ====> 25. plectroctena_sp_ants.jpg
+Image URL: https://scjdmcdn.azureedge.net/~/media/raid/bugs/ants/carpenter-ants/carpenter-ant-top-v.png?la=en-US&hash=073D486F8B069202E2E381A30F44155AE93DC639
+Completed Image ====> 26. carpenter-ant-top-v.png
+Image URL: https://articles.extension.org/sites/default/files/ant%20line%20drawing%20-%20Merchant%20copy.jpg
+Completed Image ====> 27. ant%20line%20drawing%20-%20merchant%20copy.jpg
+Image URL: http://ichef.bbci.co.uk/wwfeatures/wm/live/624_351/images/live/p0/36/cl/p036cl0n.jpg
+Completed Image ====> 28. p036cl0n.jpg
+Image URL: http://www.sciencemag.org/sites/default/files/styles/article_main_large/public/images/sn-antsH_0.jpg?itok=GR9045FN
+Completed Image ====> 29. sn-antsh_0.jpg
+Image URL: https://previews.123rf.com/images/iimages/iimages1302/iimages130201458/17867520-illustration-of-an-ant-on-a-white-background.jpg
+Completed Image ====> 30. 17867520-illustration-of-an-ant-on-a-white-background.jpg
+Image URL: http://discovermagazine.com/~/media/Images/Issues/2018/July%20Aug/DSC-TW0818_01.jpg
+Completed Image ====> 31. dsc-tw0818_01.jpg
+Image URL: https://i.ytimg.com/vi/1weZJqEalN8/maxresdefault.jpg
+Completed Image ====> 32. maxresdefault.jpg
+Image URL: https://static.interestingengineering.com/images/APRIL/sizes/exploding_ant_resize_md.jpg
+Completed Image ====> 33. exploding_ant_resize_md.jpg
+Image URL: http://www.myrmecology.org/wp-content/uploads/2017/12/myrmecology-study-of-ants.jpg
+Completed Image ====> 34. myrmecology-study-of-ants.jpg
+Image URL: https://www.thoughtco.com/thmb/RTyDUBbQZcCFQmdl2Ixhv5N3QXw=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-200494870-001-57673f415f9b58346a12c27a.jpg
+Completed Image ====> 35. gettyimages-200494870-001-57673f415f9b58346a12c27a.jpg
+Image URL: https://r.hswstatic.com/w_907/gif/goo-ant.jpg
+Completed Image ====> 36. goo-ant.jpg
+Image URL: https://image.shutterstock.com/image-illustration/cute-ant-cartoon-260nw-480060634.jpg
+Completed Image ====> 37. cute-ant-cartoon-260nw-480060634.jpg
+Image URL: http://www.sciencemag.org/sites/default/files/styles/article_main_large/public/images/cc_troph-4244_16x9.jpg?itok=Cw6EsofE
+Completed Image ====> 38. cc_troph-4244_16x9.jpg
+Image URL: https://www.smithereen.com/sites/www.smithereen.com/files/assets/ant-pest-control.jpg
+Completed Image ====> 39. ant-pest-control.jpg
+Image URL: https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2018/2-studyshedsne.jpg
+Completed Image ====> 40. 2-studyshedsne.jpg
+Image URL: https://e3.365dm.com/18/12/1096x616/skynews-dracula-ant-ant_4516238.jpg?20181212051552
+Completed Image ====> 41. skynews-dracula-ant-ant_4516238.jpg
+Image URL: https://static01.nyt.com/images/2018/10/09/science/06TB-ANTS1/06TB-ANTS1-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+Completed Image ====> 42. 06tb-ants1-articlelarge.jpg
+Image URL: https://thumbs-prod.si-cdn.com/z12IJbisls9sGc4pE8azkJ43JDA=/800x600/filters:no_upscale()/https://public-media.si-cdn.com/filer/c3/6b/c36b7f02-14ba-4936-819b-fdc3c563a1ec/hell_ant.png
+Completed Image ====> 43. hell_ant.png
+Image URL: https://static.ffx.io/images/$zoom_1.769%2C$multiply_1%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_173/t_crop_custom/w_768/t_sharpen%2Cq_auto%2Cf_auto/198187d1ed399b9359dbf197e3b224ea6284541a
+Completed Image ====> 44. 198187d1ed399b9359dbf197e3b224ea6284541a.jpg
+Image URL: http://firstchoicepest.com/images/pestid/ant.png
+Completed Image ====> 45. ant.png
+Image URL: https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAwOC80MTAvb3JpZ2luYWwvcXVlZW4tYW50LXdvcmtlcnMtMTAwMjI2LTAyLmpwZw==
+Completed Image ====> 46. ahr0cdovl3d3dy5saxzlc2npzw5jzs5jb20vaw1hz2vzl2kvmdawlzawoc80mtavb3jpz2luywwvcxvlzw4tyw50lxdvcmtlcnmtmtawmji2ltaylmpwzw==.jpg
+Image URL: https://cosmos-images1.imgix.net/file/spina/photo/13579/180115-ants-full.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=835
+Completed Image ====> 47. 180115-ants-full.jpg
+Image URL: https://www.thespruce.com/thmb/rBBdGNDk8vijl8Y4ddg-hEV_vvM=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ant-GettyImages-697628803-58cc00ed3df78c3c4f482e0b.jpg
+Completed Image ====> 48. ant-gettyimages-697628803-58cc00ed3df78c3c4f482e0b.jpg
+Image URL: https://i.ndtvimg.com/i/2017-03/ants-620x350_620x350_81488867410.jpg
+Completed Image ====> 49. ants-620x350_620x350_81488867410.jpg
+Image URL: https://static1.squarespace.com/static/589d70b215d5dbf16192c81a/t/5ac71b60f950b7346fc283a4/1522998116821/Oecophylla-smaragdina01.jpg?format=1500w
+Completed Image ====> 50. oecophylla-smaragdina01.jpg
+Image URL: https://www.nationalgeographic.com/content/dam/animals/thumbs/rights-exempt/invertebrates/group/ants_thumb.ngsversion.1496269821174.adapt.1900.1.jpg
+Completed Image ====> 51. ants_thumb.ngsversion.1496269821174.adapt.1900.1.jpg
+Image URL: https://www.pests.org/wp-content/uploads/2018/03/ArmyAnts_570x395.jpg
+Completed Image ====> 52. armyants_570x395.jpg
+Image URL: https://cdn.orkin.com/images/ants/argentine-ant.jpg
+Completed Image ====> 53. argentine-ant.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ant_%28Jacob_Eckert%29.svg/2000px-Ant_%28Jacob_Eckert%29.svg.png
+Completed Image ====> 54. 2000px-ant_%28jacob_eckert%29.svg.png
+Image URL: https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA4Ny85MDEvb3JpZ2luYWwvY2FycGVudGVyLWFudC10cm9waGFsbGF4aXMuanBn
+Completed Image ====> 55. ahr0cdovl3d3dy5saxzlc2npzw5jzs5jb20vaw1hz2vzl2kvmdawlza4ny85mdevb3jpz2luywwvy2fycgvudgvylwfudc10cm9wagfsbgf4axmuanbn.jpg
+Image URL: https://s.hswstatic.com/gif/prevent-grease-ants-1.jpg
+Completed Image ====> 56. prevent-grease-ants-1.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/7/7b/Common_jassid_nymph_and_ant02.jpg
+Completed Image ====> 57. common_jassid_nymph_and_ant02.jpg
+Image URL: http://cdn.sci-news.com/images/enlarge5/image_6425e-Giant-Red-Bull-Ant.jpg
+Completed Image ====> 58. image_6425e-giant-red-bull-ant.jpg
+Image URL: http://blogs.smithsonianmag.com/science/files/2012/08/Surprising-Science-multicolor-ants-1.jpg
+Completed Image ====> 59. surprising-science-multicolor-ants-1.jpg
+Image URL: https://reviewonline.co.za/wp-content/uploads/sites/68/2018/09/feature-3-2.jpg
+Completed Image ====> 60. feature-3-2.jpg
+Image URL: https://cdn.rentokil.com/content/local/us-wst/images/desktop/main_ant-image-10.png
+Completed Image ====> 61. main_ant-image-10.png
+Image URL: https://www.familyhandyman.com/wp-content/uploads/2017/05/FH09MAR_RIDANT_14.jpg
+Completed Image ====> 62. fh09mar_ridant_14.jpg
+Image URL: http://www.antbase.net/pictures/ant-picnic-lophomyrmex.jpg
+Completed Image ====> 63. ant-picnic-lophomyrmex.jpg
+Image URL: https://co0069yjui-flywheel.netdna-ssl.com/wp-content/uploads/2016/07/Ant-with-big-eyes-2-300x300.jpg
+Completed Image ====> 64. ant-with-big-eyes-2-300x300.jpg
+Image URL: https://cdn4.dogonews.com/images/8cb503e7-58da-4d67-95b8-ca1dd8a60d1e/zombie-ant-biting-behavior-kim-fleming.jpg
+Completed Image ====> 65. zombie-ant-biting-behavior-kim-fleming.jpg
+Image URL: https://www.doyourownpestcontrol.com/pavementants.jpg
+Completed Image ====> 66. pavementants.jpg
+Image URL: https://pestworldforkids.org/media/12886/Small-Ants.jpg?preset=fullWidth360
+Completed Image ====> 67. small-ants.jpg
+Image URL: https://www.cedarcide.com/wp-content/uploads/2018/04/ant.png
+Completed Image ====> 68. ant.png
+Image URL: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/10/640/320/1862/1048/Fire-Ants-iStock.jpg?ve=1&tl=1?ve=1&tl=1
+Completed Image ====> 69. fire-ants-istock.jpg
+Image URL: https://images.newscientist.com/wp-content/uploads/2017/04/12180030/137782.jpg
+Completed Image ====> 70. 137782.jpg
+Image URL: https://media.wired.com/photos/59a46ddf312e1f5d84fc6f6a/master/w_2018,c_limit/fireants-TA.jpg
+Completed Image ====> 71. fireants-ta.jpg
+Image URL: https://www.thehealthyhomeeconomist.com/wp-content/uploads/2017/05/ant-bait-for-ants-in-the-house.jpg
+Completed Image ====> 72. ant-bait-for-ants-in-the-house.jpg
+Image URL: https://479g5s2lzyvpzbbe4encn113-wpengine.netdna-ssl.com/corpuschristi/wp-content/uploads/sites/77/2018/04/Fire-ant.jpg
+Completed Image ====> 73. fire-ant.jpg
+Image URL: https://photos.smugmug.com/Ants/Regional-Ant-Faunas/Australian-Ants/i-rmqZKsn/1/2be40a6c/XL/acutiventris3-XL.jpg
+Completed Image ====> 74. acutiventris3-xl.jpg
+Image URL: http://newsimg.bbc.co.uk/media/images/45938000/jpg/_45938978_fireant.jpg
+Completed Image ====> 75. _45938978_fireant.jpg
+Image URL: https://cdn.theatlantic.com/assets/media/img/mt/2017/11/29867355174_7c3c99f18c_k/lead_720_405.jpg?mod=1533691913
+Completed Image ====> 76. lead_720_405.jpg
+Image URL: https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/05/26/19/20-Ants-AFPGettyv2.jpg?w968h681
+Completed Image ====> 77. 20-ants-afpgettyv2.jpg
+Image URL: http://science4fun.info/wp-content/uploads/2017/02/red-ant.jpg
+Completed Image ====> 78. red-ant.jpg
+Image URL: https://www.doyourownpestcontrol.com/diff1.gif
+Completed Image ====> 79. diff1.gif
+Image URL: https://www2.palomar.edu/users/warmstrong/images4/MessorAnd13c.jpg
+Completed Image ====> 80. messorand13c.jpg
+Image URL: https://images.agoramedia.com/everydayhealth/gcms/BUG-BITE-GUIDE-Ant-Bites-722x406.jpg
+Completed Image ====> 81. bug-bite-guide-ant-bites-722x406.jpg
+Image URL: https://www.rentokil.ie/blog/wp-content/uploads/2017/07/ant-818871_1280.jpg
+Completed Image ====> 82. ant-818871_1280.jpg
+Image URL: https://static01.nyt.com/images/2018/07/06/arts/06antman1-dressrefer/06antman1-dressrefer-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+Completed Image ====> 83. 06antman1-dressrefer-articlelarge.jpg
+Image URL: https://image.shutterstock.com/image-vector/two-cute-cartoon-ant-carry-260nw-1013660179.jpg
+Completed Image ====> 84. two-cute-cartoon-ant-carry-260nw-1013660179.jpg
+Image URL: https://www.wacopest.com/wp-content/uploads/2017/06/Fire-Ants.png
+Completed Image ====> 85. fire-ants.png
+Image URL: https://cms.qz.com/wp-content/uploads/2018/07/ant-colony_quartz-e1531913382586_colorcorrected.jpeg?quality=75&strip=all&w=940
+Completed Image ====> 86. ant-colony_quartz-e1531913382586_colorcorrected.jpeg
+Image URL: https://agrilifecdn.tamu.edu/citybugstest/files/2010/04/cant-edited-IMG_6247.jpg
+Completed Image ====> 87. cant-edited-img_6247.jpg
+Image URL: https://cdn.rentokil.com/content/local/us-jce/images/desktop/main_black-house-ant-image.jpg
+Completed Image ====> 88. main_black-house-ant-image.jpg
+Image URL: https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA4OS80Mjgvb3JpZ2luYWwvYmVldGxlcy1oaXRjaGhpa2Utb24tYW50cy0wMS5qcGc=
+Completed Image ====> 89. ahr0cdovl3d3dy5saxzlc2npzw5jzs5jb20vaw1hz2vzl2kvmdawlza4os80mjgvb3jpz2luywwvymvldgxlcy1oaxrjaghpa2utb24tyw50cy0wms5qcgc=.jpg
+Image URL: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/oo-197244-1524242253.jpg
+Completed Image ====> 90. oo-197244-1524242253.jpg
+Image URL: https://media.npr.org/assets/img/2015/01/16/ants-1_wide-9a237cc604facec0d061e5a4f723b69594d4e02b.jpg?s=1400
+Completed Image ====> 91. ants-1_wide-9a237cc604facec0d061e5a4f723b69594d4e02b.jpg
+Image URL: https://news.cnrs.fr/sites/default/files/styles/visuel_principal/public/assets/images/melophorus_bagoti_scan_2_antoine_wystrach_72dpi.jpg
+Completed Image ====> 92. melophorus_bagoti_scan_2_antoine_wystrach_72dpi.jpg
+Image URL: https://images.theconversation.com/files/30252/original/rdw767px-1377790398.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip
+Completed Image ====> 93. rdw767px-1377790398.jpg
+Image URL: https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2015/06/04170727/silver-ant-respiting.jpg
+Completed Image ====> 94. silver-ant-respiting.jpg
+Image URL: https://www.futurity.org/wp/wp-content/uploads/2018/02/ants-attack_1600.jpg
+Completed Image ====> 95. ants-attack_1600.jpg
+Image URL: https://www.abc.net.au/news/image/9797212-3x2-700x467.jpg
+Completed Image ====> 96. 9797212-3x2-700x467.jpg
+Image URL: https://cosmos-images1.imgix.net/file/spina/photo/14826/180420-ant-full.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=835
+Completed Image ====> 97. 180420-ant-full.jpg
+Image URL: https://www.rd.com/wp-content/uploads/2015/02/ant-2.jpg
+Completed Image ====> 98. ant-2.jpg
+Image URL: https://www.earthrangers.com/content/wildwire/standing_fish_hook_ant_piotr_naskrecki.jpg
+Completed Image ====> 99. standing_fish_hook_ant_piotr_naskrecki.jpg
+Image URL: https://blogs.unimelb.edu.au/sciencecommunication/files/2016/10/P1010162-copy-1y859ew.jpg
+Completed Image ====> 100. p1010162-copy-1y859ew.jpg
+
+Errors: 0
+
+
+Everything downloaded!
+Total time taken: 47.95415735244751 Seconds
+
+Item no.: 1 --> Item name = ambulance
+Evaluating...
+Starting Download...
+Image URL: https://upload.wikimedia.org/wikipedia/commons/1/11/2016_Fiat_Ducato_42_Maxi_West_Midlands_Ambulance_Service_3.0.jpg
+Completed Image ====> 1. 2016_fiat_ducato_42_maxi_west_midlands_ambulance_service_3.0.jpg
+Image URL: http://www.numc.edu/wp-content/uploads/old/our-services/ambulance3.jpg
+Completed Image ====> 2. ambulance3.jpg
+Image URL: https://centuryambulance.com/wp1/wp-content/uploads/2017/08/Ambulance-2-WP.jpg
+Completed Image ====> 3. ambulance-2-wp.jpg
+Image URL: http://ingstadmedia.com/mybasin/wp-content/uploads/sites/5/2018/11/ambulance2.jpg
+Completed Image ====> 4. ambulance2.jpg
+Image URL: https://www.northadamsambulance.com/mediaItems/editor/Unit%204%20(Small).jpg
+Completed Image ====> 5. unit%204%20(small).jpg
+Image URL: https://www.jlffirm.com/wp-content/uploads/2017/10/maxresdefault.jpg
+Completed Image ====> 6. maxresdefault.jpg
+Image URL: https://orem.org/wp-content/uploads/2016/03/Orem_City_ambulance.jpg
+Completed Image ====> 7. orem_city_ambulance.jpg
+Image URL: http://www.arlington-tx.gov/news/wp-content/uploads/sites/2/2017/08/Articles-Ambulance-AMR-08-09-17.jpg
+Completed Image ====> 8. articles-ambulance-amr-08-09-17.jpg
+Image URL: https://www.nist.gov/sites/default/files/images/2018/01/04/blogambulance.jpg
+Completed Image ====> 9. blogambulance.jpg
+Image URL: https://www.trbimg.com/img-59ffb1de/turbine/sd-me-ambulance-insurance-20171103
+Completed Image ====> 10. sd-me-ambulance-insurance-20171103.jpg
+Image URL: https://cdn.nashvillepost.com/files/base/scomm/nvp/image/2017/11/16x9/640w/ambulance.5a05ebaad0013.jpg
+Completed Image ====> 11. ambulance.5a05ebaad0013.jpg
+Image URL: https://i.ytimg.com/vi/j0r6fr08R8o/maxresdefault.jpg
+Completed Image ====> 12. maxresdefault.jpg
+Image URL: https://thenypost.files.wordpress.com/2015/10/shutterstock_309700463.jpg?quality=90&strip=all&w=618&h=410&crop=1
+Completed Image ====> 13. shutterstock_309700463.jpg
+Image URL: https://i.ytimg.com/vi/zHc-oRBe1kM/maxresdefault.jpg
+Completed Image ====> 14. maxresdefault.jpg
+Image URL: https://www.medivicaviation.com/wp-content/uploads/2016/05/ground-ambulance.jpg
+Completed Image ====> 15. ground-ambulance.jpg
+Image URL: https://us.falck.com/SiteCollectionImages/US_Emergency/USA%20Entities/Ambulance-Finals137.jpg
+Completed Image ====> 16. ambulance-finals137.jpg
+Image URL: https://www.gannett-cdn.com/presto/2018/12/01/PNAS/fbf89f13-ac3f-4b4a-a307-87a8deeda088-Ambulance_Crash.JPG?width=534&height=401&fit=bounds&auto=webp
+Completed Image ====> 17. fbf89f13-ac3f-4b4a-a307-87a8deeda088-ambulance_crash.jpg
+Image URL: https://cdn20.patchcdn.com/users/22944156/20180607/045447/styles/T800x600/public/processed_images/new_lenox_fire_ambulance_-1528404861-1441.jpg
+Completed Image ====> 18. new_lenox_fire_ambulance_-1528404861-1441.jpg
+Image URL: https://media2.fdncms.com/csindy/imager/u/original/11721885/news1-1.jpg
+Completed Image ====> 19. news1-1.jpg
+Image URL: https://nebula.wsimg.com/3446a2bdddd2c9e4c719529da88a3672?AccessKeyId=24B2EB03F1D06BD889C6&disposition=0&alloworigin=1
+Completed Image ====> 20. 3446a2bdddd2c9e4c719529da88a3672?accesskeyid=24b2eb03f1d06bd889c6&disposition=0&alloworigin=1.jpg
+Image URL: https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2017/uberreducesa.jpg
+Completed Image ====> 21. uberreducesa.jpg
+Image URL: https://pbs.twimg.com/profile_images/1011639519832150017/7pIJxVjl.jpg
+Completed Image ====> 22. 7pijxvjl.jpg
+Image URL: https://www.england.nhs.uk/nhsidentity/wp-content/uploads/sites/38/2016/06/Ambulance_UPDATED.jpg
+Completed Image ====> 23. ambulance_updated.jpg
+Image URL: https://publichealthupdate.com/wp-content/uploads/2018/01/maxresdefault.jpg
+Completed Image ====> 24. maxresdefault.jpg
+Image URL: https://streamline.imgix.net/b8ea60de-1512-41f0-9908-e8627914c801/373f3217-65b7-4aa8-b476-6dc56298caa5/SN850970.JPG?ixlib=rb-1.1.0&w=2000&h=2000&fit=max&s=50b75d20df151ad973a8d9479cd8d320
+Completed Image ====> 25. sn850970.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ambulance_outside_West_Suffolk_Hospital_-_geograph.org.uk_-_545445.jpg/220px-Ambulance_outside_West_Suffolk_Hospital_-_geograph.org.uk_-_545445.jpg
+Completed Image ====> 26. 220px-ambulance_outside_west_suffolk_hospital_-_geograph.org.uk_-_545445.jpg
+Image URL: http://www.countyamb.com/IMG00365-20110506-1943.jpg
+Completed Image ====> 27. img00365-20110506-1943.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/7/78/2017_Mercedes-Benz_Sprinter_%28W_906%29_313_CDI_MWB_van%2C_St_John_Ambulance_%282017-12-09%29.jpg
+Completed Image ====> 28. 2017_mercedes-benz_sprinter_%28w_906%29_313_cdi_mwb_van%2c_st_john_ambulance_%282017-12-09%29.jpg
+Image URL: https://cdn3.vectorstock.com/i/1000x1000/74/82/ambulance-cartoon-vector-407482.jpg
+Completed Image ====> 29. ambulance-cartoon-vector-407482.jpg
+Image URL: https://b40i4qlau03i7zpg24iid71r-wpengine.netdna-ssl.com/wp-content/uploads/sites/2/2016/04/12801221_802076896564806_2518858397031182499_n.jpg
+Completed Image ====> 30. 12801221_802076896564806_2518858397031182499_n.jpg
+Image URL: https://images.currentaffairs.org/2018/08/6925619739_e1885e91c7_b-1024x646.jpg
+Completed Image ====> 31. 6925619739_e1885e91c7_b-1024x646.jpg
+Image URL: https://cdn2.vectorstock.com/i/1000x1000/59/16/cartoon-van-medical-car-ambulance-vehicle-vector-18525916.jpg
+Completed Image ====> 32. cartoon-van-medical-car-ambulance-vehicle-vector-18525916.jpg
+Image URL: http://www.paratechambulance.com/assets/slides/IMG_1.gif
+Completed Image ====> 33. img_1.gif
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ambulance_Graz_side2.jpg/1200px-Ambulance_Graz_side2.jpg
+Completed Image ====> 34. 1200px-ambulance_graz_side2.jpg
+Image URL: http://www.superior-nm.com/wp-content/uploads/2014/03/Ambulance-Cropped.png
+Completed Image ====> 35. ambulance-cropped.png
+Image URL: http://www.tristateambulance.org/wp-content/uploads/2011/05/12096343_1015297178490738_8708542906591725831_n.jpg
+Completed Image ====> 36. 12096343_1015297178490738_8708542906591725831_n.jpg
+Image URL: https://www.gannett-cdn.com/-mm-/e81522e5cb6b52c56a7bbbc533b97f5661227e4c/c=0-132-1952-1600/local/-/media/Phoenix/GenericImages/2014/03/24//1395680181000-phxdc5-6eiyzvcnkeh1camsaxv-original.jpg?width=534&height=401&fit=crop
+Completed Image ====> 37. 1395680181000-phxdc5-6eiyzvcnkeh1camsaxv-original.jpg
+Image URL: http://www.proairllc.com/image/cache/data/Ambulance%201-300x175.JPG
+Completed Image ====> 38. ambulance%201-300x175.jpg
+Image URL: https://blog.static.healthcare.com/uploads/2017/06/ambulanceer.jpg
+Completed Image ====> 39. ambulanceer.jpg
+Image URL: https://goshenfireco.org/wp-content/uploads/2015/08/a561.jpg
+Completed Image ====> 40. a561.jpg
+Image URL: https://www.ridgeviewmedical.org/images/uploads/4_RMCAmbulance2015.jpg
+Completed Image ====> 41. 4_rmcambulance2015.jpg
+Image URL: https://www.hallcounty.org/ImageRepository/Document?documentID=2299
+Completed Image ====> 42. document?documentid=2299.jpg
+Image URL: https://media.playmobil.com/i/playmobil/5681_product_detail?locale=en-US,en,*&$pdp_product_main_xl$&strip=true
+Completed Image ====> 43. 5681_product_detail?locale=en-us,en,*&$pdp_product_main_xl$&strip=true.jpg
+Image URL: http://kniakrls.com/wp-content/uploads/2017/05/Knoxville-Fire-and-Rescue.jpg
+Completed Image ====> 44. knoxville-fire-and-rescue.jpg
+Image URL: https://content.jdmagicbox.com/def_content/ambulance_services/default-ambulance-services-0.jpg
+Completed Image ====> 45. default-ambulance-services-0.jpg
+Image URL: https://media.malaymail.com/uploads/articles/2017/2017-08/kkm_ambulance_bernama_2017_08_07.jpg
+Completed Image ====> 46. kkm_ambulance_bernama_2017_08_07.jpg
+Image URL: https://royaltyambulance.com/wp-content/uploads/2016/09/IMG_0276.jpg
+Completed Image ====> 47. img_0276.jpg
+Image URL: http://www.lincolncoks.com/portals/ks-lincoln/images/P7280018_ambulance.jpg
+Completed Image ====> 48. p7280018_ambulance.jpg
+Image URL: http://southburyambulance.org/wordpress/wp-content/uploads/2016/05/ambulance.png
+Completed Image ====> 49. ambulance.png
+Image URL: https://kaiserhealthnews.files.wordpress.com/2017/10/ambulance_1350.jpg?w=1024
+Completed Image ====> 50. ambulance_1350.jpg
+Image URL: https://cdn3.vectorstock.com/i/1000x1000/39/42/ambulance-vector-233942.jpg
+Completed Image ====> 51. ambulance-vector-233942.jpg
+Image URL: https://arrowambulances.com/img/asset/gen2-ambulance-2.png
+Completed Image ====> 52. gen2-ambulance-2.png
+Image URL: https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/styles/companion_top/public/AbulanceHITNistock_2.jpg?itok=jJN2phE4
+Completed Image ====> 53. abulancehitnistock_2.jpg
+Image URL: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/socialmedia/apple/155/ambulance_1f691.png
+Completed Image ====> 54. ambulance_1f691.png
+Image URL: http://www.mysafecalifornia.org/wp-content/uploads/2014/09/ALS-Rescue.jpg
+Completed Image ====> 55. als-rescue.jpg
+Image URL: https://i.guim.co.uk/img/media/ed3ce8d4f807adfa89e513e36b2b19bb3ac24b13/0_194_5000_2999/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=81e816a46e04090fe8c7840315ed3934
+Completed Image ====> 56. 5000.jpg
+Image URL: https://www.stjohnnt.org.au/img/inner/header/ambulance-centres.jpg
+Completed Image ====> 57. ambulance-centres.jpg
+Image URL: http://expressambulanceco.com/wp-content/uploads/2014/04/ambulance-450.png
+Completed Image ====> 58. ambulance-450.png
+Image URL: https://www.wheeledcoach.com/resources/media/user/1523099031-wheeled-coach-ambulances-for-sale-banner.jpg
+Completed Image ====> 59. 1523099031-wheeled-coach-ambulances-for-sale-banner.jpg
+Image URL: https://f0vgx1vnfmx1awr1x193ugoo-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/ambulance-820-8-837x627.jpg
+Completed Image ====> 60. ambulance-820-8-837x627.jpg
+Image URL: https://d27ucmmhxk51xv.cloudfront.net/media/english/illustration/ambulance.jpg?version=1.1.75
+URLError on an image...trying next one... Error: HTTP Error 500: Internal Server Error
+Image URL: https://www.nerigroup.net/wp-content/uploads/2018/09/a-new-ambulance-donated-by-the-neri-group-1024x498.jpg
+Completed Image ====> 61. a-new-ambulance-donated-by-the-neri-group-1024x498.jpg
+Image URL: https://www.gannett-cdn.com/presto/2018/10/30/PSIF/02c2c8f9-f23a-4a96-9d52-9732430103b6-Garretson_ambulance.jpg?crop=2365,1323,x0,y0&width=3200&height=1680&fit=bounds
+Completed Image ====> 62. 02c2c8f9-f23a-4a96-9d52-9732430103b6-garretson_ambulance.jpg
+Image URL: http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F7ceb9f3a-0aab-11e8-9ed2-93cf9d74a2fe.jpg?crop=4699%2C2643%2C0%2C245
+Completed Image ====> 63. methode%2ftimes%2fprod%2fweb%2fbin%2f7ceb9f3a-0aab-11e8-9ed2-93cf9d74a2fe.jpg
+Image URL: https://cbschicago.files.wordpress.com/2016/10/rush-mobile-stroke-treatment-unit.jpg?w=1024&h=576&crop=1
+Completed Image ====> 64. rush-mobile-stroke-treatment-unit.jpg
+Image URL: https://media.apnarm.net.au/media/images/2017/12/24/b881150608z1_20171224102805_000gmctthh93-0-sp13weyfi9ezztqchp2_fct2270x1380_ct677x380.jpg
+Completed Image ====> 65. b881150608z1_20171224102805_000gmctthh93-0-sp13weyfi9ezztqchp2_fct2270x1380_ct677x380.jpg
+Image URL: https://i.ytimg.com/vi/-ubyfnNldxk/maxresdefault.jpg
+Completed Image ====> 66. maxresdefault.jpg
+Image URL: http://triesenburg.com/wp-content/uploads/2016/05/Kingo-Ambulance.jpg
+Completed Image ====> 67. kingo-ambulance.jpg
+Image URL: https://media.nbcdfw.com/images/653*367/ambulancelimo051112_722x406_2233871469.jpg
+Completed Image ====> 68. ambulancelimo051112_722x406_2233871469.jpg
+Image URL: http://4.imimg.com/data4/IE/RG/MY-2072071/basic-life-support-ambulance-vehicle-500x500.jpg
+Completed Image ====> 69. basic-life-support-ambulance-vehicle-500x500.jpg
+Image URL: https://arrowambulances.com/img/asset/remounting-existing-2.png
+Completed Image ====> 70. remounting-existing-2.png
+Image URL: https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=406501803072597
+Completed Image ====> 71. ?media_id=406501803072597.jpg
+Image URL: https://www.eastcoastambulance.com/cmsAdmin/uploads/eastcoastambulance_01_cut.jpg
+Completed Image ====> 72. eastcoastambulance_01_cut.jpg
+Image URL: http://www.winonaambulance.com/wp-content/uploads/2016/09/Recruitment.jpg
+Completed Image ====> 73. recruitment.jpg
+Image URL: https://img-aws.ehowcdn.com/877x500p/photos.demandstudios.com/getty/article/94/112/177478260.jpg
+Completed Image ====> 74. 177478260.jpg
+Image URL: https://media.bizj.us/view/img/10169587/envision-amr*1024xx640-360-0-22.jpg
+Completed Image ====> 75. envision-amr*1024xx640-360-0-22.jpg
+Image URL: https://static01.nyt.com/images/2016/05/22/nyregion/00NYAMBULANCE1/00NYAMBULANCE1-master768.jpg
+Completed Image ====> 76. 00nyambulance1-master768.jpg
+Image URL: http://www.medwayair.com/wp-content/uploads/2015/08/medwayair.jpg
+Completed Image ====> 77. medwayair.jpg
+Image URL: http://www.gov.sg/~/media/gov/factually/thumbnail/defence%20and%20security/scdf%20ambulance1.jpg
+Completed Image ====> 78. scdf%20ambulance1.jpg
+Image URL: https://www.alertambulance.com/wp-content/uploads/2017/08/alert-ambulance-nj-emt-51.jpg
+Completed Image ====> 79. alert-ambulance-nj-emt-51.jpg
+Image URL: https://s.hdnux.com/photos/37/16/73/8187642/5/920x920.jpg
+Completed Image ====> 80. 920x920.jpg
+Image URL: https://www.264bell.com/image/120121528.jpg
+Completed Image ====> 81. 120121528.jpg
+Image URL: http://www.northfield-vt.gov/images/NAS_Facility.JPG
+Completed Image ====> 82. nas_facility.jpg
+Image URL: http://www.safeambulances.org/wp-content/uploads/2016/04/Ambulance-Main-Banner-Image-5-1024x541.jpg
+Completed Image ====> 83. ambulance-main-banner-image-5-1024x541.jpg
+Image URL: https://www.cityofmesquite.com/ImageRepository/Document?documentID=6671
+Completed Image ====> 84. document?documentid=6671.jpg
+Image URL: http://care-ambulance.com/wp-content/uploads/2017/02/home1-care.jpg
+Completed Image ====> 85. home1-care.jpg
+Image URL: https://cdn.abcotvs.com/dip/images/4138566_090318-kgo-ambulance-wide-img_Image_00-00-01,02.jpg?w=630
+Completed Image ====> 86. 4138566_090318-kgo-ambulance-wide-img_image_00-00-01,02.jpg
+Image URL: http://klehospital.org/wp-content/uploads/2016/10/ambulance1-300x232.jpg
+Completed Image ====> 87. ambulance1-300x232.jpg
+Image URL: https://bloximages.chicago2.vip.townnews.com/wacotrib.com/content/tncms/assets/v3/editorial/7/2e/72ee5ac8-3fc0-5bf7-9c90-e2b0c7100f6f/5b60f89110691.image.jpg?resize=1200%2C856
+Completed Image ====> 88. 5b60f89110691.image.jpg
+Image URL: https://timedotcom.files.wordpress.com/2018/07/ambulance.jpg?quality=85
+Completed Image ====> 89. ambulance.jpg
+Image URL: http://www.careambulance.net/images/Care%20Reflection%20wb2.jpg
+Completed Image ====> 90. care%20reflection%20wb2.jpg
+Image URL: https://www.inovachildrens.org/upload/images/Services/emergency-services/peds-amublance-inova-childrens-hospital.png
+Completed Image ====> 91. peds-amublance-inova-childrens-hospital.png
+Image URL: http://mediad.publicbroadcasting.net/p/kalw/files/styles/medium/public/201809/ambulance_in_san_francisco__tk_.jpg
+Completed Image ====> 92. ambulance_in_san_francisco__tk_.jpg
+Image URL: https://www.demers-ambulances.com/wp-content/uploads/2017/09/mx_170_ems.jpg
+Completed Image ====> 93. mx_170_ems.jpg
+Image URL: https://www.granitefallshealth.com/wp-content/uploads/2017/06/ambulance-gf-img2-1.jpg
+Completed Image ====> 94. ambulance-gf-img2-1.jpg
+Image URL: https://cache-blog.credit.com/wp-content/uploads/2013/10/ambulance-ride.jpg
+Completed Image ====> 95. ambulance-ride.jpg
+Image URL: https://www.braunambulances.com/wp-content/uploads/2016/08/4.Braun-Ambulance-Signature-Series-1.jpg
+Completed Image ====> 96. 4.braun-ambulance-signature-series-1.jpg
+Image URL: https://cdn4.i-scmp.com/sites/default/files/styles/980x551/public/images/methode/2018/03/19/3ad880d2-2b4d-11e8-aca1-e0fd24c4b573_1280x720_181339.JPG?itok=YJegyjvO
+Completed Image ====> 97. 3ad880d2-2b4d-11e8-aca1-e0fd24c4b573_1280x720_181339.jpg
+Image URL: https://avalonboro.net/wp-content/uploads/2018/11/2018-Avalon-Rescue-Squad-Ambulance.jpg
+Completed Image ====> 98. 2018-avalon-rescue-squad-ambulance.jpg
+Image URL: http://www.thomastonct.org/filestorage/161/226/close_up_tvac.jpg
+Completed Image ====> 99. close_up_tvac.jpg
+
+Errors: 1
+
+
+Everything downloaded!
+Total time taken: 69.07550644874573 Seconds
+
+Item no.: 1 --> Item name = animal migration
+Evaluating...
+Starting Download...
+Image URL: https://media.mnn.com/assets/images/2018/02/WildebeestsZebrasMigrationRiverCrossing.jpg.1000x0_q80_crop-smart.jpg
+Completed Image ====> 1. wildebeestszebrasmigrationrivercrossing.jpg
+Image URL: https://s.hswstatic.com/gif/animal-migration-caribou.jpg
+Completed Image ====> 2. animal-migration-caribou.jpg
+Image URL: https://image.redbull.com/rbcom/010/2014-06-23/1331660705055_7/0100/0/1/greatest-animal-migration-wildebeest.jpg
+IOError on an image...trying next one... Error: The read operation timed out
+Image URL: http://www.takepart.com/sites/default/files/styles/large/public/MigrationMapsMAIN.jpg
+Completed Image ====> 3. migrationmapsmain.jpg
+Image URL: https://cdn.britannica.com/00/92800-004-4B28332F.jpg
+Completed Image ====> 4. 92800-004-4b28332f.jpg
+Image URL: https://i.ytimg.com/vi/zdUkJfW_xmY/maxresdefault.jpg
+Completed Image ====> 5. maxresdefault.jpg
+Image URL: https://www.rd.com/wp-content/uploads/2013/11/03-migration-wildebeest-sl.jpg
+Completed Image ====> 6. 03-migration-wildebeest-sl.jpg
+Image URL: http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/13323078/silke_banner_ksm.jpg
+Completed Image ====> 7. silke_banner_ksm.jpg
+Image URL: http://idahoptv.org/sciencetrek/topics/animal_migration/images/birds.png
+Completed Image ====> 8. birds.png
+Image URL: https://images.immediate.co.uk/volatile/sites/4/2018/07/iStock_000050990954_Large-66faf21.jpg?quality=45&resize=960,413
+Completed Image ====> 9. istock_000050990954_large-66faf21.jpg
+Image URL: https://www.neefusa.org/sites/default/files/styles/article_hero/public/field/image/WEB18-AnimalMigration-ButterfliesOnBranch-4200x2362.jpg?itok=y2E6_Gh_
+Completed Image ====> 10. web18-animalmigration-butterfliesonbranch-4200x2362.jpg
+Image URL: https://www.sciencedaily.com/images/2011/01/110120142323_1_540x360.jpg
+Completed Image ====> 11. 110120142323_1_540x360.jpg
+Image URL: https://image.redbull.com/rbcom/010/2014-06-23/1331660705055_7/0012/0/853/0/3400/5099/1050/1/greatest-animal-migration-wildebeest.jpg
+Completed Image ====> 12. greatest-animal-migration-wildebeest.jpg
+Image URL: http://www.refinedtravellers.com/wp-content/uploads/2017/12/flamingostanding.jpg
+Completed Image ====> 13. flamingostanding.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/1/19/Tadarida_brasiliensis_outflight_Hristov_Carlsbad_Caverns.jpg
+Completed Image ====> 14. tadarida_brasiliensis_outflight_hristov_carlsbad_caverns.jpg
+Image URL: https://www.earthrangers.com/content/wildwire/343x227xrunning_wildebeest.jpg.pagespeed.ic._RRczH98Tj.jpg
+Completed Image ====> 15. 343x227xrunning_wildebeest.jpg
+Image URL: http://cdn.earthporm.com/wp-content/uploads/2014/12/animal-migration-photography-151__880.jpg
+Completed Image ====> 16. animal-migration-photography-151__880.jpg
+Image URL: https://image.slidesharecdn.com/animalmigrationpresentation-130827082858-phpapp02/95/animal-migration-presentation-1-638.jpg?cb=1377592909
+Completed Image ====> 17. animal-migration-presentation-1-638.jpg
+Image URL: http://cdn.lifebuzz.com/images/21933/lifebuzz-7e1377d7a7ed6f450c9d5c65e9c1b62b-limit_2000.jpg
+Completed Image ====> 18. lifebuzz-7e1377d7a7ed6f450c9d5c65e9c1b62b-limit_2000.jpg
+Image URL: http://i2.cdn.turner.com/cnn/dam/assets/130923160142-christmas-island-crab-migration-horizontal-gallery.jpg
+Completed Image ====> 19. 130923160142-christmas-island-crab-migration-horizontal-gallery.jpg
+Image URL: https://cdn.cnn.com/cnnnext/dam/assets/150203152417-animal-migration---adlie-penguin-super-169.jpg
+Completed Image ====> 20. 150203152417-animal-migration---adlie-penguin-super-169.jpg
+Image URL: https://g.fmanager.net/image/animals_migration/elephant_birds_2.jpg
+Completed Image ====> 21. elephant_birds_2.jpg
+Image URL: https://news.nationalgeographic.com/content/dam/news/photos/000/801/80162.ngsversion.1422285733737.adapt.1900.1.jpg
+Completed Image ====> 22. 80162.ngsversion.1422285733737.adapt.1900.1.jpg
+Image URL: https://res.cloudinary.com/dk-find-out/image/upload/q_80,c_lpad,h_760,w_1380,f_auto/A-RobertHarding-817-186737_b6uaic.jpg
+Completed Image ====> 23. a-robertharding-817-186737_b6uaic.jpg
+Image URL: https://media.mnn.com/assets/images/2013/12/flying-v-feat.jpg.560x0_q80_crop-smart.jpg
+Completed Image ====> 24. flying-v-feat.jpg
+Image URL: https://media.nationalgeographic.org/assets/photos/000/004/490.jpg
+Completed Image ====> 25. 490.jpg
+Image URL: http://cdn.lifebuzz.com/images/21917/lifebuzz-475c4b6412a2255c062f1478dc9b4ab6-limit_2000.jpg
+Completed Image ====> 26. lifebuzz-475c4b6412a2255c062f1478dc9b4ab6-limit_2000.jpg
+Image URL: https://i.ytimg.com/vi/gx3FdIqZaRY/maxresdefault.jpg
+Completed Image ====> 27. maxresdefault.jpg
+Image URL: https://static.boredpanda.com/blog/wp-content/uploads/2014/12/animal-migration-photography-fb.jpg
+Completed Image ====> 28. animal-migration-photography-fb.jpg
+Image URL: https://d36tnp772eyphs.cloudfront.net/matadortrips.com/docs/wp-content/images/posts/20110325-cranes.jpg
+Completed Image ====> 29. 20110325-cranes.jpg
+Image URL: https://r.hswstatic.com/w_907/gif/partial-migration.jpg
+Completed Image ====> 30. partial-migration.jpg
+Image URL: http://www.kickvick.com/wp-content/uploads/2014/12/animal-migration-photos-a-49.jpg
+Completed Image ====> 31. animal-migration-photos-a-49.jpg
+Image URL: http://emperorpenguinmigraton.weebly.com/uploads/1/5/2/2/15224482/4671524_orig.jpg?0
+Completed Image ====> 32. 4671524_orig.jpg
+Image URL: https://cdn.cnn.com/cnnnext/dam/assets/150120150734-animal-migration---humback-whale-super-169.jpg
+Completed Image ====> 33. 150120150734-animal-migration---humback-whale-super-169.jpg
+Image URL: http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/13323160/silke_figure1_ksm.jpg
+Completed Image ====> 34. silke_figure1_ksm.jpg
+Image URL: https://www.nathab.com/uploaded-files/carousels/TRIPS/Kenya-Migration/1-Africa-Kenya-Migration-3-wildebeest.jpg
+Completed Image ====> 35. 1-africa-kenya-migration-3-wildebeest.jpg
+Image URL: https://static.scientificamerican.com/sciam/cache/file/56397974-6262-4932-81EAF7893A4D76C0_source.jpg?w=590&h=800&EEC4F241-4221-4C9C-B0B111AB1DD6840F
+Completed Image ====> 36. 56397974-6262-4932-81eaf7893a4d76c0_source.jpg
+Image URL: https://pmdvod.nationalgeographic.com/NG_Video/205/302/smpost_1510342850295.jpg
+Completed Image ====> 37. smpost_1510342850295.jpg
+Image URL: http://discovermagazine.com/~/media/Images/Zen%20Photo/L/long%20animal%20migrations/2780.jpg
+Completed Image ====> 38. 2780.jpg
+Image URL: https://www.tripsavvy.com/thmb/7D3tNIiLfiB8bCC6yj_CRPMKk_0=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/98473534-56a375425f9b58b7d0d20a83.jpg
+Completed Image ====> 39. 98473534-56a375425f9b58b7d0d20a83.jpg
+Image URL: https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_900,h_600/https://www.zambiatourism.com/media/20161201_0314-_-Bat-Kasanka-National-Park-in-Zambia1-10-sec-at-f-22-ISO-100-_-Canon-EOS-1D-X-Mark-II-EF600mm-f-4L-IS-USM-1.4x-III-lens-_-Shutter-priority-1-EV.jpg
+Completed Image ====> 40. 20161201_0314-_-bat-kasanka-national-park-in-zambia1-10-sec-at-f-22-iso-100-_-canon-eos-1d-x-mark-ii-ef600mm-f-4l-is-usm-1.4x-iii-lens-_-shutter-priority-1-ev.jpg
+Image URL: https://i.ytimg.com/vi/dkjybwx3XF4/maxresdefault.jpg
+Completed Image ====> 41. maxresdefault.jpg
+Image URL: https://media.wired.com/photos/59c59d4376cc6311a590dbce/master/w_2227,c_limit/storkmigration-TA.jpg
+Completed Image ====> 42. storkmigration-ta.jpg
+Image URL: http://3.bp.blogspot.com/-bElpliFLqto/UCzrU14AgQI/AAAAAAAAANM/bmXFu6_hf1E/s1600/Wildebeest+migration+animal+facts+African+photo+safari+Masai+mara+safari+wildebeest+migration+Masai+mara+national+park+Kenya+safaris+in+Africa+amazing+beautiful+wildebeest+animal+photos.JPG
+Completed Image ====> 43. wildebeest+migration+animal+facts+african+photo+safari+masai+mara+safari+wildebeest+migration+masai+mara+national+park+kenya+safaris+in+africa+amazing+beautiful+wildebeest+animal+photos.jpg
+Image URL: http://www.takepart.com/sites/default/files/styles/large/public/EuropeanSongbirdMigration.jpg
+Completed Image ====> 44. europeansongbirdmigration.jpg
+Image URL: https://static01.nyt.com/images/2007/06/12/science/12migration.xlarge1.jpg
+Completed Image ====> 45. 12migration.xlarge1.jpg
+Image URL: http://www.biologyreference.com/images/biol_03_img0288.jpg
+Completed Image ====> 46. biol_03_img0288.jpg
+Image URL: https://cdn.britannica.com/s:500x350/96/180096-049-DEF5D081.jpg
+Completed Image ====> 47. 180096-049-def5d081.jpg
+Image URL: https://underscience.com/wp-content/uploads/2015/10/Animal_Migrations_opt.jpg
+Completed Image ====> 48. animal_migrations_opt.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wildebeest-during-Great-Migration.JPG/290px-Wildebeest-during-Great-Migration.JPG
+Completed Image ====> 49. 290px-wildebeest-during-great-migration.jpg
+Image URL: http://cdn.earthporm.com/wp-content/uploads/2014/12/animal-migration-photography-41__880.jpg
+Completed Image ====> 50. animal-migration-photography-41__880.jpg
+Image URL: https://theboldcorsicanflame.files.wordpress.com/2013/11/amazing_animals2.jpg
+Completed Image ====> 51. amazing_animals2.jpg
+Image URL: https://i.ytimg.com/vi/bisPxuEZCCU/hqdefault.jpg
+Completed Image ====> 52. hqdefault.jpg
+Image URL: http://www.woodlandtrust.org/media/100819967/greylag-geese-flock-istock-461948687-anagramm-580x435.jpg?cb=df53d41bfd114581bcef5663b2369b75&preset=blogpost_listing_cover
+Completed Image ====> 53. greylag-geese-flock-istock-461948687-anagramm-580x435.jpg
+Image URL: https://static.boredpanda.com/blog/wp-content/uploads/2014/12/animal-migration-photography-141__880.jpg
+Completed Image ====> 54. animal-migration-photography-141__880.jpg
+Image URL: http://www.banderasnews.com/0609/images/animalmigration.jpg
+Completed Image ====> 55. animalmigration.jpg
+Image URL: https://media.buzzle.com/media/images-en/photos/mammals/1200-85478695-gnus-migration-africa.jpg
+Completed Image ====> 56. 1200-85478695-gnus-migration-africa.jpg
+Image URL: https://media.cntraveler.com/photos/53da6d306dec627b149e989b/master/w_420,c_limit/monarch-butterfly-migration-ingo-arndt-minden-pictures.jpg
+Completed Image ====> 57. monarch-butterfly-migration-ingo-arndt-minden-pictures.jpg
+Image URL: http://www.refinedtravellers.com/wp-content/uploads/2017/12/wildebeest.jpg
+Completed Image ====> 58. wildebeest.jpg
+Image URL: http://cdn.earthporm.com/wp-content/uploads/2014/12/animal-migration-photography-108__880.jpg
+Completed Image ====> 59. animal-migration-photography-108__880.jpg
+Image URL: https://images.ucpress.edu/covers/isbn13/9780520258235.jpg
+Completed Image ====> 60. 9780520258235.jpg
+Image URL: http://www.kickvick.com/wp-content/uploads/2014/12/animal-migration-photos-a-14.jpg
+Completed Image ====> 61. animal-migration-photos-a-14.jpg
+Image URL: https://www.neefusa.org/sites/default/files/field/image/WEB16_animal_migration_geese2_3905x2197.jpg
+Completed Image ====> 62. web16_animal_migration_geese2_3905x2197.jpg
+Image URL: https://s.hswstatic.com/gif/wildebeest-migration-568868095.jpg
+Completed Image ====> 63. wildebeest-migration-568868095.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Wildebeest_crossing_river_-_Stefan_Swanepoel.jpg/1200px-Wildebeest_crossing_river_-_Stefan_Swanepoel.jpg
+Completed Image ====> 64. 1200px-wildebeest_crossing_river_-_stefan_swanepoel.jpg
+Image URL: https://timbuktutravel.imgix.net/2018/01/liuwa-plains-wildebeest-migration-timbuktu-travel.jpg?auto=compress%2Cformat&fit=scale&h=600&ixlib=php-1.1.0&q=50&w=900&wpsize=large
+Completed Image ====> 65. liuwa-plains-wildebeest-migration-timbuktu-travel.jpg
+Image URL: https://us-east.manta.joyent.com/condenast/public/cnt-services/production/2014/07/31/53da6d3ddcd5888e145b3917_wildebeest-zebra-migration-serengeti-national-park-The-Africa-Image-Library-Alamy.jpg
+Completed Image ====> 66. 53da6d3ddcd5888e145b3917_wildebeest-zebra-migration-serengeti-national-park-the-africa-image-library-alamy.jpg
+Image URL: http://science.sciencemag.org/content/sci/331/6015/296/F2.large.jpg
+Completed Image ====> 67. f2.large.jpg
+Image URL: http://www.alexalvarez007.com/wp-content/uploads/2011/11/animal-migration.jpg
+Completed Image ====> 68. animal-migration.jpg
+Image URL: https://www.sciencedaily.com/images/2018/04/180410103507_1_540x360.jpg
+Completed Image ====> 69. 180410103507_1_540x360.jpg
+Image URL: https://static1.squarespace.com/static/583eea74be659429d12fb2a8/5841c57ab8a79bbdfd448a38/5841c6b644024382e44e06f3/1480705735526/GN84177.jpg
+Completed Image ====> 70. gn84177.jpg
+Image URL: http://www.refinedtravellers.com/wp-content/uploads/2017/12/elephantspipermackay.jpg
+Completed Image ====> 71. elephantspipermackay.jpg
+Image URL: http://www.kickvick.com/wp-content/uploads/2014/12/animal-migration-photos-a-09.jpg
+Completed Image ====> 72. animal-migration-photos-a-09.jpg
+Image URL: https://everydayscience.blog/wp-content/uploads/2018/03/pexels-photo-925967-1.jpeg
+Completed Image ====> 73. pexels-photo-925967-1.jpeg
+Image URL: http://jacksonhole-traveler-production.s3.amazonaws.com/wp-content/uploads/2015/11/04210707/Path_of_Pronghorn_Spring_Migration_Pinedale_WY_Dave_Bell-1280x853.jpg
+Completed Image ====> 74. path_of_pronghorn_spring_migration_pinedale_wy_dave_bell-1280x853.jpg
+Image URL: http://science.sciencemag.org/content/sci/331/6015/296/F1.large.jpg?width=800&height=600&carousel=1
+Completed Image ====> 75. f1.large.jpg
+Image URL: https://static.scientificamerican.com/sciam/cache/file/302828BA-EE29-403C-8DD925C48E5B1AEF_source.jpg?w=590&h=800&30EAA71E-B84F-47CD-B96DA1C34CE13135
+Completed Image ====> 76. 302828ba-ee29-403c-8dd925c48e5b1aef_source.jpg
+Image URL: https://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/images/amexpub/0023/4173/201107-w-migrations-crane.jpg?itok=QM0jOs8I
+Completed Image ====> 77. 201107-w-migrations-crane.jpg
+Image URL: https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2018/studyanimalm.jpg
+Completed Image ====> 78. studyanimalm.jpg
+Image URL: https://pics.me.me/you-were-asked-to-draw-animal-migration-you-drew-this-6799982.png
+Completed Image ====> 79. you-were-asked-to-draw-animal-migration-you-drew-this-6799982.png
+Image URL: https://farm2.staticflickr.com/1574/26351714795_990f2e69b2_b.jpg
+Completed Image ====> 80. 26351714795_990f2e69b2_b.jpg
+Image URL: http://assets.worldwildlife.org/photos/6905/images/story_full_width/P3280211.JPG?1400099090
+Completed Image ====> 81. p3280211.jpg
+Image URL: https://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/images/amexpub/0023/4263/201107-w-migrations-wildebeest_zebra.jpg?itok=Sjzj3F-u
+Completed Image ====> 82. 201107-w-migrations-wildebeest_zebra.jpg
+Image URL: https://worldlife2010.files.wordpress.com/2010/04/12.jpg
+Completed Image ====> 83. 12.jpg
+Image URL: https://themysteriousworld.com/wp-content/uploads/2014/05/Caribou.jpg
+Completed Image ====> 84. caribou.jpg
+Image URL: http://i.imgur.com/9gVHu71.png
+Completed Image ====> 85. 9gvhu71.png
+Image URL: https://i.kinja-img.com/gawker-media/image/upload/s--7FppSZ2l--/c_fill,f_auto,fl_progressive,g_center,h_675,q_80,w_1200/1921mftlqe8sljpg.jpg
+Completed Image ====> 86. 1921mftlqe8sljpg
+Image URL: http://assets.climatecentral.org/images/uploads/news/8_29_16_Brian_AllUSMigration.gif
+Completed Image ====> 87. 8_29_16_brian_allusmigration.gif
+Image URL: https://img.bhs4.com/dd/e/dde0e573928cea9424c5a938cc48dbe40750f132_large.jpg
+Completed Image ====> 88. dde0e573928cea9424c5a938cc48dbe40750f132_large.jpg
+Image URL: https://files.nc.gov/ncdcr/styles/main-image/public/wild-geese-1150149_960_720.jpg?itok=3YPXI8Jl
+Completed Image ====> 89. wild-geese-1150149_960_720.jpg
+Image URL: http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/13323185/silke_figure2_ksm.jpg
+Completed Image ====> 90. silke_figure2_ksm.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Christmas_Red_Crab.JPG/220px-Christmas_Red_Crab.JPG
+Completed Image ====> 91. 220px-christmas_red_crab.jpg
+Image URL: https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_900,h_600/https://www.zambiatourism.com/media/20161205_1033-_-Bat-Kasanka-National-Park-in-Zambia1-1250-sec-at-f-28-ISO-3200-_-Canon-EOS-1D-X-Mark-II-EF400mm-f-2.8L-IS-II-USM-lens-_-Aperture-priority-0-EV.jpg
+Completed Image ====> 92. 20161205_1033-_-bat-kasanka-national-park-in-zambia1-1250-sec-at-f-28-iso-3200-_-canon-eos-1d-x-mark-ii-ef400mm-f-2.8l-is-ii-usm-lens-_-aperture-priority-0-ev.jpg
+Image URL: http://1.bp.blogspot.com/-NIWscEx5QiQ/UCsfGNsfm1I/AAAAAAAAAKU/c1bUaGb1iW4/s1600/2Wildebeest+migration+animal+facts+African+photo+safari+Masai+mara+safari+wildebeest+migration+Masai+mara+national+park+Kenya+animals+on+a+safari+amazing+beautiful+wildebeest+animal+photos.jpg
+Completed Image ====> 93. 2wildebeest+migration+animal+facts+african+photo+safari+masai+mara+safari+wildebeest+migration+masai+mara+national+park+kenya+animals+on+a+safari+amazing+beautiful+wildebeest+animal+photos.jpg
+Image URL: https://topdocumentaryfilms.com/wp-content/uploads/2014/06/greatest-animal-migration.jpg
+Completed Image ====> 94. greatest-animal-migration.jpg
+Image URL: https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.0060188.g001&size=inline
+Completed Image ====> 95. journal.pbio.0060188.g001&size=inline.jpg
+Image URL: https://www.bwindiforestnationalpark.com/wp-content/uploads/kenya-great-migration.jpg
+Completed Image ====> 96. kenya-great-migration.jpg
+Image URL: http://www.kickvick.com/wp-content/uploads/2014/12/animal-migration-photos-a-43.jpg
+Completed Image ====> 97. animal-migration-photos-a-43.jpg
+Image URL: https://i.kym-cdn.com/photos/images/original/001/192/937/72a.png
+Completed Image ====> 98. 72a.png
+Image URL: http://www.travelvivi.com/wp-content/uploads/2011/10/animals-migration.jpg
+Completed Image ====> 99. animals-migration.jpg
+
+Errors: 1
+
+
+Everything downloaded!
+Total time taken: 80.63998913764954 Seconds
+
+Item no.: 1 --> Item name = apple
+Evaluating...
+Starting Download...
+Image URL: https://as-images.apple.com/is/image/AppleInc/aos/published/images/o/g/og/default/og-default?wid=1200&hei=630&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1525370171638
+Completed Image ====> 1. og-default?wid=1200&hei=630&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1525370171638.jpg
+Image URL: https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?201606271147
+Completed Image ====> 2. knowledge_graph_logo.png
+Image URL: https://store.storeimages.cdn-apple.com/4981/as-images.apple.com/is/image/AppleInc/aos/published/images/A/PP/APPLECARE/plus/APPLECARE-plus?wid=572&hei=572&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1495312164209
+Completed Image ====> 3. applecare-plus?wid=572&hei=572&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1495312164209.jpg
+Image URL: https://pbs.twimg.com/profile_images/856508346190381057/DaVvCgBo_400x400.jpg
+Completed Image ====> 4. davvcgbo_400x400.jpg
+Image URL: https://thumbor.forbes.com/thumbor/1280x868/https%3A%2F%2Fblogs-images.forbes.com%2Fdavidphelan%2Ffiles%2F2018%2F08%2Fapple-iphone-x-invite-2017-1200x719.jpeg
+Completed Image ====> 5. https%3a%2f%2fblogs-images.forbes.com%2fdavidphelan%2ffiles%2f2018%2f08%2fapple-iphone-x-invite-2017-1200x719.jpeg
+Image URL: https://yt3.ggpht.com/a-/AN66SAyPZfsl4zazfZcxfh3Csm5_MBFsq4doVZqLzw=s900-mo-c-c0xffffffff-rj-k-no
+Completed Image ====> 6. an66saypzfsl4zazfzcxfh3csm5_mbfsq4dovzqlzw=s900-mo-c-c0xffffffff-rj-k-no.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/250px-Apple_logo_black.svg.png
+Completed Image ====> 7. 250px-apple_logo_black.svg.png
+Image URL: https://cdn.vox-cdn.com/thumbor/-bKrYahnwqww9sH9v2h34v9ViA0=/0x114:585x559/1200x800/filters:focal(248x297:340x389)/cdn.vox-cdn.com/uploads/chorus_image/image/57272301/Screen_Shot_2017_10_23_at_10.16.32_AM.0.png
+Completed Image ====> 8. screen_shot_2017_10_23_at_10.16.32_am.0.png
+Image URL: https://media.wired.com/photos/59c166e1fdf0d5611a915af7/2:1/w_2500,c_limit/AppleProductLaunch-HP-GettyImages-846153794.jpg
+Completed Image ====> 9. appleproductlaunch-hp-gettyimages-846153794.jpg
+Image URL: https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg
+Completed Image ====> 10. apple-6-color-logo-100763179-large.jpg
+Image URL: https://www.apple.com/ac/ac-video-posterframe/1.0/images/ac-video-poster_848x480_2x.jpg
+Completed Image ====> 11. ac-video-poster_848x480_2x.jpg
+Image URL: https://boygeniusreport.files.wordpress.com/2016/10/macbook-pro-2016-apple-event-1.jpg?quality=98&strip=all
+Completed Image ====> 12. macbook-pro-2016-apple-event-1.jpg
+Image URL: https://yt3.ggpht.com/a-/AN66SAzxDg_iI5ZC5wJe9gOGYdw0KgD5be1iPg9v0A=s900-mo-c-c0xffffffff-rj-k-no
+Completed Image ====> 13. an66sazxdg_ii5zc5wje9gogydw0kgd5be1ipg9v0a=s900-mo-c-c0xffffffff-rj-k-no.jpg
+Image URL: https://www.t-mobile.com/content/dam/t-mobile/en-p/cell-phones/apple/apple-iphone-xs-max/gold/Apple-iPhoneXsMax-Gold-2-3x.jpg
+Completed Image ====> 14. apple-iphonexsmax-gold-2-3x.jpg
+Image URL: https://fortunedotcom.files.wordpress.com/2018/05/apple-logo_1.jpg?w=1024
+Completed Image ====> 15. apple-logo_1.jpg
+Image URL: https://store.storeimages.cdn-apple.com/4981/as-images.apple.com/is/image/AppleInc/aos/published/images/a/pp/apple/tv/apple-tv-hero-select-201510?wid=538&hei=535&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1503607253099
+Completed Image ====> 16. apple-tv-hero-select-201510?wid=538&hei=535&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1503607253099.jpg
+Image URL: https://store.storeimages.cdn-apple.com/4981/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xr/iphone-xr-select-201809-i3?wid=189&hei=469&fmt=png-alpha&.v=1536277190623
+Completed Image ====> 17. iphone-xr-select-201809-i3?wid=189&hei=469&fmt=png-alpha&.v=1536277190623.jpg
+Image URL: https://209.171.114.39/media/stores/logos/Apple-laptops-iphone-ipod-ipad-macbook-computer-logo_bAyPIkX.svg
+CertificateError on an image...trying next one... Error: hostname '209.171.114.39' doesn't match either of 'mapleviewcentre.com', 'www.mapleviewcentre.com'
+Image URL: https://www.gdrc.psychol.cam.ac.uk/images/apple/image
+Completed Image ====> 18. image.jpg
+Image URL: https://www.apple.com/ios/images/og.png?201803282153
+Completed Image ====> 19. og.png
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/1200px-Aerial_view_of_Apple_Park_dllu.jpg
+Completed Image ====> 20. 1200px-aerial_view_of_apple_park_dllu.jpg
+Image URL: http://knowledge.wharton.upenn.edu/wp-content/uploads/2014/03/apple-1024x440.jpg
+Completed Image ====> 21. apple-1024x440.jpg
+Image URL: https://cdn1.macworld.co.uk/cmsdata/features/3658198/apple-event-october-2018-invitation_thumb1200_4-3.jpg
+Completed Image ====> 22. apple-event-october-2018-invitation_thumb1200_4-3.jpg
+Image URL: https://i5.walmartimages.ca/images/Large/428/5_r/6000195494285_R.jpg
+Completed Image ====> 23. 6000195494285_r.jpg
+Image URL: https://lumiere-a.akamaihd.net/v1/images/file_2382bfbe.jpeg?width=1200&region=0%2C0%2C2000%2C2000&quality=8
+Completed Image ====> 24. file_2382bfbe.jpeg
+Image URL: https://www.theinquirer.net/w-images/7743612c-5f51-4790-9c90-5e8054b5bb27/2/fill/applemacmini-580x358.png
+Completed Image ====> 25. applemacmini-580x358.png
+Image URL: https://yt3.ggpht.com/a-/AN66SAzZwDT4U3NduxAa4WPLOuFkohfXKqf3oCuupw=s900-mo-c-c0xffffffff-rj-k-no
+Completed Image ====> 26. an66sazzwdt4u3nduxaa4wploufkohfxkqf3ocuupw=s900-mo-c-c0xffffffff-rj-k-no.jpg
+Image URL: https://support.apple.com/library/content/dam/edam/applecare/images/en_US/il/ios12-product-lockup-callout.png
+Completed Image ====> 27. ios12-product-lockup-callout.png
+Image URL: https://media.wired.com/photos/597f5fd4379cb630c7ae549b/master/w_2400,c_limit/Apple-Logo-Store-TA-692625636.jpg
+Completed Image ====> 28. apple-logo-store-ta-692625636.jpg
+Image URL: https://bestapples.com/wp-content/uploads/2018/01/ambrosia-apple.jpg
+Completed Image ====> 29. ambrosia-apple.jpg
+Image URL: https://cdn.vox-cdn.com/thumbor/B3JWBVO7PLMGTOMUGpuxtre6o1Y=/0x0:1914x1568/1200x800/filters:focal(807x598:1113x904)/cdn.vox-cdn.com/uploads/chorus_image/image/59052265/Screen_Shot_2018_03_16_at_9.32.34_AM.0.png
+Completed Image ====> 30. screen_shot_2018_03_16_at_9.32.34_am.0.png
+Image URL: https://store.storeimages.cdn-apple.com/4981/as-images.apple.com/is/image/AppleInc/aos/published/images/a/pp/apple/tv/apple-tv-hero-select-201709?wid=538&hei=535&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1504814112595
+Completed Image ====> 31. apple-tv-hero-select-201709?wid=538&hei=535&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1504814112595.jpg
+Image URL: https://zdnet3.cbsistatic.com/hub/i/2016/12/19/fdc030f7-6723-4c56-ae51-b6696dc2af74/a871939a9554df23686095579f708e8c/apple-logo.jpg
+Completed Image ====> 32. apple-logo.jpg
+Image URL: https://cdn1.woolworths.media/content/wowproductimages/medium/105919.jpg
+Completed Image ====> 33. 105919.jpg
+Image URL: https://www.extremetech.com/wp-content/uploads/2014/07/Apple-NOM-640x353.jpg
+Completed Image ====> 34. apple-nom-640x353.jpg
+Image URL: https://cnet1.cbsistatic.com/img/sQKswxNBU29Bn7ahndRbla8iSU4=/2018/03/16/6d11eca9-87b0-40da-9823-ca2bb0aadfdb/apple-event-march-27.png
+Completed Image ====> 35. apple-event-march-27.png
+Image URL: https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/image/AppleInc/aos/published/images/M/ME/MMEF2/MMEF2?wid=266&hei=291&fmt=png-alpha&.v=1503962928226
+Completed Image ====> 36. mmef2?wid=266&hei=291&fmt=png-alpha&.v=1503962928226.jpg
+Image URL: https://store.storeimages.cdn-apple.com/4981/as-images.apple.com/is/image/AppleInc/aos/published/images/a/pp/apple/watch/apple-watch-airpods-accessories-201809?wid=1440&hei=480&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1536180125960
+Completed Image ====> 37. apple-watch-airpods-accessories-201809?wid=1440&hei=480&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1536180125960.jpg
+Image URL: https://store.storeimages.cdn-apple.com/4981/as-images.apple.com/is/image/AppleInc/aos/published/images/M/Q0/MQ0W2/MQ0W2?wid=572&hei=572&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1495499672367
+Completed Image ====> 38. mq0w2?wid=572&hei=572&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1495499672367.jpg
+Image URL: http://static1.squarespace.com/static/5849b12a2e69cf47aecece6b/584ebb9646c3c416aac4f2b5/5b830f4dcd8366d1f2d15de9/1535382024204/apple.jpg?format=1500w
+Completed Image ====> 39. apple.jpg
+Image URL: https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2017/3-appleceotimc.jpg
+Completed Image ====> 40. 3-appleceotimc.jpg
+Image URL: https://betanews.com/wp-content/uploads/2014/04/Apple-worm-300x195.jpg
+Completed Image ====> 41. apple-worm-300x195.jpg
+Image URL: https://vignette.wikia.nocookie.net/disney/images/0/0c/Apple_1998_Logo.png/revision/latest?cb=20150821231545
+Completed Image ====> 42. latest?cb=20150821231545.jpg
+Image URL: https://images.idgesg.net/images/article/2017/06/switch_from_mac_to_pc_apple_logo-100726483-large.jpg
+Completed Image ====> 43. switch_from_mac_to_pc_apple_logo-100726483-large.jpg
+Image URL: https://healingartsalliance.org/wp-content/uploads/apple.jpg
+Completed Image ====> 44. apple.jpg
+Image URL: https://cdn.vox-cdn.com/thumbor/tVyOEUt6CLSbMKQHiE5ro2aYtS4=/0x0:2040x1360/1200x800/filters:focal(892x884:1218x1210)/cdn.vox-cdn.com/uploads/chorus_image/image/60152031/acastro_180604_1777_apple_wwdc_0001.0.jpg
+Completed Image ====> 45. acastro_180604_1777_apple_wwdc_0001.0.jpg
+Image URL: http://www.obsblanquerna.com/wp-content/uploads/2012/01/apple-black-logo-wallpaper.jpg
+Completed Image ====> 46. apple-black-logo-wallpaper.jpg
+Image URL: http://sites.psu.edu/siowfa15/wp-content/uploads/sites/29639/2015/09/04_Apples.jpg
+Completed Image ====> 47. 04_apples.jpg
+Image URL: https://www.t-mobile.com/content/dam/t-mobile/en-p/cell-phones/apple/apple-iphone-x/space-gray/Apple-iPhoneX-SpaceGray-3-3x.jpg
+Completed Image ====> 48. apple-iphonex-spacegray-3-3x.jpg
+Image URL: https://silktide.com/app/uploads/2015/03/Apple-cover.jpg
+Completed Image ====> 49. apple-cover.jpg
+Image URL: https://cdn.images.express.co.uk/img/dynamic/59/590x/Apple-MacBook-Air-update-936702.jpg
+Completed Image ====> 50. apple-macbook-air-update-936702.jpg
+Image URL: https://apal.org.au/wp-content/uploads/2016/05/Red-Delicious.jpg
+Completed Image ====> 51. red-delicious.jpg
+Image URL: https://i.redd.it/ivgdo8pv8m511.png
+Completed Image ====> 52. ivgdo8pv8m511.png
+Image URL: http://usapple.org/wp-content/uploads/2016/01/ThinkstockPhotos-177437649.jpg
+Completed Image ====> 53. thinkstockphotos-177437649.jpg
+Image URL: https://www.ncapplefestival.org/wp-content/uploads/2015/06/apples2.png?x20294
+Completed Image ====> 54. apples2.png
+Image URL: https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-watch-series-3_new-color_red_1.jpg
+Completed Image ====> 55. apple-watch-series-3_new-color_red_1.jpg
+Image URL: https://cdn.shopify.com/s/files/1/2017/9999/products/Sidekick-Apple-Watch_f78f3595-36d3-4645-913c-745f0651013b.jpg?v=1508414803
+Completed Image ====> 56. sidekick-apple-watch_f78f3595-36d3-4645-913c-745f0651013b.jpg
+Image URL: https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/image/AppleInc/aos/published/images/l/og/logo/device/logo-device-type-smartphone?wid=200&hei=200&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1527117808447
+Completed Image ====> 57. logo-device-type-smartphone?wid=200&hei=200&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1527117808447.jpg
+Image URL: https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5577/5577872_rd.jpg;maxHeight=640;maxWidth=550
+Completed Image ====> 58. 5577872_rd.jpg
+Image URL: https://www.att.com/catalog/en/skus/images/apple-iphone%20x-space%20gray-450x350.png
+Completed Image ====> 59. apple-iphone%20x-space%20gray-450x350.png
+Image URL: http://dailyhaymaker.com/wp-content/uploads/2018/08/applelogo.png
+Completed Image ====> 60. applelogo.png
+Image URL: https://cdn1.medicalnewstoday.com/content/images/articles/267290-apples.jpg
+Completed Image ====> 61. 267290-apples.jpg
+Image URL: https://asset.barrons.com/public/resources/images/ON-CN067_apple0_B620_20180430101100.jpg
+Completed Image ====> 62. on-cn067_apple0_b620_20180430101100.jpg
+Image URL: https://zdnet4.cbsistatic.com/hub/i/r/2017/05/25/e16ddd39-e2de-4c98-b2d5-fcd88715790f/resize/770xauto/331f04cf14f5e36074096df8f38ce4cf/apple-sg-sign.png
+Completed Image ====> 63. apple-sg-sign.png
+Image URL: https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/04/20/105146643-942074976.600x337.jpg?v=1524239102
+Completed Image ====> 64. 105146643-942074976.600x337.jpg
+Image URL: https://pixel.nymag.com/imgs/daily/grub/2018/10/02/02-bagel-emoji.w330.h330.jpg
+Completed Image ====> 65. 02-bagel-emoji.w330.h330.jpg
+Image URL: http://www.bctree.com/files/5769bfd4-42f4-4afe-95bb-18bbd8b0b5a5.png
+Completed Image ====> 66. 5769bfd4-42f4-4afe-95bb-18bbd8b0b5a5.png
+Image URL: https://s1.reutersmedia.net/resources/r/?m=02&d=20180830&t=2&i=1298923257&r=LYNXNPEE7S1U1&w=1280
+Completed Image ====> 67. ?m=02&d=20180830&t=2&i=1298923257&r=lynxnpee7s1u1&w=1280.jpg
+Image URL: https://www.bhphotovideo.com/images/images2500x2500/apple_mpxq2ll_a_13_3_macbook_pro_mid_1342537.jpg
+Completed Image ====> 68. apple_mpxq2ll_a_13_3_macbook_pro_mid_1342537.jpg
+Image URL: https://www.mallmaverick.com/system/stores/store_fronts/000/017/604/original/Apple.jpg?1452743449
+Completed Image ====> 69. apple.jpg
+Image URL: https://support.apple.com/content/dam/edam/applecare/images/en_US/mac/mini-hero-mac-family_2x.png
+Completed Image ====> 70. mini-hero-mac-family_2x.png
+Image URL: http://wizeditor.com/wp-content/uploads/2017/06/apple-macbook-event-20161027-7271.0.0.jpg
+Completed Image ====> 71. apple-macbook-event-20161027-7271.0.0.jpg
+Image URL: https://www.gannett-cdn.com/media/2018/06/25/USATODAY/USATODAY/636655452821393058-AP-Apple-Security-Lockdown.jpg?quality=10
+Completed Image ====> 72. 636655452821393058-ap-apple-security-lockdown.jpg
+Image URL: https://i.cbc.ca/1.4643890.1525208745!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/bosnia-apple.jpg
+Completed Image ====> 73. bosnia-apple.jpg
+Image URL: https://ichef.bbci.co.uk/news/660/cpsprodpb/6AE0/production/_102806372_gettyimages-994891836.jpg
+Completed Image ====> 74. _102806372_gettyimages-994891836.jpg
+Image URL: http://globalactionplan.ie/wp-content/uploads/2017/05/apple-7.jpg
+Completed Image ====> 75. apple-7.jpg
+Image URL: https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-846153794.jpg?w=730&crop=1
+Completed Image ====> 76. gettyimages-846153794.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/a/a5/Apple_gray_logo.png
+Completed Image ====> 77. apple_gray_logo.png
+Image URL: https://i.kinja-img.com/gawker-media/image/upload/s--zhKVkNGk--/c_scale,f_auto,fl_progressive,q_80,w_800/zunvouv5torvo0whpgbn.jpg
+Completed Image ====> 78. zunvouv5torvo0whpgbn.jpg
+Image URL: https://photos5.appleinsider.com/gallery/27338-40606-000-3x2-Airpods-l.jpg
+Completed Image ====> 79. 27338-40606-000-3x2-airpods-l.jpg
+Image URL: https://assets.pcmag.com/media/images/613163-apple-invite.png?thumb=y&width=810&height=456
+Completed Image ====> 80. 613163-apple-invite.png
+Image URL: https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2018/10/apple-event-october-2018.jpg?itok=BWXh2n9v
+Completed Image ====> 81. apple-event-october-2018.jpg
+Image URL: https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=615085188507202
+Completed Image ====> 82. ?media_id=615085188507202.jpg
+Image URL: https://cdn.vox-cdn.com/thumbor/qk1de8yT4KqbVGYyXP23cZHxkf0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/61884167/acastro_170731_1777_0004_v2.0.jpg
+Completed Image ====> 83. acastro_170731_1777_0004_v2.0.jpg
+Image URL: https://www.silicon.co.uk/wp-content/uploads/2014/06/apple-colour-logo.jpg
+Completed Image ====> 84. apple-colour-logo.jpg
+Image URL: https://ss7.vzw.com/is/image/VerizonWireless/otterbox-defender-series-apple-iphone-6-6s-black-77-52194-iset?$device-md$
+Completed Image ====> 85. otterbox-defender-series-apple-iphone-6-6s-black-77-52194-iset?$device-md$.jpg
+Image URL: https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-gallery-2018-1?wid=1068&hei=640&fmt=png-alpha&.v=1536171355016
+Completed Image ====> 86. iphone-xs-gallery-2018-1?wid=1068&hei=640&fmt=png-alpha&.v=1536171355016.jpg
+Image URL: https://pisces.bbystatic.com/image2/BestBuy_US/Gallery/tile-iPhoneXR-Fall2018_v2-42197.png
+Completed Image ====> 87. tile-iphonexr-fall2018_v2-42197.png
+Image URL: https://o.aolcdn.com/images/dims?quality=100&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-10%2Fff9b2dd0-d885-11e8-bff6-369294207ccd&client=amp-blogside-v2&signature=c17047fd1dfd54c6a67b13bd73ac4d7203622496
+Completed Image ====> 88. dims?quality=100&image_uri=https%3a%2f%2fs.yimg.com%2fos%2fcreatr-uploaded-images%2f2018-10%2fff9b2dd0-d885-11e8-bff6-369294207ccd&client=amp-blogside-v2&signature=c17047fd1dfd54c6a67b13bd73ac4d7203622496.jpg
+Image URL: https://mms.businesswire.com/media/20170321005601/en/576528/5/iPhone_7_and_iPhone_7_Plus_Product_Red_Hero_Lockup_2_Up_On_White_PR-PRINT.jpg
+Completed Image ====> 89. iphone_7_and_iphone_7_plus_product_red_hero_lockup_2_up_on_white_pr-print.jpg
+Image URL: https://www.costco.com/wcsstore/CostcoUSBCCatalogAssetStore/feature-pages/18w0919-apple-homepod.png
+Completed Image ====> 90. 18w0919-apple-homepod.png
+Image URL: https://cdn1.medicalnewstoday.com/content/images/articles/291/291683/apples.jpg
+Completed Image ====> 91. apples.jpg
+Image URL: https://i.gadgets360cdn.com/products/large/1514862978_480_Apple_iPhone_X_NDTV.jpg?downsize=770:*&output-quality=70&output-format=webp
+Completed Image ====> 92. 1514862978_480_apple_iphone_x_ndtv.jpg
+Image URL: https://i5.walmartimages.com/asr/2a35cd2a-8719-49f9-a369-8445cb53fb49_1.7ce0f921a93253b7e37f5ed875aa3914.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF
+Completed Image ====> 93. 2a35cd2a-8719-49f9-a369-8445cb53fb49_1.7ce0f921a93253b7e37f5ed875aa3914.jpeg
+Image URL: https://www.t-mobile.com/content/dam/t-mobile/en-p/internet-devices/apple/ipad-6th-generation/space-gray/Apple-iPad-SpaceGray-2-3x.jpg
+Completed Image ====> 94. apple-ipad-spacegray-2-3x.jpg
+Image URL: https://static-news.moneycontrol.com/static-mcnews/2017/09/apple-logo-4-770x433.jpg
+Completed Image ====> 95. apple-logo-4-770x433.jpg
+Image URL: https://support.apple.com/library/content/dam/edam/applecare/images/en_US/homepod/apple-tv-product-lockup-callout.png
+Completed Image ====> 96. apple-tv-product-lockup-callout.png
+Image URL: https://www.apples.me/thumbnail.asp?file=assets/images/pinklady400x400.jpg&maxx=450&maxy=0
+Completed Image ====> 97. pi
+Image URL: https://photos5.appleinsider.com/gallery/26064-36522-Alleged-Apple-USB-C-18W-iPhone-Wall-Charger-3-l.jpg
+Completed Image ====> 98. 26064-36522-alleged-apple-usb-c-18w-iphone-wall-charger-3-l.jpg
+Image URL: https://img.purch.com/o/aHR0cDovL3d3dy5sYXB0b3BtYWcuY29tL2ltYWdlcy93cC9wdXJjaC1hcGkvaW5jb250ZW50LzIwMTgvMDcvTUJQMTUtMjAxOC5qcGVn
+Completed Image ====> 99. ahr0cdovl3d3dy5syxb0b3btywcuy29tl2ltywdlcy93cc9wdxjjac1hcgkvaw5jb250zw50lziwmtgvmdcvtujqmtutmjaxoc5qcgvn.jpg
+
+Errors: 1
+
+
+Everything downloaded!
+Total time taken: 40.64896368980408 Seconds
+
+Item no.: 1 --> Item name = anvil
+Evaluating...
+Starting Download...
+Image URL: https://images-na.ssl-images-amazon.com/images/I/81ZHGJ1Tj4L._SL1500_.jpg
+Completed Image ====> 1. 81zhgj1tj4l._sl1500_.jpg
+Image URL: https://images.homedepot-static.com/productImages/0ed10453-ef60-4ee7-98c5-451e196d068b/svn/olympia-specialty-hand-tools-38-789-64_1000.jpg
+Completed Image ====> 2. olympia-specialty-hand-tools-38-789-64_1000.jpg
+Image URL: https://www.centaurforge.com/images/SCOTT250BB-05.jpg
+Completed Image ====> 3. scott250bb-05.jpg
+Image URL: https://images-na.ssl-images-amazon.com/images/I/81QVifg-7vL._SX425_.jpg
+Completed Image ====> 4. 81qvifg-7vl._sx425_.jpg
+Image URL: https://www.normanmachinetool.com/wp-content/uploads/2017/06/04_15_14_6118-TFS-100LB-BLACKSMITH0ANVIL2.jpg
+Completed Image ====> 5. 04_15_14_6118-tfs-100lb-blacksmith0anvil2.jpg
+Image URL: https://cdn3.volusion.com/fkvyd.lswzo/v/vspfiles/photos/140-202-2.jpg
+Completed Image ====> 6. 140-202-2.jpg
+Image URL: https://images11.palcdn.com/hlr-system/WebPhotos/86/868/8688/8688442.jpg
+Completed Image ====> 7. 8688442.jpg
+Image URL: http://static1.squarespace.com/static/58586fa5ebbd1a60e7d76d3e/58ca3c883f4058faf23124b5/5a5fed0e24a694c1163f8505/1520837862303/render24.jpg?format=1500w
+Completed Image ====> 8. render24.jpg
+Image URL: https://www.picclickimg.com/d/l400/pict/332779827424_/MINT-191lb-English-JOHN-BROOKS-Blacksmith-Shop-ANVIL.jpg
+Completed Image ====> 9. mint-191lb-english-john-brooks-blacksmith-shop-anvil.jpg
+Image URL: https://www.harborfreight.com/media/catalog/product/i/m/image_21926.jpg
+Completed Image ====> 10. image_21926.jpg
+Image URL: https://d2pxilza3u6xqt.cloudfront.net/wp-content/uploads/2018/04/anvil.png
+Completed Image ====> 11. anvil.png
+Image URL: http://www.stockmanssupplies.com/productimages/VAE20.jpg
+Completed Image ====> 12. vae20.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/a/a3/Anvil_by_Zureks.jpg
+Completed Image ====> 13. anvil_by_zureks.jpg
+Image URL: https://www.nctoolco.com/wp-content/uploads/2018/01/anvil-stand-17.jpg
+Completed Image ====> 14. anvil-stand-17.jpg
+Image URL: https://cdn5.vectorstock.com/i/1000x1000/80/39/anvil-vector-3758039.jpg
+Completed Image ====> 15. anvil-vector-3758039.jpg
+Image URL: https://www.nctoolco.com/wp-content/uploads/2018/02/NC_Anvil_020_web.jpg
+Completed Image ====> 16. nc_anvil_020_web.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Anvil%2C_labelled_en.svg/220px-Anvil%2C_labelled_en.svg.png
+Completed Image ====> 17. 220px-anvil%2c_labelled_en.svg.png
+Image URL: https://qph.fs.quoracdn.net/main-qimg-5b2f3d1bc0ea724250a2ea2724db3abd
+Completed Image ====> 18. main-qimg-5b2f3d1bc0ea724250a2ea2724db3abd.jpg
+Image URL: https://www.normanmachinetool.com/wp-content/uploads/2016/08/04_15_14_6121_PIEH-400LB-SINGLE-HORN-ANVIL2.jpg
+Completed Image ====> 19. 04_15_14_6121_pieh-400lb-single-horn-anvil2.jpg
+Image URL: https://www.centaurforge.com/images/EMERSON200%2005.jpg
+Completed Image ====> 20. emerson200%2005.jpg
+Image URL: https://www.portablepress.com/wp-content/uploads/2014/11/History-of-Anvil-300x227.jpg
+Completed Image ====> 21. history-of-anvil-300x227.jpg
+Image URL: https://image.shutterstock.com/image-vector/anvil-blacksmith-illustration-symbol-vector-260nw-1029374809.jpg
+Completed Image ====> 22. anvil-blacksmith-illustration-symbol-vector-260nw-1029374809.jpg
+Image URL: https://i.redd.it/92a3at2ucl301.png
+Completed Image ====> 23. 92a3at2ucl301.png
+Image URL: https://www.iforgeiron.com/uploads/monthly_2016_04/anvil2.jpg.e85938ef46ca2e11d53520a51950f2fa.jpg
+Completed Image ====> 24. anvil2.jpg
+Image URL: https://cloudfront.zoro.com/product/full/Z0pM9uocpEx_.JPG
+Completed Image ====> 25. z0pm9uocpex_.jpg
+Image URL: https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/dd/Anvil.png
+Completed Image ====> 26. anvil.png
+Image URL: https://www.americanfarriers.com/ext/resources/images/2012plus/2003/04/7177/Cottam-Anvil.jpg?1461339101
+Completed Image ====> 27. cottam-anvil.jpg
+Image URL: http://www.piehtoolco.com/contents/media/3080000050ped110anv_75e.gif
+Completed Image ====> 28. 3080000050ped110anv_75e.gif
+Image URL: https://www.centaurforge.com/images/79522.jpg
+Completed Image ====> 29. 79522.jpg
+Image URL: http://www.piehtoolco.com/contents/media/l_competitor_.jpg
+Completed Image ====> 30. l_competitor_.jpg
+Image URL: https://media.machines4u.com.au/machinery/56/279056/Cougar-Top-Quality-Anvil_7772540.l.jpg
+Completed Image ====> 31. cougar-top-quality-anvil_7772540.l.jpg
+Image URL: http://1.bp.blogspot.com/-EV3irsTQLmk/Vn6hHDixurI/AAAAAAAAGIU/1t1gTboGNtU/s1600/modern%2Bhammer%2Band%2Banvil.jpg
+Completed Image ====> 32. modern%2bhammer%2band%2banvil.jpg
+Image URL: http://www.mooseforge.com/images/Anvils/split%20anvil.jpg
+Completed Image ====> 33. split%20anvil.jpg
+Image URL: https://cdn.instructables.com/F21/5VJW/IY3CWER4/F215VJWIY3CWER4.LARGE.jpg
+Completed Image ====> 34. f215vjwiy3cwer4.large.jpg
+Image URL: https://anvils4sale.com/wp-content/uploads/2017/08/front-stretch-3.jpg
+Completed Image ====> 35. front-stretch-3.jpg
+Image URL: https://images-na.ssl-images-amazon.com/images/I/81F4QtdnqLL._SX425_.jpg
+Completed Image ====> 36. 81f4qtdnqll._sx425_.jpg
+Image URL: https://dictionary.cambridge.org/images/thumb/anvil_noun_002_01294.jpg?version=4.0.59
+Completed Image ====> 37. anvil_noun_002_01294.jpg
+Image URL: https://vignette.wikia.nocookie.net/clubpenguin/images/c/cf/Smoothie_Smash_Anvil.png/revision/latest?cb=20120909235841
+Completed Image ====> 38. latest?cb=20120909235841.jpg
+Image URL: https://www.yourdictionary.com/images/definitions/lg/297.anvil.jpg
+Completed Image ====> 39. 297.anvil.jpg
+Image URL: https://media.gettyimages.com/photos/hammer-lying-on-an-iron-anvil-in-a-traditional-blacksmiths-forge-picture-id595914145?s=612x612
+Completed Image ====> 40. hammer-lying-on-an-iron-anvil-in-a-traditional-blacksmiths-forge-picture-id595914145?s=612x612.jpg
+Image URL: https://legendarystrength.com/wp-content/uploads/2010/04/Anvil.png
+Completed Image ====> 41. anvil.png
+Image URL: https://robertcliftonrobinson.files.wordpress.com/2018/03/anvil-logo04.png?w=300&h=223
+Completed Image ====> 42. anvil-logo04.png
+Image URL: https://www.garrettwade.com/media/catalog/product/cache/1/image/730x/0dc2d03fe217f8c83829496872af24a0/6/1/61S0101_11.jpg
+Completed Image ====> 43. 61s0101_11.jpg
+Image URL: https://usaknifemaker.com/pub/media/catalog/product/cache/10f519365b01716ddb90abc57de5a837/b/l/blackrobinanvil_front-600px.jpg
+Completed Image ====> 44. blackrobinanvil_front-600px.jpg
+Image URL: https://d1u5p3l4wpay3k.cloudfront.net/eco_gamepedia/f/fb/Anvil_Placed.png
+Completed Image ====> 45. anvil_placed.png
+Image URL: https://i.redd.it/yvcmx6j4g6xz.png
+Completed Image ====> 46. yvcmx6j4g6xz.png
+Image URL: https://www.stockhoffsonline.com/acatalog/Emerson%20200%20lb%20Anvil.jpg
+Completed Image ====> 47. emerson%20200%20lb%20anvil.jpg
+Image URL: https://www.anvils.co.za/wp-content/uploads/2018/07/36kg-Anvil-Cast-Steel-4.jpg
+Completed Image ====> 48. 36kg-anvil-cast-steel-4.jpg
+Image URL: https://images-na.ssl-images-amazon.com/images/I/71YiVm1YMUL._SL1500_.jpg
+Completed Image ====> 49. 71yivm1ymul._sl1500_.jpg
+Image URL: https://www.stromsholm.co.uk/ekmps/shops/marketing/images/swan-anvil-36kg-1204-p.jpg
+Completed Image ====> 50. swan-anvil-36kg-1204-p.jpg
+Image URL: https://images.homedepot-static.com/productImages/765d4bfb-8e3e-4dbc-a43c-93bfec258df3/svn/anvil-concrete-specialty-tools-57533-64_1000.jpg
+Completed Image ====> 51. anvil-concrete-specialty-tools-57533-64_1000.jpg
+Image URL: https://i.ytimg.com/vi/0L7Rsjyiqmc/maxresdefault.jpg
+Completed Image ====> 52. maxresdefault.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ambo%C3%9F_klein.jpg/220px-Ambo%C3%9F_klein.jpg
+Completed Image ====> 53. 220px-ambo%c3%9f_klein.jpg
+Image URL: http://cdn.shopify.com/s/files/1/0769/2709/products/blu-anvil-02-640x640_1024x1024.jpg?v=1466619290
+Completed Image ====> 54. blu-anvil-02-640x640_1024x1024.jpg
+Image URL: http://www.piehtoolco.com/contents/media/l_tfssb30-4_.gif
+Completed Image ====> 55. l_tfssb30-4_.gif
+Image URL: https://gallivantingcraftsman.com/wp-content/uploads/2018/06/BoltedAnvil.jpg
+Completed Image ====> 56. boltedanvil.jpg
+Image URL: https://cdn3.volusion.com/zdhmk.puhgm/v/vspfiles/photos/ANV-Forge-Burner-2.jpg?1523964585
+Completed Image ====> 57. anv-forge-burner-2.jpg
+Image URL: https://www.picclickimg.com/d/l400/pict/263807201343_/New-190-lb-H13-tool-steel-anvil-Made.jpg
+Completed Image ====> 58. new-190-lb-h13-tool-steel-anvil-made.jpg
+Image URL: https://images.homedepot-static.com/productImages/d053aca2-5857-42b4-8913-4c9b75ba0f07/svn/anvil-concrete-specialty-tools-57547-64_1000.jpg
+Completed Image ====> 59. anvil-concrete-specialty-tools-57547-64_1000.jpg
+Image URL: https://anvils4sale.com/wp-content/uploads/2017/08/front-stretch-4.jpg
+Completed Image ====> 60. front-stretch-4.jpg
+Image URL: https://image.shutterstock.com/image-vector/icon-anvil-blacksmith-symbol-logo-260nw-1183174645.jpg
+Completed Image ====> 61. icon-anvil-blacksmith-symbol-logo-260nw-1183174645.jpg
+Image URL: https://www.blacksmithsdepot.com/media/catalog/product/cache/1/thumbnail/300x300/9df78eab33525d08d6e5fb8d27136e95/p/e/perun_double.jpg
+Completed Image ====> 62. perun_double.jpg
+Image URL: https://i.pinimg.com/originals/94/8a/ce/948ace66518db16f9a3c7fcb30779bff.gif
+Completed Image ====> 63. 948ace66518db16f9a3c7fcb30779bff.gif
+Image URL: https://cdn.pixabay.com/photo/2016/01/30/09/09/anvil-1169340__340.jpg
+Completed Image ====> 64. anvil-1169340__340.jpg
+Image URL: https://images-na.ssl-images-amazon.com/images/I/61EYaSP3F6L._SX425_.jpg
+Completed Image ====> 65. 61eyasp3f6l._sx425_.jpg
+Image URL: https://i.ebayimg.com/images/g/S0wAAOSwCsBbAhew/s-l300.jpg
+Completed Image ====> 66. s-l300.jpg
+Image URL: https://www.nctoolco.com/wp-content/uploads/2018/06/Knifemaker-Anvil_01-Knifemaker-Anvil-1.jpg
+Completed Image ====> 67. knifemaker-anvil_01-knifemaker-anvil-1.jpg
+Image URL: https://i0.wp.com/saltinmycoffee.com/wp-content/uploads/2017/12/anvil-71687_1280.jpg?resize=600%2C398&ssl=1
+Completed Image ====> 68. anvil-71687_1280.jpg
+Image URL: https://images.homedepot-static.com/productImages/a1c5ad71-e7e7-4c4c-b2f0-cc851cddb751/svn/anvil-clamps-99691-64_1000.jpg
+Completed Image ====> 69. anvil-clamps-99691-64_1000.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Blacksmith_at_work02_less_contrast.jpg/220px-Blacksmith_at_work02_less_contrast.jpg
+Completed Image ====> 70. 220px-blacksmith_at_work02_less_contrast.jpg
+Image URL: https://cdn0.iconfinder.com/data/icons/video-game-items-concepts/128/anvil-hammer-512.png
+Completed Image ====> 71. anvil-hammer-512.png
+Image URL: https://ssl.quiksilver.com/www/store.quiksilver.eu/html/images/catalogs/global/dcshoes-products/all/default/hi-res/303190_anvil,p_bb2_frt2.jpg
+Completed Image ====> 72. 303190_anvil,p_bb2_frt2.jpg
+Image URL: https://www.iforgeiron.com/uploads/monthly_2017_09/IMG_3323.JPG.f8d6a3e8cd139b05e3715c5451b78db2.JPG
+Completed Image ====> 73. img_3323.jpg
+Image URL: https://kowalperun.com/678-home_default/one-horn-anvils-ernst-refflinghaus-no-11.jpg
+Completed Image ====> 74. one-horn-anvils-ernst-refflinghaus-no-11.jpg
+Image URL: http://www.obnoxiousantiques.com/wp-content/uploads/2015/10/anvil-8.jpg
+Completed Image ====> 75. anvil-8.jpg
+Image URL: https://i.ytimg.com/vi/qHWv8LeoZT8/maxresdefault.jpg
+Completed Image ====> 76. maxresdefault.jpg
+Image URL: https://previews.123rf.com/images/angellodeco/angellodeco1406/angellodeco140600004/29256584-blacksmith-working-metal-with-hammer-on-the-anvil-in-the-forge.jpg
+Completed Image ====> 77. 29256584-blacksmith-working-metal-with-hammer-on-the-anvil-in-the-forge.jpg
+Image URL: http://www.mooseforge.com/images/Anvils/Anvil%20Stands/yutube%20anvil%20stand.jpg
+Completed Image ====> 78. yutube%20anvil%20stand.jpg
+Image URL: https://www.anvils.co.za/wp-content/uploads/2018/01/J15020-20kg-cast-anvil.jpg
+Completed Image ====> 79. j15020-20kg-cast-anvil.jpg
+Image URL: http://bigbluhammer.com/image/cache/data/blu-anvil-01-tech-640x640.jpg
+Completed Image ====> 80. blu-anvil-01-tech-640x640.jpg
+Image URL: https://images-na.ssl-images-amazon.com/images/I/51UC7rArQeL._SX466_.jpg
+Completed Image ====> 81. 51uc7rarqel._sx466_.jpg
+Image URL: https://www.jewelrysupply.com/thumbnail.asp?file=assets/images/jewelers-double-horn-anvil-an200.jpg&maxx=600&maxy=600
+Completed Image ====> 82. je
+Image URL: https://images.homedepot-static.com/productImages/b698fcec-3d34-4eff-864c-3bf8190f5858/svn/fiskars-floral-scissors-snips-391102-64_1000.jpg
+Completed Image ====> 83. fiskars-floral-scissors-snips-391102-64_1000.jpg
+Image URL: https://i.ytimg.com/vi/fcE7kDpmzYM/maxresdefault.jpg
+Completed Image ====> 84. maxresdefault.jpg
+Image URL: https://www.iforgeiron.com/uploads/monthly_2017_04/IMG_9071.JPG.3d9bfb7d63182a88a2b3428c740a7087.JPG
+Completed Image ====> 85. img_9071.jpg
+Image URL: https://openclipart.org/download/295257/anvil-2284960.svg
+Completed Image ====> 86. anvil-2284960.svg
+Image URL: https://cf.ydcdn.net/latest/images/main/A5anvil.jpg
+Completed Image ====> 87. a5anvil.jpg
+Image URL: https://rendering.documents.cimpress.io/v1/vp/preview?scene=https://scene.products.cimpress.io/v1/scenes/46876303-3092-46a9-840d-37f070b025af&width=690&height=690&quality=80
+Completed Image ====> 88. 46876303-3092-46a9-840d-37f070b025af&width=690&height=690&quality=80.jpg
+Image URL: https://www.magnetics.net.au/wp-content/uploads/2018/05/Capture-e1525479536686-500x500.jpg?x32003
+Completed Image ====> 89. capture-e1525479536686-500x500.jpg
+Image URL: https://www.blacksmithsdepot.com/media/magpleasure/mpblog/list_thumbnail_file/8/f/cache/1/119bdf99710d9a86013f24c82ab9b2da/8f0e366e5a3cfc70e63418ad625edb91.jpg
+Completed Image ====> 90. 8f0e366e5a3cfc70e63418ad625edb91.jpg
+Image URL: https://vignette.wikia.nocookie.net/2007scape/images/d/dd/Anvil.png/revision/latest?cb=20160824170359
+Completed Image ====> 91. latest?cb=20160824170359.jpg
+Image URL: https://www.centaurforge.com/images/79525.jpg
+Completed Image ====> 92. 79525.jpg
+Image URL: https://previews.123rf.com/images/nito500/nito5000908/nito500090800199/6416895-anvil.jpg
+Completed Image ====> 93. 6416895-anvil.jpg
+Image URL: https://qph.fs.quoracdn.net/main-qimg-dac15b2defe412c17afa063c010a5d91
+Completed Image ====> 94. main-qimg-dac15b2defe412c17afa063c010a5d91.jpg
+Image URL: https://s3.amazonaws.com/s3.anvilintl.com/images/categories/products/HangersSupportsBraces_Lvl2_Anvil-Strut-Channel.jpg
+Completed Image ====> 95. hangerssupportsbraces_lvl2_anvil-strut-channel.jpg
+Image URL: https://saltinmycoffee.com/wp-content/uploads/2017/12/how-to-choose-the-best-anvil-square.png
+Completed Image ====> 96. how-to-choose-the-best-anvil-square.png
+Image URL: http://www.physics.ohio-state.edu/~kagan/k_thesis/gallery/S-Anvil.jpg
+Completed Image ====> 97. s-anvil.jpg
+Image URL: https://i.ytimg.com/vi/Hil12xrcUXQ/maxresdefault.jpg
+Completed Image ====> 98. maxresdefault.jpg
+Image URL: https://www.picclickimg.com/d/l400/pict/323324766982_/Arm-Hammer-anvil.jpg
+Completed Image ====> 99. arm-hammer-anvil.jpg
+Image URL: https://i.ebayimg.com/thumbs/images/g/zXQAAOSwMGVaWLmH/s-l225.jpg
+Completed Image ====> 100. s-l225.jpg
+
+Errors: 0
+
+
+Everything downloaded!
+Total time taken: 57.789278745651245 Seconds
+
+Item no.: 1 --> Item name = arm
+Evaluating...
+Starting Download...
+Image URL: https://upload.wikimedia.org/wikipedia/commons/6/6d/Extended_arm.jpg
+Completed Image ====> 1. extended_arm.jpg
+Image URL: https://images-na.ssl-images-amazon.com/images/I/71IOaaE6X1L._SL1500_.jpg
+Completed Image ====> 2. 71ioaae6x1l._sl1500_.jpg
+Image URL: https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/26/ds01001_im01814_r7_armbonesthu_jpg.jpg
+Completed Image ====> 3. ds01001_im01814_r7_armbonesthu_jpg
+Image URL: https://previews.123rf.com/images/robnroll/robnroll0907/robnroll090700079/5265792-beautiful-female-hand-and-arm-isolated-on-white.jpg
+Completed Image ====> 4. 5265792-beautiful-female-hand-and-arm-isolated-on-white.jpg
+Image URL: https://image.shutterstock.com/image-photo/man-arm-blood-veins-on-260nw-714220039.jpg
+Completed Image ====> 5. man-arm-blood-veins-on-260nw-714220039.jpg
+Image URL: https://pull05-shockdoctor.netdna-ssl.com/media/catalog/product/cache/5/image/9df78eab33525d08d6e5fb8d27136e95/m/d/md_6500_hex_shooterarmsleeve_blk_1000x1000_4.png
+Completed Image ====> 6. md_6500_hex_shooterarmsleeve_blk_1000x1000_4.png
+Image URL: https://media.ottobock.com/_web-site/prosthetics/upper-limb/silicone-cover/images/_35236_dsc0088_169_4c_wb_1_1_teaser_fallback.jpg
+Completed Image ====> 7. _35236_dsc0088_169_4c_wb_1_1_teaser_fallback.jpg
+Image URL: https://greatyou.com/wp-content/uploads/2016/05/arm-fat.jpg
+Completed Image ====> 8. arm-fat.jpg
+Image URL: https://img-aws.ehowcdn.com/560x560/photos.demandstudios.com/getty/article/187/192/dv2084017.jpg
+Completed Image ====> 9. dv2084017.jpg
+Image URL: https://t4.ftcdn.net/jpg/00/59/24/37/240_F_59243727_ScVnEuNY1akw9CXr6gl1svAyOkowIDqa.jpg
+Completed Image ====> 10. 240_f_59243727_scvneuny1akw9cxr6gl1svayokowidqa.jpg
+Image URL: https://www.ericpbachelormd.com/wp-content/uploads/sites/45/2016/05/arm.jpg
+Completed Image ====> 11. arm.jpg
+Image URL: https://www.drmesa.com//files/2015/02/arm-lift-for-men.jpg
+Completed Image ====> 12. arm-lift-for-men.jpg
+Image URL: https://www.cpr-savers.com/thumbnail.asp?file=assets/images/prodimages/380700.jpg&maxx=350&maxy=0
+Completed Image ====> 13. 38
+Image URL: https://image.shutterstock.com/image-photo/man-arm-blood-veins-on-260nw-572033554.jpg
+Completed Image ====> 14. man-arm-blood-veins-on-260nw-572033554.jpg
+Image URL: https://t4.ftcdn.net/jpg/01/19/19/61/240_F_119196181_WDnUgBUWHrGQR2gF7SlVQ1qqBBb3GxKd.jpg
+Completed Image ====> 15. 240_f_119196181_wdnugbuwhrgqr2gf7slvq1qqbbb3gxkd.jpg
+Image URL: http://www.essentialkids.com.au/content/dam/images/h/0/b/8/y/1/image.related.articleLeadwide.620x349.h04ajd.png/1514507481348.jpg
+Completed Image ====> 16. 1514507481348.jpg
+Image URL: http://www.carolinasplasticsurgerycenter.com/wp-content/uploads/2011/09/img_arm-lift-1.jpg
+Completed Image ====> 17. img_arm-lift-1.jpg
+Image URL: https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5Ni84MDQvb3JpZ2luYWwvcG9wZXllLXNpZ24uanBn
+Completed Image ====> 18. ahr0cdovl3d3dy5saxzlc2npzw5jzs5jb20vaw1hz2vzl2kvmdawlza5ni84mdqvb3jpz2luywwvcg9wzxlllxnpz24uanbn.jpg
+Image URL: https://cdn.vox-cdn.com/thumbor/qCwIQ7KtWmeZY7RPB_-m833YDpE=/0x0:422x430/1200x0/filters:focal(0x0:422x430):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6591961/Screen%20Shot%202016-06-03%20at%204.20.44%20PM.png
+Completed Image ====> 19. screen%20shot%202016-06-03%20at%204.20.44%20pm.png
+Image URL: https://t4.ftcdn.net/jpg/01/39/51/15/240_F_139511590_xFMoTjfFE0VVPLIQqYkY22gGZiJUaxLN.jpg
+Completed Image ====> 20. 240_f_139511590_xfmotjffe0vvpliqqyky22ggzijuaxln.jpg
+Image URL: https://media.istockphoto.com/photos/open-female-hand-to-hold-something-picture-id488259893?k=6&m=488259893&s=612x612&w=0&h=PPgs4-1KAothx46TEcdReqKapIdmCb_85IfaW1AdzNM=
+Completed Image ====> 21. open-female-hand-to-hold-something-picture-id488259893?k=6&m=488259893&s=612x612&w=0&h=ppgs4-1kaothx46tecdreqkapidmcb_85ifaw1adznm=.jpg
+Image URL: https://t4.ftcdn.net/jpg/01/10/55/37/240_F_110553769_XfbVpwo3zvWIWzc9nXQhoV3ckmsbzmVM.jpg
+Completed Image ====> 22. 240_f_110553769_xfbvpwo3zvwiwzc9nxqhov3ckmsbzmvm.jpg
+Image URL: https://img.freepik.com/free-photo/flexed-arm_23-2147643831.jpg?size=338&ext=jpg
+Completed Image ====> 23. flexed-arm_23-2147643831.jpg
+Image URL: https://forum.unity.com/proxy.php?image=http%3A%2F%2Fironbellystudios.com%2Fwp-content%2Fuploads%2F2015%2F11%2FFPArms_Male1_HPT_e.jpg&hash=99b1e46048225ae3fb993f905a84a697
+Completed Image ====> 24. proxy.php
+Image URL: http://weknowyourdreams.com/images/arm/arm-08.jpg
+Completed Image ====> 25. arm-08.jpg
+Image URL: https://www.laerdal.com/images/w344h240/AAADQSGR.jpg
+Completed Image ====> 26. aaadqsgr.jpg
+Image URL: https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX2668472.jpg
+Completed Image ====> 27. 800px_colourbox2668472.jpg
+Image URL: https://www.batsfinder.com/wp-content/uploads/2016/07/arm-strength-muscle.jpg
+Completed Image ====> 28. arm-strength-muscle.jpg
+Image URL: https://jesusway4you.files.wordpress.com/2017/09/arm.jpeg
+Completed Image ====> 29. arm.jpeg
+Image URL: https://c8.alamy.com/comp/E0N9NY/mans-arm-bent-at-an-elbow-isolated-on-white-background-E0N9NY.jpg
+Completed Image ====> 30. mans-arm-bent-at-an-elbow-isolated-on-white-background-e0n9ny.jpg
+Image URL: http://www.pngmart.com/files/4/Arm-PNG-Clipart.png
+Completed Image ====> 31. arm-png
+Image URL: https://image.shutterstock.com/display_pic_with_logo/164519664/667736623/stock-photo-collage-of-woman-hands-on-white-backgrounds-667736623.jpg
+Completed Image ====> 32. stock-photo-collage-of-woman-hands-on-white-backgrounds-667736623.jpg
+Image URL: https://images-na.ssl-images-amazon.com/images/I/61wVTLgQJuL._SY355_.jpg
+Completed Image ====> 33. 61wvtlgqjul._sy355_.jpg
+Image URL: https://thumbs.dreamstime.com/z/male-arm-12169878.jpg
+Completed Image ====> 34. male-arm-12169878.jpg
+Image URL: https://i.ytimg.com/vi/Hfzg8Hy7tuY/maxresdefault.jpg
+Completed Image ====> 35. maxresdefault.jpg
+Image URL: https://community.arm.com/cfs-filesystemfile/__key/communityserver-components-secureimagefileviewer/communityserver-blogs-components-weblogfiles-00-00-00-21-42/Arm-robot-ML-launch-image2.jpg_2D00_1600x900x2.jpg_2D00_900x506x2.jpg?_=636543768084909768
+Completed Image ====> 36. arm-robot-ml-launch-image2.jpg
+Image URL: https://www.arm.com/-/media/global/logos/Arm-logo-black-pms432.svg?revision=ac81a16f-03b9-4d3e-a870-349a4a8aadfb&la=en&hash=3378C763E90458FEA4A8A4AF8F466D677FCFA5B9
+Completed Image ====> 37. arm-logo-black-pms432.svg
+Image URL: https://www.featurepics.com/StockImage/20081224/muscular-man-arm-stock-picture-1014343.jpg
+Completed Image ====> 38. muscular-man-arm-stock-picture-1014343.jpg
+Image URL: https://d1pra95f92lrn3.cloudfront.net/media/thumb/5958_fit512.jpg
+Completed Image ====> 39. 5958_fit512.jpg
+Image URL: https://www.bodybuilding.com/images/2016/december/5-arm-blasting-workouts-for-mass-tall.jpg
+Completed Image ====> 40. 5-arm-blasting-workouts-for-mass-tall.jpg
+Image URL: https://img.medscape.com/thumbnail_library/dt_180129_child_arms_800x600.jpg
+Completed Image ====> 41. dt_180129_child_arms_800x600.jpg
+Image URL: https://i2-prod.mirror.co.uk/incoming/article2668193.ece/ALTERNATES/s615/Motherboard.png
+Completed Image ====> 42. motherboard.png
+Image URL: http://lifeasmama.com/wp-content/uploads/2017/06/IMG_5969.jpg
+Completed Image ====> 43. img_5969.jpg
+Image URL: https://cdnb.artstation.com/p/assets/images/images/000/407/979/large/sam-walton-armtex-comp.jpg?1421294200
+Completed Image ====> 44. sam-walton-armtex-comp.jpg
+Image URL: https://neinsteinplasticsurgery.com/wp-content/uploads/2017/04/Minimally-Invasive-Arm-Liposuction-1.jpg
+Completed Image ====> 45. minimally-invasive-arm-liposuction-1.jpg
+Image URL: https://www.docnault.com/wp-content/uploads/2017/07/woman-with-arm-pain.jpg
+Completed Image ====> 46. woman-with-arm-pain.jpg
+Image URL: https://www.plasticsurgery.org/images/Blog/arm-lift-surgery.jpg
+Completed Image ====> 47. arm-lift-surgery.jpg
+Image URL: http://lifeasmama.com/wp-content/uploads/2017/06/Arm-Flab-1-month.png
+Completed Image ====> 48. arm-flab-1-month.png
+Image URL: https://i2.wp.com/www.tigertailusa.com/wp-content/uploads/2017/09/MuscleEducation_img_ALMK_03.jpg?resize=300%2C300&ssl=1
+Completed Image ====> 49. muscleeducation_img_almk_03.jpg
+Image URL: https://s.abcnews.com/images/Health/ht_ear_arm_dm_120928_wmain.jpg
+Completed Image ====> 50. ht_ear_arm_dm_120928_wmain.jpg
+Image URL: http://assets.menshealth.co.uk/main/thumbs/34267/arms__square.jpg
+Completed Image ====> 51. arms__square.jpg
+Image URL: https://cdn.the-scientist.com/assets/articleNo/36611/iImg/15094/87f8e45a-b36f-4607-b043-f28b889643e7-eararm.png
+Completed Image ====> 52. 87f8e45a-b36f-4607-b043-f28b889643e7-eararm.png
+Image URL: https://i.ytimg.com/vi/IZsVbr4qBqo/hqdefault.jpg
+Completed Image ====> 53. hqdefault.jpg
+Image URL: https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/fd/60/ee/fd60ee64-8c13-3e4a-6620-313c788b4ce2/pr_source.jpg/643x0w.jpg
+Completed Image ====> 54. 643x0w.jpg
+Image URL: http://www.acumedico.com/Arm-YinYang.jpg
+Completed Image ====> 55. arm-yinyang.jpg
+Image URL: https://media.gettyimages.com/photos/cropped-hand-of-man-with-clenched-fist-against-white-background-picture-id739289149?s=612x612
+Completed Image ====> 56. cropped-hand-of-man-with-clenched-fist-against-white-background-picture-id739289149?s=612x612.jpg
+Image URL: https://ichef.bbci.co.uk/news/660/cpsprodpb/134EF/production/_101778097_armwrassle.jpg
+Completed Image ====> 57. _101778097_armwrassle.jpg
+Image URL: https://forum.unity.com/proxy.php?image=http%3A%2F%2Fironbellystudios.com%2Fwp-content%2Fuploads%2F2015%2F11%2FFPArms_Male1_LPT_b.jpg&hash=16277b00a4ebc6d00d6e77516752f37a
+Completed Image ====> 58. proxy.php
+Image URL: https://i.dailymail.co.uk/i/pix/2017/03/31/08/3ECD258700000578-0-image-a-1_1490946404804.jpg
+Completed Image ====> 59. 3ecd258700000578-0-image-a-1_1490946404804.jpg
+Image URL: https://i2-prod.mirror.co.uk/incoming/article10703631.ece/ALTERNATES/s615/XXXXXX.jpg
+Completed Image ====> 60. xxxxxx.jpg
+Image URL: https://cdn.pixabay.com/photo/2013/07/12/18/19/arm-153258_960_720.png
+Completed Image ====> 61. arm-153258_960_720.png
+Image URL: http://anatomy360.info/wp-content/uploads/2017/09/Colour_Back.gif
+Completed Image ====> 62. colour_back.gif
+Image URL: http://myzone.travelstrong.netdna-cdn.com/wp-content/uploads/2014/11/arm-anatomy.jpg
+Completed Image ====> 63. arm-anatomy.jpg
+Image URL: https://i.amz.mshcdn.com/SM8SLZnoIyfmTJQ73cYdXL7sc4s=/950x534/filters:quality(90)/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F60954%2Fbabybread.jpg
+Completed Image ====> 64. https%3a%2f%2fblueprint-api-production.s3.amazonaws.com%2fuploads%2fcard%2fimage%2f60954%2fbabybread.jpg
+Image URL: https://static.skillshare.com/uploads/parentClasses/205a5a8b451f515bd243eb5e1825b54f/9c4aca38
+Completed Image ====> 65. 9c4aca38.jpg
+Image URL: http://www.pngmart.com/files/4/Arm-PNG-Image.png
+Completed Image ====> 66. arm-png
+Image URL: https://s3.amazonaws.com/sav3-assets/wp-content/uploads/2017/09/15121336/SA-A50003_Arm-Sleeves_Royal_Small-Shield.png
+Completed Image ====> 67. sa-a50003_arm-sleeves_royal_small-shield.png
+Image URL: https://pbs.twimg.com/profile_images/892288373993361409/9jdJldY9_400x400.jpg
+Completed Image ====> 68. 9jdjldy9_400x400.jpg
+Image URL: https://image.shutterstock.com/display_pic_with_logo/164519664/560352040/stock-photo-collage-of-woman-holding-on-white-backgrounds-560352040.jpg
+Completed Image ====> 69. stock-photo-collage-of-woman-holding-on-white-backgrounds-560352040.jpg
+Image URL: https://www.researchgate.net/profile/Thrivikrama_Tantry2/publication/235376995/figure/fig1/AS:440488227545088@1482031985843/Traumatic-crush-amputation-at-arm-level-in-a-35-year-old-woman-Patient-14-due-to-road.png
+Completed Image ====> 70. traumatic-crush-amputation-at-arm-level-in-a-35-year-old-woman-patient-14-due-to-road.png
+Image URL: https://static.toiimg.com/photo/62945401.cms
+Completed Image ====> 71. 62945401.cms
+Image URL: http://clipart-library.com/newimages/arm-clip-art-7.png
+Completed Image ====> 72. arm-clip-art-7.png
+Image URL: https://i0.wp.com/www.veturotherapy.com/wp-content/uploads/2015/05/Graduated_Compression_Arm_Sleeve_Women_VeturoTherapy.jpg?fit=550%2C550&ssl=1
+Completed Image ====> 73. graduated_compression_arm_sleeve_women_veturotherapy.jpg
+Image URL: https://www.laerdal.com/images/L/ADCIWCQM.jpg
+Completed Image ====> 74. adciwcqm.jpg
+Image URL: https://vignette.wikia.nocookie.net/2007scape/images/2/27/Making_Friends_with_My_Arm.png/revision/latest?cb=20180906170800
+Completed Image ====> 75. latest?cb=20180906170800.jpg
+Image URL: https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX2939442.jpg
+Completed Image ====> 76. 800px_colourbox2939442.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Arm.agr.jpg/1200px-Arm.agr.jpg
+Completed Image ====> 77. 1200px-arm.agr.jpg
+Image URL: https://www.hexbug.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/4/0/406-4233_vex_robotics_motorized_robotic_arm__outofpackage.jpg
+Completed Image ====> 78. 406-4233_vex_robotics_motorized_robotic_arm__outofpackage.jpg
+Image URL: https://st2.depositphotos.com/1742172/7432/v/950/depositphotos_74326521-stock-illustration-comic-cartoon-arm.jpg
+Completed Image ====> 79. depositphotos_74326521-stock-illustration-comic-cartoon-arm.jpg
+Image URL: https://www.anatomystuff.co.uk/media/catalog/product/cache/1/image/1000x/9df78eab33525d08d6e5fb8d27136e95/i/m/img_h130501-budget-injection-arm.jpg
+Completed Image ====> 80. img_h130501-budget-injection-arm.jpg
+Image URL: https://neinsteinplasticsurgery.com/wp-content/uploads/2017/04/Minimally-Invasive-Arm-Liposuction-2.jpg
+Completed Image ====> 81. minimally-invasive-arm-liposuction-2.jpg
+Image URL: https://vascular.org/sites/default/files/gallery/aadheader.jpg
+Completed Image ====> 82. aadheader.jpg
+Image URL: http://lifeasmama.com/wp-content/uploads/2017/06/IMG_4667-768x1024.jpg
+Completed Image ====> 83. img_4667-768x1024.jpg
+Image URL: https://www.arm.com/-/media/global/company/overview/arm-company-overview-schematic-v3.png?revision=b38d5e9b-eef7-45fb-a858-629b8df50890&h=574&w=502&la=en&hash=DF707C1B0BEDA241B7775F0AFB6DDB18FB965E72
+Completed Image ====> 84. arm-company-overview-schematic-v3.png
+Image URL: https://cdn.cnn.com/cnnnext/dam/assets/150813163520-ear-on-arm-stelarc-orig-00000420.jpg
+Completed Image ====> 85. 150813163520-ear-on-arm-stelarc-orig-00000420.jpg
+Image URL: https://www.ahdictionary.com/application/resources/arts/A5arm.jpg
+Completed Image ====> 86. a5arm.jpg
+Image URL: https://smhttp-ssl-41526.nexcesscdn.net/media/catalog/product/cache/1/image/1400x/9df78eab33525d08d6e5fb8d27136e95/a/4/a46_arm-skeleton-with-scapula-and-clavicle-right.jpg
+Completed Image ====> 87. a46_arm-skeleton-with-scapula-and-clavicle-right.jpg
+Image URL: https://assets.entrepreneur.com/content/3x2/2000/20141208175608-simple-bracelet-can-turn-your-arm-into-a-smartphone-display.jpeg?width=700&crop=2:1
+Completed Image ====> 88. 20141208175608-simple-bracelet-can-turn-your-arm-into-a-smartphone-display.jpeg
+Image URL: https://cdn-images-1.medium.com/max/1600/1*hDMegOEOmIfGKV7gRqC2Ug.jpeg
+Completed Image ====> 89. 1*hdmegoeomifgkv7grqc2ug.jpeg
+Image URL: https://image.shutterstock.com/display_pic_with_logo/877579/645713683/stock-photo-beauty-woman-hand-and-arm-isolate-is-on-white-background-with-clipping-path-645713683.jpg
+Completed Image ====> 90. stock-photo-beauty-woman-hand-and-arm-isolate-is-on-white-background-with-clipping-path-645713683.jpg
+Image URL: https://greatyou.com/wp-content/uploads/2017/08/upper-arm-fat-a-1-1024x769.jpg
+Completed Image ====> 91. upper-arm-fat-a-1-1024x769.jpg
+Image URL: https://plasticsurgeons.com.au/wp-content/uploads/2016/04/saggy-wobbly-upper-arm-skin.jpg
+Completed Image ====> 92. saggy-wobbly-upper-arm-skin.jpg
+Image URL: https://media.gettyimages.com/photos/veins-on-a-mans-arm-picture-id73214363
+Completed Image ====> 93. veins-on-a-mans-arm-picture-id73214363.jpg
+Image URL: http://shop.deltahealthcare.in/wp-content/uploads/2017/02/delta_Suture-Practice-Arm.jpg
+Completed Image ====> 94. delta_suture-practice-arm.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Human_arm_bones_diagram.svg/220px-Human_arm_bones_diagram.svg.png
+Completed Image ====> 95. 220px-human_arm_bones_diagram.svg.png
+Image URL: https://nationalinterest.org/sites/default/files/styles/desktop__1486_x_614/public/main_images/RAF_F-35B_STOVL_RIAT_2016.jpg?itok=ovWFoyCT
+Completed Image ====> 96. raf_f-35b_stovl_riat_2016.jpg
+Image URL: https://thumbs.dreamstime.com/z/hand-arm-isolated-white-10332474.jpg
+Completed Image ====> 97. hand-arm-isolated-white-10332474.jpg
+Image URL: http://www.myaamiadictionary.org/files/csa/bodyparts2012/arm/arm_images/empty.png
+Completed Image ====> 98. empty.png
+Image URL: https://www.trossenrobotics.com/Shared/images/PImages/reactor/reactor-3a.jpg
+Completed Image ====> 99. reactor-3a.jpg
+Image URL: http://vglobaltech.com/wp-content/uploads/2017/10/DSC08945.jpg
+Completed Image ====> 100. dsc08945.jpg
+
+Errors: 0
+
+
+Everything downloaded!
+Total time taken: 58.8282036781311 Seconds
+
+Item no.: 1 --> Item name = airplane
+Evaluating...
+Starting Download...
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ANA_777-300_Taking_off_from_JFK.jpg/300px-ANA_777-300_Taking_off_from_JFK.jpg
+Completed Image ====> 1. 300px-ana_777-300_taking_off_from_jfk.jpg
+Image URL: https://i.ytimg.com/vi/UJ6GmaZVFkU/maxresdefault.jpg
+Completed Image ====> 2. maxresdefault.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/3/3f/P-51_Mustang_edit1.jpg
+Completed Image ====> 3. p-51_mustang_edit1.jpg
+Image URL: https://www.rd.com/wp-content/uploads/2018/01/01_Common-Myths-About-Airplanes-You-Need-to-Stop-Believing_559714906_motive56-760x506.jpg
+Completed Image ====> 4. 01_common-myths-about-airplanes-you-need-to-stop-believing_559714906_motive56-760x506.jpg
+Image URL: https://www.aviationcv.com/aviation-blog/wp-content/uploads/2017/01/Boeings-New-Planes-are-Fuel-Savers.png
+Completed Image ====> 5. boeings-new-planes-are-fuel-savers.png
+Image URL: https://m.media-amazon.com/images/M/MV5BZjA3YjdhMWEtYjc2Ni00YzVlLWI0MTUtMGZmNTJjNmU0Yzk2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg
+Completed Image ====> 6. mv5bzja3yjdhmwetyjc2ni00yzvllwi0mtutmgzmntjjnmu0yzk2xkeyxkfqcgdeqxvynzkwmjq5nzm@._v1_ux182_cr0,0,182,268_al_.jpg
+Image URL: https://i.ytimg.com/vi/T_L2iMvowCg/maxresdefault.jpg
+Completed Image ====> 7. maxresdefault.jpg
+Image URL: https://cdn.arstechnica.net/wp-content/uploads/2017/09/electric-plane.jpg
+Completed Image ====> 8. electric-plane.jpg
+Image URL: https://cdn.theatlantic.com/assets/media/img/mt/2018/09/RTR20JUY/lead_720_405.jpg?mod=1536176053
+Completed Image ====> 9. lead_720_405.jpg
+Image URL: https://cdn.vox-cdn.com/thumbor/kQWTNRwrhbo43YwwpX0Fu98WJIg=/0x90:2877x2000/1200x800/filters:focal(0x130:480x610)/cdn.vox-cdn.com/uploads/chorus_image/image/59427657/910279198.jpg.0.jpg
+Completed Image ====> 10. 910279198.jpg
+Image URL: https://www.aviationcv.com/aviation-blog/wp-content/uploads/2017/01/12688044084_26b1b5c23b_b-1024x595.jpg
+Completed Image ====> 11. 12688044084_26b1b5c23b_b-1024x595.jpg
+Image URL: https://s.hswstatic.com/gif/airplanes-work-1.jpg
+Completed Image ====> 12. airplanes-work-1.jpg
+Image URL: https://assets3.thrillist.com/v1/image/1452972/size/tmg-article_default_mobile.jpg
+Completed Image ====> 13. tmg-article_default_mobile.jpg
+Image URL: https://resources.stuff.co.nz/content/dam/images/1/q/w/z/s/v/image.related.StuffLandscapeSixteenByNine.710x400.1qwzry.png/1532287789079.jpg
+Completed Image ====> 14. 1532287789079.jpg
+Image URL: http://www.slate.com/content/dam/slate/articles/technology/future_tense/2016/05/160503_FT_cybersecurity-airplanes.jpg.CROP.promo-xlarge2.jpg
+Completed Image ====> 15. 160503_ft_cybersecurity-airplanes.jpg
+Image URL: https://therocketscienceblog.files.wordpress.com/2016/08/screen-shot-2014-03-25-at-1-45-04-pm.png?w=1000
+Completed Image ====> 16. screen-shot-2014-03-25-at-1-45-04-pm.png
+Image URL: https://amp.businessinsider.com/images/5a3d8385b0bcd5e3178b6b26-1536-768.jpg
+Completed Image ====> 17. 5a3d8385b0bcd5e3178b6b26-1536-768.jpg
+Image URL: https://i1.wp.com/thepointsguy.com/wp-content/uploads/2018/08/cabine.jpg?resize=480%2C270px&ssl=1
+Completed Image ====> 18. cabine.jpg
+Image URL: https://www.scienceabc.com/wp-content/uploads/2016/01/airplane-boeing.jpg
+Completed Image ====> 19. airplane-boeing.jpg
+Image URL: https://image.shutterstock.com/image-photo/airplane-isolated-on-white-background-260nw-584015857.jpg
+Completed Image ====> 20. airplane-isolated-on-white-background-260nw-584015857.jpg
+Image URL: http://imagesvc.timeincapp.com/v3/foundry/image/?q=70&w=1440&url=https%3A%2F%2Ftimedotcom.files.wordpress.com%2F2018%2F03%2Fairnz-hero-01.jpg%3Fquality%3D85
+Completed Image ====> 21. ?q=70&w=1440&url=https%3a%2f%2ftimedotcom.files.wordpress.com%2f2018%2f03%2fairnz-hero-01.jpg%3fquality%3d85.jpg
+Image URL: https://img.freepik.com/free-photo/airplane-parking-with-sunset_37328-3.jpg?size=338&ext=jpg
+Completed Image ====> 22. airplane-parking-with-sunset_37328-3.jpg
+Image URL: https://images.hellogiggles.com/uploads/2018/10/23081124/airplane-e1540307526374.jpg
+Completed Image ====> 23. airplane-e1540307526374.jpg
+Image URL: https://cdn.cnn.com/cnnnext/dam/assets/180227102515-starling-jet--render-2.jpg
+Completed Image ====> 24. 180227102515-starling-jet--render-2.jpg
+Image URL: https://pixel.nymag.com/imgs/fashion/daily/2018/07/04/4-Airplane.w700.h700.jpg
+Completed Image ====> 25. 4-airplane.w700.h700.jpg
+Image URL: https://thumbs-prod.si-cdn.com/zVk3WtA1mHfawuP3nsaMgp2JZAo=/420x240/https://public-media.smithsonianmag.com/filer/d3/57/d35769ad-5205-4d98-9ca7-700bc4bdf07c/14h_sep2018_donfunkeimg_5281_live.jpg
+Completed Image ====> 26. 14h_sep2018_donfunkeimg_5281_live.jpg
+Image URL: http://groovygreenliving.com/wp-content/uploads/2018/02/aircraft-jet-landing-cloud-46148.jpeg
+Completed Image ====> 27. aircraft-jet-landing-cloud-46148.jpeg
+Image URL: https://dz7u9q3vpd4eo.cloudfront.net/wp-content/legacy/posts/484e5297-d3e0-4897-9ab5-ebea51a317ff.jpg
+Completed Image ====> 28. 484e5297-d3e0-4897-9ab5-ebea51a317ff.jpg
+Image URL: https://www.thebalancecareers.com/thmb/Qi6OoP0P7O7jCErkncY_FOkqr60=/400x0/GettyImages-562617091-57767bdc3df78cb62c38ece6.jpg
+Completed Image ====> 29. gettyimages-562617091-57767bdc3df78cb62c38ece6.jpg
+Image URL: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/socialmedia/apple/155/airplane_2708.png
+Completed Image ====> 30. airplane_2708.png
+Image URL: https://www.rd.com/wp-content/uploads/2017/11/longest-airplane-flight-in-world-392771239-shutterstock-Alexey-Y-Petrov.jpg
+Completed Image ====> 31. longest-airplane-flight-in-world-392771239-shutterstock-alexey-y-petrov.jpg
+Image URL: https://images-na.ssl-images-amazon.com/images/I/71cPfeL6ASL._SX522_.jpg
+Completed Image ====> 32. 71cpfel6asl._sx522_.jpg
+Image URL: https://gdb.voanews.com/5CC023EE-7D66-4C5B-8C0A-A06484F396F6_w1023_r1_s.jpg
+Completed Image ====> 33. 5cc023ee-7d66-4c5b-8c0a-a06484f396f6_w1023_r1_s.jpg
+Image URL: https://cdn.britannica.com/57/93557-004-13E80176.jpg
+Completed Image ====> 34. 93557-004-13e80176.jpg
+Image URL: https://i.ytimg.com/vi/Bhac4Debrt8/maxresdefault.jpg
+Completed Image ====> 35. maxresdefault.jpg
+Image URL: http://www.yalescientific.org/wp-content/uploads/2011/02/airplane-890x395.jpg
+Completed Image ====> 36. airplane-890x395.jpg
+Image URL: https://www.healthyhearing.com/uploads/images/AirplanesEarPain.jpg
+Completed Image ====> 37. airplanesearpain.jpg
+Image URL: https://www.rd.com/wp-content/uploads/2018/09/airplane.jpg
+Completed Image ====> 38. airplane.jpg
+Image URL: https://i.cbc.ca/1.3844727.1491586989!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/air-canada.jpg
+Completed Image ====> 39. air-canada.jpg
+Image URL: https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=650031875152853
+Completed Image ====> 40. ?media_id=650031875152853.jpg
+Image URL: http://i.hurimg.com/i/hdn/75/0x0/5a893bd37152d836e08a4f09.jpg
+Completed Image ====> 41. 5a893bd37152d836e08a4f09.jpg
+Image URL: https://s2.r29static.com//bin/entry/e1d/x,80/2003179/image.jpg
+Completed Image ====> 42. image.jpg
+Image URL: https://i.ytimg.com/vi/l3RYUo5V8Tg/maxresdefault.jpg
+Completed Image ====> 43. maxresdefault.jpg
+Image URL: https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2018/08/02-honeycomb-rows-airplane-seat.jpg?itok=0YHuxVEj&fc=50,50
+Completed Image ====> 44. 02-honeycomb-rows-airplane-seat.jpg
+Image URL: https://i.kinja-img.com/gawker-media/image/upload/s--2d06YrSE--/c_scale,f_auto,fl_progressive,q_80,w_800/pfpfmuqq5ffelhlgv0ob.jpg
+Completed Image ====> 45. pfpfmuqq5ffelhlgv0ob.jpg
+Image URL: https://static.timesofisrael.com/www/uploads/2017/05/F-WWEZ_948_ATR.72-212A500_FlyFireFly_TLS_30AUG11_6097869500_cropped.jpg
+Completed Image ====> 46. f-wwez_948_atr.72-212a500_flyfirefly_tls_30aug11_6097869500_cropped.jpg
+Image URL: https://nodeassets.nbcnews.com/cdnassets/projects/2017/08/airplane-mode/planes-brands-02.jpg
+Completed Image ====> 47. planes-brands-02.jpg
+Image URL: https://www.aviationcv.com/aviation-blog/wp-content/uploads/2018/04/https_2F2Fblogs-images.forbes.com2Fgeorgekoutsakis2Ffiles2F20182F042Fsrc-2.jpg
+Completed Image ====> 48. https_2f2fblogs-images.forbes.com2fgeorgekoutsakis2ffiles2f20182f042fsrc-2.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ryanair.arp.750pix.jpg/220px-Ryanair.arp.750pix.jpg
+Completed Image ====> 49. 220px-ryanair.arp.750pix.jpg
+Image URL: https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-image.travelandleisure.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1600x1000%2Fpublic%2F1498664408%2Fblack-triangle-airplane-cabin-symbols-AIRTRIANGLE0617.jpg%3Fitok%3DZHGPYuyL&w=1000&c=sc&poi=face&q=70
+Completed Image ====> 50. image?url=https%3a%2f%2fcdn-image.travelandleisure.com%2fsites%2fdefault%2ffiles%2fstyles%2f1600x1000%2fpublic%2f1498664408%2fblack-triangle-airplane-cabin-symbols-airtriangle0617.jpg%3fitok%3dzhgpyuyl&w=1000&c=sc&poi=face&q=70.jpg
+Image URL: https://airlinegeeks.com/wp-content/uploads/2015/10/IMG_07431.jpg
+Completed Image ====> 51. img_07431.jpg
+Image URL: https://cdn.photographylife.com/wp-content/uploads/2018/02/Photographing-Airplanes-1.jpg
+Completed Image ====> 52. photographing-airplanes-1.jpg
+Image URL: https://www.gannett-cdn.com/-mm-/d21b52b6b4f2733dc921a646d3a82cac32a22a8a/c=0-26-580-352/local/-/media/2018/06/05/USATODAY/usatsports/airplane-wing-and-engine_large.jpg?width=3200&height=1680&fit=crop
+Completed Image ====> 53. airplane-wing-and-engine_large.jpg
+Image URL: https://www.kayak.co.uk/news/wp-content/uploads/sites/5/2013/12/plane_myths_big.jpg
+Completed Image ====> 54. plane_myths_big.jpg
+Image URL: https://images.unsplash.com/photo-1531642765602-5cae8bbbf285?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+Completed Image ====> 55. photo-1531642765602-5cae8bbbf285?ixlib=rb-1.2.1&ixid=eyjhchbfawqiojeymdd9&w=1000&q=80.jpg
+Image URL: https://viewfinder.expedia.com/wp-content/uploads/2017/01/airplane-etiquette-2016-study-header-1230x356.png
+Completed Image ====> 56. airplane-etiquette-2016-study-header-1230x356.png
+Image URL: https://thenypost.files.wordpress.com/2018/01/norweigan-airlines-feature.jpg?quality=90&strip=all&w=618&h=410&crop=1
+Completed Image ====> 57. norweigan-airlines-feature.jpg
+Image URL: http://static-35.sinclairstoryline.com/resources/media/1a2d7c09-bf46-42be-a906-47847f6450c9-large16x9_airplane2.jpg?1540780478984
+Completed Image ====> 58. 1a2d7c09-bf46-42be-a906-47847f6450c9-large16x9_airplane2.jpg
+Image URL: https://www.oddee.com/wp-content/uploads/_media/imgs/articles2/a100177_airplane_1-rock-in-rio.jpg
+Completed Image ====> 59. a100177_airplane_1-rock-in-rio.jpg
+Image URL: https://www.rd.com/wp-content/uploads/2017/10/the-hidden-meaning-of-the-triangle-stickers-above-your-airplane-seat-117567658-my-good-images.jpg
+Completed Image ====> 60. the-hidden-meaning-of-the-triangle-stickers-above-your-airplane-seat-117567658-my-good-images.jpg
+Image URL: https://s.yimg.com/uu/api/res/1.2/Wpk.Yjic4LMkOLq.sLEppA--~B/dz01NzYwO2g9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2018-10/55e55310-d709-11e8-a7bd-a03681a3ebb2
+Completed Image ====> 61. 55e55310-d709-11e8-a7bd-a03681a3ebb2.jpg
+Image URL: https://images.pexels.com/photos/1004584/pexels-photo-1004584.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+Completed Image ====> 62. pexels-photo-1004584.jpeg
+Image URL: https://i.kinja-img.com/gawker-media/image/upload/s--eMLJfG52--/c_scale,f_auto,fl_progressive,q_80,w_800/apbjmhpajnfzhe142udg.jpg
+Completed Image ====> 63. apbjmhpajnfzhe142udg.jpg
+Image URL: https://www.piper.com/wp-content/uploads/2017/09/JB_10655.jpg
+Completed Image ====> 64. jb_10655.jpg
+Image URL: https://amp.businessinsider.com/images/54984d346da8112564affb56-750-562.jpg
+Completed Image ====> 65. 54984d346da8112564affb56-750-562.jpg
+Image URL: https://dc-cdn.s3-ap-southeast-1.amazonaws.com/dc-Cover-fhlhnsc6h613a0kucqtkpi63g7-20160603111031.Medi.jpeg
+Completed Image ====> 66. dc-cover-fhlhnsc6h613a0kucqtkpi63g7-20160603111031.medi.jpeg
+Image URL: https://media.gettyimages.com/photos/passenger-airplane-taking-off-at-sunset-picture-id530568719
+Completed Image ====> 67. passenger-airplane-taking-off-at-sunset-picture-id530568719.jpg
+Image URL: http://www.yalescientific.org/wp-content/uploads/2011/02/airplane.jpg
+Completed Image ====> 68. airplane.jpg
+Image URL: https://timedotcom.files.wordpress.com/2017/02/187784209.jpg?quality=85
+Completed Image ====> 69. 187784209.jpg
+Image URL: https://tribwxin.files.wordpress.com/2018/10/lion-air.jpg?quality=85&strip=all&w=400&h=225&crop=1
+Completed Image ====> 70. lion-air.jpg
+Image URL: https://accelerator-origin.kkomando.com/wp-content/uploads/2018/10/article-image-devastating-damage-drones-can-inflict-on-planes-970X546.jpg
+Completed Image ====> 71. article-image-devastating-damage-drones-can-inflict-on-planes-970x546.jpg
+Image URL: https://s3-ap-southeast-1.amazonaws.com/images.marketing-interactive.com/wp-content/uploads/2018/09/18103755/Untitled-design-1.png
+Completed Image ====> 72. untitled-design-1.png
+Image URL: https://static.rogerebert.com/uploads/movie/movie_poster/airplane-1980/large_b4sAWNIbfXw4WTdc1wiVRBk2Vko.jpg
+Completed Image ====> 73. large_b4sawnibfxw4wtdc1wivrbk2vko.jpg
+Image URL: https://i.kinja-img.com/gawker-media/image/upload/s--egivNaD0--/c_scale,f_auto,fl_progressive,q_80,w_800/wavek1tkx7sx8i9tlxhx.jpg
+Completed Image ====> 74. wavek1tkx7sx8i9tlxhx.jpg
+Image URL: https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_airplane_peagreen_designs_00_1024x1024@2x.png?v=1532009995
+Completed Image ====> 75. tattly_airplane_peagreen_designs_00_1024x1024@2x.png
+Image URL: https://media3.s-nbcnews.com/j/newscms/2017_30/2085186/170726-better-airplane-226p_4bf29098ce564ccf8eaad6630f9d1f17.fit-760w.jpg
+Completed Image ====> 76. 170726-better-airplane-226p_4bf29098ce564ccf8eaad6630f9d1f17.fit-760w.jpg
+Image URL: https://cdn.shopify.com/s/files/1/1052/4162/products/xk-dhc-2-beaver-a600-580mm-22-8-wingspan-bnf-airplane-motion-rc-258627043353_large.jpg?v=1505420013
+Completed Image ====> 77. xk-dhc-2-beaver-a600-580mm-22-8-wingspan-bnf-airplane-motion-rc-258627043353_large.jpg
+Image URL: https://icdn2.digitaltrends.com/image/landing-airplane-2.jpg
+Completed Image ====> 78. landing-airplane-2.jpg
+Image URL: https://dynaimage.cdn.cnn.com/cnn/q_auto,w_900,c_fill,g_auto,h_506,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F171130154604-10-things-before-plane-takes-off-cover.jpg
+Completed Image ====> 79. http%3a%2f%2fcdn.cnn.com%2fcnnnext%2fdam%2fassets%2f171130154604-10-things-before-plane-takes-off-cover.jpg
+Image URL: https://img.freepik.com/free-vector/airplane-flying-and-leave-a-blue-dashed-trace-line_1270-248.jpg?size=338&ext=jpg
+Completed Image ====> 80. airplane-flying-and-leave-a-blue-dashed-trace-line_1270-248.jpg
+Image URL: https://assets3.thrillist.com/v1/image/2787438/size/gn-gift_guide_variable_c.jpg
+Completed Image ====> 81. gn-gift_guide_variable_c.jpg
+Image URL: https://images.unsplash.com/photo-1519666336592-e225a99dcd2f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+Completed Image ====> 82. photo-1519666336592-e225a99dcd2f?ixlib=rb-1.2.1&ixid=eyjhchbfawqiojeymdd9&w=1000&q=80.jpg
+Image URL: https://www.tripsavvy.com/thmb/7rf9ZxjusL7_iNwygRPqlCIDCfI=/350x0/filters:no_upscale():max_bytes(150000):strip_icc()/airplane-in-flight-872042016-5ab843e4ff1b780036a353aa.jpg
+Completed Image ====> 83. airplane-in-flight-872042016-5ab843e4ff1b780036a353aa.jpg
+Image URL: https://flyawaysimulation.com/media/images1/images/boeing-flight-test-airplane-787-9-fsx1.jpg
+Completed Image ====> 84. boeing-flight-test-airplane-787-9-fsx1.jpg
+Image URL: https://d3jkudlc7u70kh.cloudfront.net/airplane-fact.jpg
+Completed Image ====> 85. airplane-fact.jpg
+Image URL: https://www.rd.com/wp-content/uploads/2017/10/06_Holes_Hidden-Features-on-Airplanes-You-Had-No-Idea-Existed_672591904_Sarana-Nakarat-760x506.jpg
+Completed Image ====> 86. 06_holes_hidden-features-on-airplanes-you-had-no-idea-existed_672591904_sarana-nakarat-760x506.jpg
+Image URL: https://img.purch.com/rc/300x200/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA1Ny80MDIvb3JpZ2luYWwvYWlycGxhbmUtc3Vuc2V0LTEzMDkyNy5qcGc=
+Completed Image ====> 87. ahr0cdovl3d3dy5saxzlc2npzw5jzs5jb20vaw1hz2vzl2kvmdawlza1ny80mdivb3jpz2luywwvywlycgxhbmutc3vuc2v0ltezmdkyny5qcgc=.jpg
+Image URL: https://shawglobalnews.files.wordpress.com/2017/08/nybz331-413_2017_174249_high.jpg?quality=70&strip=all&w=720&h=480&crop=1
+Completed Image ====> 88. nybz331-413_2017_174249_high.jpg
+Image URL: https://images.pexels.com/photos/8394/flight-sky-clouds-fly.jpg?cs=srgb&dl=aeroplane-aircraft-airplane-8394.jpg&fm=jpg
+Completed Image ====> 89. flight-sky-clouds-fly.jpg
+Image URL: https://thumbs-prod.si-cdn.com/o28czwJ_vNmISHhX3C6Eeh0RaGQ=/800x600/filters:no_upscale():focal(396x179:397x180)/https://public-media.si-cdn.com/filer/66/bc/66bce2bd-5f24-4902-b8c6-de0c737292d1/airplane-over-mountains.jpg
+Completed Image ====> 90. airplane-over-mountains.jpg
+Image URL: http://www.atomaviation.com/wp-content/uploads/2018/06/surprising-airplane-facts-plane-crashes.jpg
+Completed Image ====> 91. surprising-airplane-facts-plane-crashes.jpg
+Image URL: https://media.wired.com/photos/59333474a4b3d04a471899c2/master/pass/1aviat_husky_cng_side.jpg
+Completed Image ====> 92. 1aviat_husky_cng_side.jpg
+Image URL: https://s3.amazonaws.com/s3.kywam.radio.com/styles/nts_image_cover_tall_775x425/s3/dreamstime_s_47251949.jpg?itok=QcGWZh-6&c=4ad846f4157a99e13d8978e91d2960da
+Completed Image ====> 93. dreamstime_s_47251949.jpg
+Image URL: https://www.nation.co.ke/image/view/-/4297526/highRes/1268111/-/maxw/600/-/10mgr9bz/-/aeroplane.jpg
+Completed Image ====> 94. aeroplane.jpg
+Image URL: https://timeincsecure-a.akamaihd.net/rtmp_uds/3281700261001/201804/2358/3281700261001_5772153026001_5772144233001-vs.jpg?pubId=3281700261001&videoId=5772144233001
+Completed Image ====> 95. 3281700261001_5772153026001_5772144233001-vs.jpg
+Image URL: https://timedotcom.files.wordpress.com/2017/08/ears-pop-airplanes.jpg?quality=85
+Completed Image ====> 96. ears-pop-airplanes.jpg
+Image URL: https://media.ksnt.com/nxs-ksnttv-media-us-east-1/photo/2018/04/17/southwest%20blown%20engine_1524005467870.jpg_40047165_ver1.0_640_360.jpg
+Completed Image ====> 97. southwest%20blown%20engine_1524005467870.jpg
+Image URL: https://www.smartertravel.com/uploads/2017/12/Ut_HKthATH4eww8X4yMDoxOjBzMTtyGk-1-1024x576.jpg
+Completed Image ====> 98. ut_hkthath4eww8x4ymdoxojbzmttygk-1-1024x576.jpg
+Image URL: http://mcpedl.com/wp-content/uploads/2018/06/controllable-airplane-4.jpg
+Completed Image ====> 99. controllable-airplane-4.jpg
+Image URL: https://flyhaa.com/wp-content/uploads/2015/09/airplane-courses-reward.jpg
+Completed Image ====> 100. airplane-courses-reward.jpg
+
+Errors: 0
+
+
+Everything downloaded!
+Total time taken: 41.58738589286804 Seconds
+
+Item no.: 1 --> Item name = aircraft carrier
+Evaluating...
+Starting Download...
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Principe-de-Asturias_Wasp_Forrestal_Invincible_1991_DN-ST-92-01129s.jpg/280px-Principe-de-Asturias_Wasp_Forrestal_Invincible_1991_DN-ST-92-01129s.jpg
+Completed Image ====> 1. 280px-principe-de-asturias_wasp_forrestal_invincible_1991_dn-st-92-01129s.jpg
+Image URL: https://images03.military.com/sites/default/files/styles/full/public/media/news/service/2017/05/carrier-movie-2-1200.jpg?itok=Pac0KRJa
+Completed Image ====> 2. carrier-movie-2-1200.jpg
+Image URL: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-814499970-1512412550.jpg
+Completed Image ====> 3. gettyimages-814499970-1512412550.jpg
+Image URL: https://nationalinterest.org/sites/default/files/styles/desktop__1486_x_614/public/main_images/dsgregrerr.jpg?itok=jIiXhyMr
+Completed Image ====> 4. dsgregrerr.jpg
+Image URL: https://www.armytimes.com/resizer/JTomewUBtgdBOru6u3xe0qLcroY=/1200x0/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/3VAPDSUGCVDOBN24VFXWXPT5VA.jpg
+Completed Image ====> 5. 3vapdsugcvdobn24vfxwxpt5va.jpg
+Image URL: https://cnet4.cbsistatic.com/img/rdqDUqYiRqqvbFKyqEa4RPc333w=/936x527/2015/12/22/6bcdb0b3-c416-48e8-94fb-33340d8efd75/dcs09-371-5.jpg
+Completed Image ====> 6. dcs09-371-5.jpg
+Image URL: https://nationalinterest.org/sites/default/files/styles/desktop__1486_x_614/public/main_images/kuznetsovcarrieratsea.jpg?itok=VRRcBcPH
+Completed Image ====> 7. kuznetsovcarrieratsea.jpg
+Image URL: https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=103266148668
+Completed Image ====> 8. ?media_id=103266148668.jpg
+Image URL: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-877066674-1516826047.jpg
+Completed Image ====> 9. gettyimages-877066674-1516826047.jpg
+Image URL: https://nationalinterest.org/sites/default/files/styles/desktop__1486_x_614/public/main_images/indiannavyaircraftcarrierduringseatrials.jpg?itok=BES54TQr
+Completed Image ====> 10. indiannavyaircraftcarrierduringseatrials.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/c/c6/Fleet_5_nations.jpg
+Completed Image ====> 11. fleet_5_nations.jpg
+Image URL: https://cdn.britannica.com/s:300x300/34/94834-004-A6919893.jpg
+Completed Image ====> 12. 94834-004-a6919893.jpg
+Image URL: https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F5%2F3%2F3%2F8%2F16858335-1-eng-GB%2F20181126N%20China%20carrier%20%28Reuters%29.jpg?source=nar-cms
+Completed Image ====> 13. https%3a%2f%2fs3-ap-northeast-1.amazonaws.com%2fpsh-ex-ftnikkei-3937bb4%2fimages%2f5%2f3%2f3%2f8%2f16858335-1-eng-gb%2f20181126n%20china%20carrier%20%28reuters%29.jpg
+Image URL: https://gcaptain.com/wp-content/uploads/2014/12/Uss_ranger_cv-61.jpg
+Completed Image ====> 14. uss_ranger_cv-61.jpg
+Image URL: https://i.kinja-img.com/gawker-media/image/upload/s--mYAmoXM7--/c_scale,f_auto,fl_progressive,q_80,w_800/1504813209032212036.jpg
+Completed Image ====> 15. 1504813209032212036.jpg
+Image URL: https://www.telegraph.co.uk/content/dam/news/2016/10/25/111742159_Russian_ship_2_trans_NvBQzQNjv4Bq3n7d-t5NvtQpqma80PHh6ZzrtAGtbY9irAZzJCTLKNc.jpg?imwidth=450
+Completed Image ====> 16. 111742159_russian_ship_2_trans_nvbqzqnjv4bq3n7d-t5nvtqpqma80phh6zzrtagtby9irazzjctlknc.jpg
+Image URL: https://i.ytimg.com/vi/DAx8sFALGTQ/maxresdefault.jpg
+Completed Image ====> 17. maxresdefault.jpg
+Image URL: https://i.kinja-img.com/gawker-media/image/upload/s--nZOTevrm--/c_scale,f_auto,fl_progressive,q_80,w_800/zgrnryfwt8wbri75ujhl.jpg
+Completed Image ====> 18. zgrnryfwt8wbri75ujhl.jpg
+Image URL: http://www.stephenlow.com/wp-content/uploads/air-Carrier-1.jpg
+Completed Image ====> 19. air-carrier-1.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/c/c6/Russian_aircraft_carrier_Kuznetsov.jpg
+Completed Image ====> 20. russian_aircraft_carrier_kuznetsov.jpg
+Image URL: https://image-english.vov.vn/w490/uploaded/o6gej4c09fi/2018_03_05/USS_LBPM.jpg
+Completed Image ====> 21. uss_lbpm.jpg
+Image URL: https://i.ytimg.com/vi/9VPyL32IADo/maxresdefault.jpg
+Completed Image ====> 22. maxresdefault.jpg
+Image URL: https://o.aolcdn.com/images/dims?quality=85&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F1fbd0d0dc726ae02fa7b2a19d5b38aa3%2F204899165%2Fuss-enterprise-us-navy.jpg&client=amp-blogside-v2&signature=65ac60b9a6227d492148b2fbb9c7cf772cd7fe3a
+Completed Image ====> 23. dims?quality=85&image_uri=http%3a%2f%2fo.aolcdn.com%2fhss%2fstorage%2fmidas%2f1fbd0d0dc726ae02fa7b2a19d5b38aa3%2f204899165%2fuss-enterprise-us-navy.jpg&client=amp-blogside-v2&signature=65ac60b9a6227d492148b2fbb9c7cf772cd7fe3a.jpg
+Image URL: https://amp.businessinsider.com/images/57bcb56cce38f27d328b855b-750-563.jpg
+Completed Image ====> 24. 57bcb56cce38f27d328b855b-750-563.jpg
+Image URL: https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/07/20/104598995-GettyImages-666295426.530x298.jpg?v=1500571541
+Completed Image ====> 25. 104598995-gettyimages-666295426.530x298.jpg
+Image URL: https://www.armytimes.com/resizer/tftxz_aYAk2_H21lxdLmudcnshQ=/1200x0/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/6JST6QDFPNHU7KMMM2VI3VKG6I.jpg
+Completed Image ====> 26. 6jst6qdfpnhu7kmmm2vi3vkg6i.jpg
+Image URL: https://www.royalnavy.mod.uk/-/media/royal-navy-responsive/images/news/fleet-air-arm/820/170811-pilots-practice-skills-ahead-of-hms-queen-elizabeth-arrival/170811-820-pilots-queen-elizabeth-6.jpg?mh=447&mw=980&thn=0&hash=93753E5524E2864EB032FA3BAEBD87FEA62998A8
+Completed Image ====> 27. 170811-820-pilots-queen-elizabeth-6.jpg
+Image URL: https://www.usni.org/sites/default/files/WND_Aug17.jpg
+Completed Image ====> 28. wnd_aug17.jpg
+Image URL: https://regmedia.co.uk/2013/02/05/carrier_index.jpg?x=442&y=293&crop=1
+Completed Image ====> 29. carrier_index.jpg
+Image URL: https://www.historyonthenet.com/wp-content/uploads/2017/03/1024px-USS_Nimitz_CVN-68.jpg
+Completed Image ====> 30. 1024px-uss_nimitz_cvn-68.jpg
+Image URL: https://nationalinterest.org/sites/default/files/styles/desktop__1486_x_614/public/main_images/43185260645_433d085f47_k.jpg?itok=18XNpyt7
+Completed Image ====> 31. 43185260645_433d085f47_k.jpg
+Image URL: https://s.hswstatic.com/gif/aircraft-carrier-15.jpg
+Completed Image ====> 32. aircraft-carrier-15.jpg
+Image URL: https://media.gettyimages.com/photos/aircraft-carrier-uss-ronald-reagan-leads-a-mass-formation-of-ships-picture-id112716835?s=612x612
+Completed Image ====> 33. aircraft-carrier-uss-ronald-reagan-leads-a-mass-formation-of-ships-picture-id112716835?s=612x612.jpg
+Image URL: https://news.files.bbci.co.uk/include/shorthand/39488/media/carl-vinson_gcmn6kx-mr_ntfwt2q.jpg
+Completed Image ====> 34. carl-vinson_gcmn6kx-mr_ntfwt2q.jpg
+Image URL: https://static01.nyt.com/images/2017/04/27/world/27chinacarrier3/27chinacarrier3-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+Completed Image ====> 35. 27chinacarrier3-articlelarge.jpg
+Image URL: https://www.royalnavy.mod.uk/-/media/royal-navy-responsive/images/news/ships/queen-elizabeth/170808-hms-queen-elizabeth-meets-up-with-us-carrier-group/fx170222020.jpg?mh=447&mw=980&thn=0&hash=EB449109B103F65A3E155710EBAC85B278C58691
+Completed Image ====> 36. fx170222020.jpg
+Image URL: https://nationalinterest.org/sites/default/files/styles/desktop__1486_x_614/public/main_images/hethrthrt.jpg?itok=D-OplP4i
+Completed Image ====> 37. hethrthrt.jpg
+Image URL: https://dxczjjuegupb.cloudfront.net/wp-content/uploads/2017/11/zatoplenie_avianosca-864x400_c.jpg
+Completed Image ====> 38. zatoplenie_avianosca-864x400_c.jpg
+Image URL: https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F6%2F4%2F1%2F6%2F14026146-3-eng-GB%2F0530N-China-aircraft-carrier.jpg?source=nar-cms
+Completed Image ====> 39. https%3a%2f%2fs3-ap-northeast-1.amazonaws.com%2fpsh-ex-ftnikkei-3937bb4%2fimages%2f6%2f4%2f1%2f6%2f14026146-3-eng-gb%2f0530n-china-aircraft-carrier.jpg
+Image URL: https://mediadc.brightspotcdn.com/dims4/default/cee4fb2/2147483647/strip/true/crop/5532x3804+0+0/resize/5532x3804!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F75%2F29%2F314830224586be2abe633c9b5ad1%2Freagan.JPG
+Completed Image ====> 40. ?url=https%3a%2f%2fmediadc.brightspotcdn.com%2f75%2f29%2f314830224586be2abe633c9b5ad1%2freagan.jpg.jpg
+Image URL: https://cdn2.img.sputniknews.com/images/104923/23/1049232338.jpg
+Completed Image ====> 41. 1049232338.jpg
+Image URL: https://www.rhfleet.org/sites/default/files/aircraft_showpageheader.jpg
+Completed Image ====> 42. aircraft_showpageheader.jpg
+Image URL: https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2015/09/navy-budgets-uss-ronald-reagan-2.jpg?fit=788%2C460&ssl=1
+Completed Image ====> 43. navy-budgets-uss-ronald-reagan-2.jpg
+Image URL: https://sa.kapamilya.com/absnews/abscbnnews/media/2018/news/12/12/ship.jpg
+Completed Image ====> 44. ship.jpg
+Image URL: https://media.defense.gov/2018/Mar/05/2001886416/825/780/0/180305-N-BS159-0039.JPG
+Completed Image ====> 45. 180305-n-bs159-0039.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/d/d5/Japanese_aircraft_carrier_H%C5%8Dsh%C5%8D_Tokyo_Bay.jpg
+Completed Image ====> 46. japanese_aircraft_carrier_h%c5%8dsh%c5%8d_tokyo_bay.jpg
+Image URL: https://img.washingtonpost.com/news/checkpoint/wp-content/uploads/sites/33/2017/08/nimitz-1024x732.jpg
+Completed Image ====> 47. nimitz-1024x732.jpg
+Image URL: https://www.naval-technology.com/wp-content/uploads/sites/5/2017/09/1l-Gerald-R-Ford.jpg
+Completed Image ====> 48. 1l-gerald-r-ford.jpg
+Image URL: https://2qibqm39xjt6q46gf1rwo2g1-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/12411575_web1_L-USS-Nimitz-EDH-180626.jpg
+Completed Image ====> 49. 12411575_web1_l-uss-nimitz-edh-180626.jpg
+Image URL: https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA1OC8xMjUvb3JpZ2luYWwvYWlyY3JhZnQtY2Fycmllci11c3MtZm9yZC5qcGVn
+Completed Image ====> 50. ahr0cdovl3d3dy5saxzlc2npzw5jzs5jb20vaw1hz2vzl2kvmdawlza1oc8xmjuvb3jpz2luywwvywlyy3jhznqty2fycmllci11c3mtzm9yzc5qcgvn.jpg
+Image URL: https://www.armytimes.com/resizer/WX-tc6jVjdlBY1opmkKpU8l1Tcg=/1200x0/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/4C2ZVMNFFNH43F75YTA2TT2PBE.jpg
+Completed Image ====> 51. 4c2zvmnffnh43f75yta2tt2pbe.jpg
+Image URL: https://ichef.bbci.co.uk/news/660/cpsprodpb/5D5C/production/_97400932_hi041110311.jpg
+Completed Image ====> 52. _97400932_hi041110311.jpg
+Image URL: https://media.npr.org/assets/img/2018/03/05/gettyimages-927541650-f8c2c24630b6b2281b1659b73feb764fa3e59852-s800-c85.jpg
+Completed Image ====> 53. gettyimages-927541650-f8c2c24630b6b2281b1659b73feb764fa3e59852-s800-c85.jpg
+Image URL: https://www.ainonline.com/sites/default/files/uploads/2018/06/344-qeii-aircraft-carrier-with-helos-onboard.jpg
+Completed Image ====> 54. 344-qeii-aircraft-carrier-with-helos-onboard.jpg
+Image URL: https://breakingdefense.com/wp-content/uploads/sites/3/2017/10/USS-Gerald-Ford-170408-N-WZ792-070-1024x682.jpg
+Completed Image ====> 55. uss-gerald-ford-170408-n-wz792-070-1024x682.jpg
+Image URL: https://www.armytimes.com/resizer/x8CisjS72Ge657hugcJm6CSl-n8=/1200x0/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/MALIRVP6INDMZPAXIVGX5JTR54.jpg
+Completed Image ====> 56. malirvp6indmzpaxivgx5jtr54.jpg
+Image URL: https://i.kinja-img.com/gawker-media/image/upload/s--5U8H2acU--/c_scale,f_auto,fl_progressive,q_80,w_800/ad3ffhx42kwi0neyfrub.jpg
+Completed Image ====> 57. ad3ffhx42kwi0neyfrub.jpg
+Image URL: https://www.si.edu/sites/default/files/newsdesk/press_releases/aircraftcarrier_newsletter_header.jpeg
+Completed Image ====> 58. aircraftcarrier_newsletter_header.jpeg
+Image URL: http://imagesvc.timeincapp.com/v3/foundry/image/?q=70&w=1440&url=https%3A%2F%2Ftimedotcom.files.wordpress.com%2F2018%2F02%2Fcvn78-1.jpg%3Fquality%3D85
+Completed Image ====> 59. ?q=70&w=1440&url=https%3a%2f%2ftimedotcom.files.wordpress.com%2f2018%2f02%2fcvn78-1.jpg%3fquality%3d85.jpg
+Image URL: http://static1.uk.businessinsider.com/image/5a85f8227708e92402459d5b/these-are-the-20-aircraft-carriers-in-service-today.jpg
+Completed Image ====> 60. these-are-the-20-aircraft-carriers-in-service-today.jpg
+Image URL: https://www.gao.gov/extracts/732dea6fb81002b1e842d85e41e2bdf4/rId17_image5.png
+Completed Image ====> 61. rid17_image5.png
+Image URL: https://foreignpolicymag.files.wordpress.com/2015/02/152731060liaoning.jpg?w=1506
+Completed Image ====> 62. 152731060liaoning.jpg
+Image URL: http://www.lawac.org/portals/0/travel/NAC_Ship.png
+Completed Image ====> 63. nac_ship.png
+Image URL: https://images-na.ssl-images-amazon.com/images/I/31OEDrhCHAL._SL500_AC_SS350_.jpg
+Completed Image ====> 64. 31oedrhchal._sl500_ac_ss350_.jpg
+Image URL: https://img.newatlas.com/10017_170908122214.jpg?auto=format%2Ccompress&ch=Width%2CDPR&crop=entropy&fit=crop&h=347&q=60&w=616&s=32726b5651875c7e2cdeb9209ae72061
+Completed Image ====> 65. 10017_170908122214.jpg
+Image URL: https://thumbor.forbes.com/thumbor/1280x868/https%3A%2F%2Fblogs-images.forbes.com%2Florenthompson%2Ffiles%2F2016%2F09%2FUSS-Eisenhower-640px-thumbnail.jpg
+Completed Image ====> 66. https%3a%2f%2fblogs-images.forbes.com%2florenthompson%2ffiles%2f2016%2f09%2fuss-eisenhower-640px-thumbnail.jpg
+Image URL: https://www.militaryfactory.com/ships/imgs/uss-antietam-cv36-aircraft-carrier-united-states.jpg
+Completed Image ====> 67. uss-antietam-cv36-aircraft-carrier-united-states.jpg
+Image URL: https://amp.businessinsider.com/images/56a136cbc08a80bd448b778d-750-375.jpg
+Completed Image ====> 68. 56a136cbc08a80bd448b778d-750-375.jpg
+Image URL: https://cdn.britannica.com/s:500x350/73/158773-004-537CC756.jpg
+Completed Image ====> 69. 158773-004-537cc756.jpg
+Image URL: https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F41b1a796-eafa-11e7-8850-c8e01ac6f9d5.jpg?crop=4686%2C2636%2C127%2C322&resize=685
+Completed Image ====> 70. methode%2ftimes%2fprod%2fweb%2fbin%2f41b1a796-eafa-11e7-8850-c8e01ac6f9d5.jpg
+Image URL: https://cdn.cnn.com/cnnnext/dam/assets/170704114559-03-china-aircraft-carrier-liaoning-exlarge-169.jpg
+Completed Image ====> 71. 170704114559-03-china-aircraft-carrier-liaoning-exlarge-169.jpg
+Image URL: https://ichef.bbci.co.uk/news/660/cpsprodpb/4CEE/production/_103749691_568c9bcc-9c73-49ac-a5c5-b7c1d9163aec.jpg
+Completed Image ====> 72. _103749691_568c9bcc-9c73-49ac-a5c5-b7c1d9163aec.jpg
+Image URL: https://www.lexingtoninstitute.org/wp-content/uploads/2016/11/Aircraft-Carriers-Cover-791x1024.jpg
+Completed Image ====> 73. aircraft-carriers-cover-791x1024.jpg
+Image URL: https://nationalinterest.org/sites/default/files/styles/desktop__1486_x_614/public/main_images/RTS1S0G0.jpg?itok=r0PvVOU-
+Completed Image ====> 74. rts1s0g0.jpg
+Image URL: https://i.kinja-img.com/gawker-media/image/upload/s--seRC1Mx3--/c_scale,f_auto,fl_progressive,q_80,w_800/f42sh64oj1cjdvoygewc.jpg
+Completed Image ====> 75. f42sh64oj1cjdvoygewc.jpg
+Image URL: https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/12/19/10/hms-queen-elizabeth.jpg
+Completed Image ====> 76. hms-queen-elizabeth.jpg
+Image URL: http://i2.cdn.turner.com/cnn/dam/assets/120116034601-aircraft-carrier-cars-story-top.jpg
+Completed Image ====> 77. 120116034601-aircraft-carrier-cars-story-top.jpg
+Image URL: http://static3.uk.businessinsider.com/image/5a6671317101ad3596599be8/we-toured-the-uss-gerald-r-ford-the-worlds-largest-aircraft-carrier-which-can-house-75-aircraft-but-doesnt-have-urinals.jpg
+Completed Image ====> 78. we-toured-the-uss-gerald-r-ford-the-worlds-largest-aircraft-carrier-which-can-house-75-aircraft-but-doesnt-have-urinals.jpg
+Image URL: https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2017/04/pln_type_001a_front.jpg?itok=goyUOEFe&fc=50,50
+Completed Image ====> 79. pln_type_001a_front.jpg
+Image URL: https://warontherocks.com/wp-content/uploads/2016/07/Carrier-Replenishment.jpg
+Completed Image ====> 80. carrier-replenishment.jpg
+Image URL: https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/10/25/931/524/694940094001_5624615662001_5624613870001-vs.jpg?ve=1&tl=1
+Completed Image ====> 81. 694940094001_5624615662001_5624613870001-vs.jpg
+Image URL: https://thediplomat.com/wp-content/uploads/2016/03/thediplomat_2016-03-04_05-39-23-386x256.jpg
+Completed Image ====> 82. thediplomat_2016-03-04_05-39-23-386x256.jpg
+Image URL: https://amp.businessinsider.com/images/58f8ff4c7522ca38008b4f1e-750-564.jpg
+Completed Image ====> 83. 58f8ff4c7522ca38008b4f1e-750-564.jpg
+Image URL: https://cdn.defenseone.com/media/img/upload/2018/10/04/Screen_Shot_2018-10-04_at_1.48.49_PM/defense-large.png
+Completed Image ====> 84. defense-large.png
+Image URL: https://publicradio1-wpengine.netdna-ssl.com/newscut/files/legacy/content_images/aircraft_carriers_large.jpg
+Completed Image ====> 85. aircraft_carriers_large.jpg
+Image URL: https://media.wired.com/photos/5933698e714b881cb296aba1/master/pass/130310-N-FN963-052.jpg
+Completed Image ====> 86. 130310-n-fn963-052.jpg
+Image URL: https://i.ytimg.com/vi/2tbBjbsUVC0/maxresdefault.jpg
+Completed Image ====> 87. maxresdefault.jpg
+Image URL: http://imagesvc.timeincapp.com/v3/foundry/image/?q=70&w=1440&url=https%3A%2F%2Ftimedotcom.files.wordpress.com%2F2017%2F06%2Fkahdha5261.jpg%3Fquality%3D85
+Completed Image ====> 88. ?q=70&w=1440&url=https%3a%2f%2ftimedotcom.files.wordpress.com%2f2017%2f06%2fkahdha5261.jpg%3fquality%3d85.jpg
+Image URL: http://www.navyrecognition.com/images/stories/west_europe/france/exhibition/euronaval_2018/news/France_Started_EMALS_Talks_with_U.S._for_its_future_PA_NG_Aircraft_Carrier_1.jpg
+Completed Image ====> 89. france_started_emals_talks_with_u.s._for_its_future_pa_ng_aircraft_carrier_1.jpg
+Image URL: https://thediplomat.com/wp-content/uploads/2017/01/thediplomat_2017-01-05_11-08-50-386x258.jpg
+Completed Image ====> 90. thediplomat_2017-01-05_11-08-50-386x258.jpg
+Image URL: https://www.theamericanconservative.com/wp-content/uploads/2017/03/USNavypersiangulf-554x350.jpg
+Completed Image ====> 91. usnavypersiangulf-554x350.jpg
+Image URL: https://res.cloudinary.com/engineering-com/image/upload/w_640,h_640,c_limit,q_auto,f_auto/geralrfordcarrier_d7scfq.jpg
+Completed Image ====> 92. geralrfordcarrier_d7scfq.jpg
+Image URL: https://akm-img-a-in.tosshub.com/indiatoday/images/story/201801/navy.jpeg?I6tuCXi8W2xVc95arAxOyJIQ1NFsCKwJ
+Completed Image ====> 93. navy.jpeg
+Image URL: https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/04/25/105157001-GettyImages-673112514_1.530x298.jpg?v=1524634669
+Completed Image ====> 94. 105157001-gettyimages-673112514_1.530x298.jpg
+Image URL: http://www.navalaviationmuseum.org/nnam/item_images/aircraft-carrier-models.jpg
+Completed Image ====> 95. aircraft-carrier-models.jpg
+Image URL: https://i.redd.it/g49vrl5pdwez.png
+Completed Image ====> 96. g49vrl5pdwez.png
+Image URL: https://foreignpolicymag.files.wordpress.com/2018/04/gettyimages-809966856.jpg?w=1500
+Completed Image ====> 97. gettyimages-809966856.jpg
+Image URL: https://www.baesystems.com/en-uk/download-en-uk/multimediaimage/webImage/20170830113252/1434602310423.jpg
+Completed Image ====> 98. 1434602310423.jpg
+Image URL: http://www.navair.navy.mil/img/uploads/AAGtrap.jpg
+Completed Image ====> 99. aagtrap.jpg
+Image URL: https://www.straitstimes.com/sites/default/files/articles/2017/04/11/st_20170411_xnew_3068616.jpg
+Completed Image ====> 100. st_20170411_xnew_3068616.jpg
+
+Errors: 0
+
+
+Everything downloaded!
+Total time taken: 70.94121599197388 Seconds

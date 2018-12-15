@@ -1,0 +1,14 @@
+{
+    "Records": [
+        {"keywords": "alarm clock simple",      "limit": 100, "print_urls": true},
+        {"keywords": "angel simple",            "limit": 100, "print_urls": true},
+        {"keywords": "ant simple",              "limit": 100, "print_urls": true},
+        {"keywords": "ambulance simple",        "limit": 100, "print_urls": true},
+        {"keywords": "animal migration simple", "limit": 100, "print_urls": true},
+        {"keywords": "apple simple",            "limit": 100, "print_urls": true},
+        {"keywords": "anvil simple",            "limit": 100, "print_urls": true},
+        {"keywords": "arm simple",              "limit": 100, "print_urls": true},
+        {"keywords": "airplane simple",         "limit": 100, "print_urls": true},
+        {"keywords": "aircraft carrier simple", "limit": 100, "print_urls": true}
+    ]
+}

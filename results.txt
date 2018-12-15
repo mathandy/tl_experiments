@@ -1,0 +1,69 @@
+
+Inception V3
+First 10: Final test accuracy = 85.3% (N=134707)
+100: Final test accuracy = 29.9% (N=3424)
+
+
+--- photos w/ aug on v3
+
+Epoch 00013: val_acc did not improve from 1.00000
+Epoch 14/50
+100/100 [==============================] - 85s 852ms/step - loss: 0.5126 - acc: 0.9653 - top_2_error: 0.0125 - top_3_error: 0.0038 - val_loss: 0.5037 - val_acc: 0.9688 - val_top_2_error: 0.0312 - val_top_3_error: 0.0312
+
+Epoch 00014: val_acc did not improve from 1.00000
+Epoch 00014: early stopping
+
+
+--- qd on inceptionv3-imagenet
+Epoch 00024: val_acc did not improve from 0.11100
+Epoch 25/50
+8000/8000 [==============================] - 35s 4ms/step - loss: 10.3295 - acc: 0.3579 - top_2_error: 0.3019 - top_3_error: 0.0987 - val_loss: 14.6513 - val_acc: 0.0910 - val_top_2_error: 0.0190 - val_top_3_error: 0.0000e+00
+
+Epoch 00025: val_acc did not improve from 0.11100
+Epoch 00025: early stopping
+Test Results:
+=============
+1000/1000 [==============================] - 4s 4ms/step
+loss 14.602994293212891
+acc 0.094
+top_2_error 0.014
+top_3_error 0.0
+Confusion Matrix
+Classification Report
+/home/andy/anaconda3/lib/python3.6/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+                  precision    recall  f1-score   support
+
+           angel       0.00      0.00      0.00        95
+     alarm clock       0.00      0.00      0.00       102
+           anvil       0.00      0.00      0.00        83
+             ant       0.00      0.00      0.00        97
+       ambulance       0.00      0.00      0.00       107
+             arm       0.11      0.37      0.17       106
+        airplane       0.00      0.00      0.00        96
+animal migration       0.08      0.50      0.14       109
+aircraft carrier       0.00      0.00      0.00       100
+           apple       0.00      0.00      0.00       105
+
+     avg / total       0.02      0.09      0.03      1000
+
+
+--- qd on inceptionv3-imagenet-photos
+
+
+
+
+
+
+====
+
+
+Epoch 00012: val_acc did not improve from 1.00000
+Epoch 13/47
+100/100 [==============================] - 49s 489ms/step - loss: 0.2026 - acc: 0.9684 - top_2_error: 0.0094 - top_3_error: 0.0028 - val_loss: 0.1399 - val_acc: 1.0000 - val_top_2_error: 0.0000e+00 - val_top_3_error: 0.0000e+00
+
+Epoch 00013: val_acc did not improve from 1.00000
+Epoch 14/47
+100/100 [==============================] - 50s 503ms/step - loss: 0.1841 - acc: 0.9747 - top_2_error: 0.0106 - top_3_error: 0.0044 - val_loss: 0.1281 - val_acc: 1.0000 - val_top_2_error: 0.0000e+00 - val_top_3_error: 0.0000e+00
+
+Epoch 00014: val_acc did not improve from 1.00000
