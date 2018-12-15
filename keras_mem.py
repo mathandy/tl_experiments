@@ -23,6 +23,7 @@ from keras.layers.convolutional import Convolution2D, MaxPooling2D
 import pandas as pd
 from keras.optimizers import SGD
 import os
+from math import ceil
 
 
 def top_3_error(y_true, y_pred):
@@ -276,7 +277,7 @@ def main(dataset_dir, base, model_weights, img_shape, testpart, valpart,
                                 verbose=1,
                                 callbacks=[checkpoint, early],
                                 validation_data=validation_generator,
-                                validation_steps=max(50 // batch_size, 1),
+                                validation_steps=int(ceil(50 // batch_size)),
                                 class_weight=None,
                                 max_queue_size=10,
                                 workers=3,
@@ -285,29 +286,30 @@ def main(dataset_dir, base, model_weights, img_shape, testpart, valpart,
                                 initial_epoch=top_only_epochs)
 
     # score over test data
+    print("Test Results:\n" + '='*13)
     if npy_data:
-        print("Test Results:\n" + '='*13)
-        res = model.evaluate(x=x_test,
-                             y=y_test,
-                             batch_size=batch_size,
-                             verbose=1,
-                             sample_weight=None,
-                             steps=None)
-        for metric, val in zip(model.metrics_names, res):
-            print(metric, val)
-
-        # print confusion matrix and scikit-image classification report
         y_pred = model.predict(x_test, batch_size).argmax(axis=1)
-        y_test = y_test.argmax(axis=1)
-        print('Confusion Matrix')
-        cm = pd.DataFrame(confusion_matrix(y_test, y_pred), columns=class_names)
-        cm.index = class_names
-        print('Classification Report')
-        print(classification_report(y_test, y_pred, target_names=class_names))
-        # import ipdb; ipdb.set_trace()
+        metrics = model.evaluate(x=x_test,
+                                 y=y_test,
+                                 batch_size=batch_size,
+                                 verbose=1,
+                                 sample_weight=None)
+
     else:
+        y_pred = model.predict_generator(
+            x_test, batch_size, steps=int(ceil(50 // batch_size))
+        ).argmax(axis=1)
         metrics = model.evaluate_generator(validation_generator)
-        print(metrics)
+    for metric, val in zip(model.metrics_names, metrics):
+        print(metric, val)
+
+    # print confusion matrix and scikit-image classification report
+    y_test = y_test.argmax(axis=1)
+    print('Confusion Matrix')
+    cm = pd.DataFrame(confusion_matrix(y_test, y_pred), columns=class_names)
+    cm.index = class_names
+    print('Classification Report')
+    print(classification_report(y_test, y_pred, target_names=class_names))
 
 
 if __name__ == '__main__':
@@ -381,7 +383,6 @@ if __name__ == '__main__':
         else:
             args.checkpoint_path = \
                 "%s-%s.h5" % (args.base, os.path.split(args.dataset_dir)[-1])
-
     main(dataset_dir=args.dataset_dir,
          base=args.base,
          model_weights=args.model_weights,
@@ -396,6 +397,10 @@ if __name__ == '__main__':
          top_only_stage=args.top_only_stage,
          augment=not args.no_augmentation,
          checkpoint_path=args.checkpoint_path)
+    from pprint import pprint
+    pprint(vars(args))
+
+
     from sys import argv
     # MODEL_WEIGHTS = argv[1]
     # DATASET = argv[2]
@@ -434,3 +439,4 @@ if __name__ == '__main__':
     #     batch_size = 32
     #     CLASS_NAMES = ['aircraft carrier', 'airplane',  'alarm clock', 'ambulance',
     #                    'angel',  'animal migration', 'ant', 'anvil', 'apple', 'arm']
+
