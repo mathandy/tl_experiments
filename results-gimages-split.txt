@@ -3,6 +3,4 @@
 [0m[0;32m--> 387 [0;31m    main(dataset_dir=args.dataset_dir,
 [0m[0;32m    388 [0;31m         [0mbase[0m[0;34m=[0m[0margs[0m[0;34m.[0m[0mbase[0m[0;34m,[0m[0;34m[0m[0m
 [0m
-ipdb> --KeyboardInterrupt--
-ipdb> --KeyboardInterrupt--
 ipdb> 

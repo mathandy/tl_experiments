@@ -1,5 +1,15 @@
 from time import time as current_time
 from sys import stdout
+import cv2 as cv
+
+
+def is_image(filename):
+    x = cv.imread(filename)
+    try:
+        x.shape
+    except AttributeError:
+        return False
+    return True
 
 
 class Timer:
@@ -29,3 +39,6 @@ class Timer:
         else:
             print("done (in {} seconds).".format(self.t1 - self.t0))
         stdout.flush()
+
+
+

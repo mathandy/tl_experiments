@@ -10,10 +10,9 @@ https://keras.io/applications/#fine-tune-inceptionv3-on-a-new-set-of-classes
 from keras.metrics import top_k_categorical_accuracy
 from keras.utils import to_categorical
 from keras import applications
-from keras import optimizers
 from keras.preprocessing.image import ImageDataGenerator
 from keras.models import Model
-from keras.layers import Dropout, Flatten, Dense, Activation, GlobalAveragePooling2D
+from keras.layers import Dropout, Flatten, Dense
 from keras.callbacks import ModelCheckpoint, EarlyStopping
 from load_dataset import load_split_data
 from andnn_util import Timer
@@ -56,49 +55,6 @@ def create_model_using_tinycnn(n_classes, input_shape, input_tensor=None):
     return model
 
 
-# def create_pretrained_model_old(n_classes, input_shape, input_tensor=None,
-#                             base='inceptionv3', base_weights='imagenet'):
-#
-#     # get the (headless) backbone
-#     if base == 'resnet50':
-#         pretrained_backbone = applications.resnet50.ResNet50
-#     elif base == 'vgg19':
-#         pretrained_backbone = applications.vgg19.VGG19
-#     elif base == 'inceptionv3':
-#         pretrained_backbone = applications.inception_v3.InceptionV3
-#     else:
-#         raise ValueError('`model_name = "%s"` not understood.' % base)
-#     backbone_model = pretrained_backbone(include_top=False,
-#                                          weights=base_weights,
-#                                          input_tensor=input_tensor,
-#                                          input_shape=input_shape,
-#                                          pooling=None)  # applies only to output
-#
-#     # Freeze all but last ??? layers
-#     for layer in backbone_model.layers:
-#         layer.trainable = False
-#
-#     # Adding custom Layers
-#     x = backbone_model.output
-#     x = Flatten()(x)
-#     # x = Dense(1024, activation="relu")(x)
-#     # x = Dropout(0.5)(x)
-#     # x = Dense(1024, activation="relu")(x)
-#     predictions = Dense(n_classes, activation="softmax")(x)
-#
-#     # creating the final model
-#     if input_tensor is None:
-#         model = Model(inputs=backbone_model.input, outputs=predictions)
-#     else:
-#         model = Model(inputs=input_tensor, outputs=predictions)
-#
-#     # compile the model
-#     model.compile(loss="categorical_crossentropy",
-#                   optimizer='adam',
-#                   metrics=['accuracy', top_2_error, top_3_error])
-#     return model
-
-
 def create_pretrained_model(n_classes, input_shape, input_tensor=None,
                              base='inceptionv3', base_weights='imagenet'):
 
@@ -119,7 +75,6 @@ def create_pretrained_model(n_classes, input_shape, input_tensor=None,
 
     # put the top back on the model (pooling layer is already included)
     x = base_model.output
-    # x = GlobalAveragePooling2D()(x)
     x = Dense(1024, activation='relu')(x)
     predictions = Dense(n_classes, activation="softmax")(x)
 
@@ -137,7 +92,7 @@ def create_pretrained_model(n_classes, input_shape, input_tensor=None,
 def main(dataset_dir, base, model_weights, img_shape, testpart, valpart,
          batch_size, epochs, samples_per_class, npy_data=False,
          cifar10=False, top_only_stage=False, augment=True,
-         checkpoint_path='checkpoint.h5'):
+         checkpoint_path='checkpoint.h5', test_only=False):
 
     # warn if arguments conflict
     if augment and (npy_data or cifar10):
@@ -152,9 +107,27 @@ def main(dataset_dir, base, model_weights, img_shape, testpart, valpart,
         (x_train, y_train), (x_test, y_test) = cifar10.load_data()
         y_train, y_test = to_categorical(y_train), to_categorical(y_test)
         x_val, y_val = x_test, y_test
-        img_shape = x_train.shape[1:]
+        # img_shape = x_train.shape[1:]
         class_names = ['airplane', 'automobile', 'bird', 'cat', 'deer',
                        'dog', 'frog', 'horse', 'ship', 'truck']
+
+        # resize data
+        def resize(x):
+            import numpy as np
+            import cv2 as cv
+            x_new = np.empty(shape=(x.shape[0],) + tuple(img_shape),
+                             dtype=x.dtype)
+            dsize = img_shape[:2][::-1]
+            for k in range(x.shape[0]):
+                x_new[k] = cv.resize(x[k], dsize=dsize)
+            x = x_new
+            if len(img_shape) == 3 and x.ndim == 3:  # convert to color images
+                assert img_shape[2] == 3
+                x = np.stack([x] * 3, axis=x.ndim)
+            return x
+        x_train = resize(x_train)
+        x_val = resize(x_val)
+        x_test = resize(x_test)
     elif npy_data:
         with Timer('Loading data'):
             x_train, y_train, x_val, y_val, x_test, y_test, class_names = \
@@ -196,6 +169,8 @@ def main(dataset_dir, base, model_weights, img_shape, testpart, valpart,
             batch_size=batch_size,
             class_mode='categorical',
             interpolation="lanczos")
+        _validation_steps = \
+            int(ceil(len(validation_generator.classes) / batch_size))
         class_names = [l for l in train_generator.class_indices]
 
     # create training callbacks for saving checkpoints and early stopping
@@ -227,87 +202,95 @@ def main(dataset_dir, base, model_weights, img_shape, testpart, valpart,
         model.load_weights(model_weights)
 
     # train model
-    if npy_data:
-        model.fit(x=x_train,
-                  y=y_train,
-                  batch_size=batch_size,
-                  epochs=epochs,
-                  verbose=1,
-                  callbacks=[checkpoint, early],
-                  validation_data=(x_val, y_val),
-                  shuffle=True,
-                  class_weight=None,
-                  sample_weight=None,
-                  initial_epoch=0,
-                  steps_per_epoch=None,
-                  validation_steps=None)
-    else:
-        # stage 1 fine-tuning (top only)
-        if top_only_stage:
-            top_only_epochs = 3
-            model.fit_generator(train_generator,
-                                epochs=top_only_epochs,
-                                steps_per_epoch=100,
-                                verbose=1,
-                                callbacks=[checkpoint, early],
-                                validation_data=validation_generator,
-                                validation_steps=max(50 // batch_size, 1),
-                                class_weight=None,
-                                max_queue_size=10,
-                                workers=3,
-                                use_multiprocessing=True,
-                                shuffle=True,
-                                initial_epoch=0)
+    if not test_only:
+        if npy_data or cifar10:
+            model.fit(x=x_train,
+                      y=y_train,
+                      batch_size=batch_size,
+                      epochs=epochs,
+                      verbose=1,
+                      callbacks=[checkpoint, early],
+                      validation_data=(x_val, y_val),
+                      shuffle=True,
+                      class_weight=None,
+                      sample_weight=None,
+                      initial_epoch=0,
+                      steps_per_epoch=None,
+                      validation_steps=None)
         else:
-            top_only_epochs = 0
+            # stage 1 fine-tuning (top only)
+            if top_only_stage:
+                top_only_epochs = 3
+                print("\nStage 1 training (top only)...\n")
+                model.fit_generator(train_generator,
+                                    epochs=top_only_epochs,
+                                    steps_per_epoch=100,
+                                    verbose=1,
+                                    callbacks=[checkpoint, early],
+                                    validation_data=validation_generator,
+                                    validation_steps=_validation_steps,
+                                    class_weight=None,
+                                    max_queue_size=10,
+                                    workers=2,
+                                    use_multiprocessing=True,
+                                    shuffle=True,
+                                    initial_epoch=0)
+            else:
+                top_only_epochs = 0
 
-        # stage 2 of fine-tuning (last two inception blocks top)
-        if base == 'inceptionv3':
-            for layer in model.layers[:249]:
-                layer.trainable = False
-            for layer in model.layers[249:]:
-                layer.trainable = True
-            model.compile(optimizer=SGD(lr=0.0001, momentum=0.9),
-                          loss='categorical_crossentropy',
-                          metrics=['accuracy', top_2_error, top_3_error])
-            print("\nStage 2 training...\n")
-            model.fit_generator(train_generator,
-                                epochs=epochs - top_only_epochs,
-                                steps_per_epoch=100,
-                                verbose=1,
-                                callbacks=[checkpoint, early],
-                                validation_data=validation_generator,
-                                validation_steps=int(ceil(50 // batch_size)),
-                                class_weight=None,
-                                max_queue_size=10,
-                                workers=3,
-                                use_multiprocessing=True,
-                                shuffle=True,
-                                initial_epoch=top_only_epochs)
+            # stage 2 of fine-tuning (last two inception blocks top)
+            if base == 'inceptionv3':
+                for layer in model.layers[:249]:
+                    layer.trainable = False
+                for layer in model.layers[249:]:
+                    layer.trainable = True
+                model.compile(optimizer=SGD(lr=0.0001, momentum=0.9),
+                              loss='categorical_crossentropy',
+                              metrics=['accuracy', top_2_error, top_3_error])
+                if top_only_stage:
+                    print("\nStage 2 training (last two inception "
+                          "blocks + top)...\n")
+                model.fit_generator(train_generator,
+                                    epochs=epochs - top_only_epochs,
+                                    steps_per_epoch=100,
+                                    verbose=1,
+                                    callbacks=[checkpoint, early],
+                                    validation_data=validation_generator,
+                                    validation_steps=_validation_steps,
+                                    class_weight=None,
+                                    max_queue_size=10,
+                                    workers=2,
+                                    use_multiprocessing=True,
+                                    shuffle=True,
+                                    initial_epoch=top_only_epochs)
 
     # score over test data
     print("Test Results:\n" + '='*13)
-    if npy_data:
+    if npy_data or cifar10:
         y_pred = model.predict(x_test, batch_size).argmax(axis=1)
         metrics = model.evaluate(x=x_test,
                                  y=y_test,
                                  batch_size=batch_size,
                                  verbose=1,
                                  sample_weight=None)
-
     else:
-        y_pred = model.predict_generator(
-            x_test, batch_size, steps=int(ceil(50 // batch_size))
-        ).argmax(axis=1)
-        metrics = model.evaluate_generator(validation_generator)
+        y_pred = model.predict_generator(generator=validation_generator,
+                                         steps=_validation_steps
+                                         ).argmax(axis=1)
+        metrics = model.evaluate_generator(generator=validation_generator,
+                                           steps=_validation_steps)
     for metric, val in zip(model.metrics_names, metrics):
         print(metric, val)
 
     # print confusion matrix and scikit-image classification report
-    y_test = y_test.argmax(axis=1)
-    print('Confusion Matrix')
+    if npy_data or cifar10:
+        y_test = y_test.argmax(axis=1)
+    else:
+        y_test = validation_generator.classes
     cm = pd.DataFrame(confusion_matrix(y_test, y_pred), columns=class_names)
     cm.index = class_names
+    print('Confusion Matrix')
+    print(cm)
     print('Classification Report')
     print(classification_report(y_test, y_pred, target_names=class_names))
 
@@ -348,7 +331,7 @@ if __name__ == '__main__':
         "--batch_size", default=32, type=int,
         help="Training and inference batch size.")
     parser.add_argument(
-        "--epochs", default=50, type=int,
+        "--epochs", default=100, type=int,
         help="Training epochs.")
     parser.add_argument(
         "--samples_per_class", default=10**3, type=int,
@@ -365,6 +348,10 @@ if __name__ == '__main__':
         help="Train for a few epochs on only the top of the model.")
     parser.add_argument(
         "--checkpoint_path", default=None,
+        help="Where to save the model weights.  Defaults (roughly speaking) "
+             "to '<base_model>-<dataset>.h5'.")
+    parser.add_argument(
+        "--test_only", default=False, action='store_true',
         help="Where to save the model weights.  Defaults (roughly speaking) "
              "to '<base_model>-<dataset>.h5'.")
     args = parser.parse_args()
@@ -396,7 +383,8 @@ if __name__ == '__main__':
          cifar10=_cifar10,
          top_only_stage=args.top_only_stage,
          augment=not args.no_augmentation,
-         checkpoint_path=args.checkpoint_path)
+         checkpoint_path=args.checkpoint_path,
+         test_only=args.test_only)
     from pprint import pprint
     pprint(vars(args))
 
